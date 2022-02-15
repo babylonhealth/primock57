@@ -1,0 +1,431 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 536.819977324263
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 536.819977324263
+		intervals: size = 104
+		intervals [1]:
+			xmin = 0
+			xmax = 0.94736837904576
+			text = ""
+		intervals [2]:
+			xmin = 0.94736837904576
+			xmax = 1.78947351618304
+			text = "Hello?"
+		intervals [3]:
+			xmin = 1.78947351618304
+			xmax = 4.2330836909279
+			text = ""
+		intervals [4]:
+			xmin = 4.2330836909279
+			xmax = 13.1729388538941
+			text = "Hello? I can hear you, can you hear me? <UNIN/>. Excellent, just before I go any further, can you confirm your name and your age, please?"
+		intervals [5]:
+			xmin = 13.1729388538941
+			xmax = 17.3909865350961
+			text = ""
+		intervals [6]:
+			xmin = 17.3909865350961
+			xmax = 19.9097847397756
+			text = "OK. And how can I help you Mrs Smith?"
+		intervals [7]:
+			xmin = 19.9097847397756
+			xmax = 33.669193419682
+			text = ""
+		intervals [8]:
+			xmin = 33.669193419682
+			xmax = 46.984992722974
+			text = "Right, well <UNIN/>, I, thank you for coming in, so hopefully we can help with your symptoms. Um, so you mentioned it started a few days ago. Um, so, can you tell me a bit more about that, what kind of pain it is, that you're experiencing?"
+		intervals [9]:
+			xmin = 46.984992722974
+			xmax = 58.7819938215866
+			text = ""
+		intervals [10]:
+			xmin = 58.7819938215866
+			xmax = 59.496279307835
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [11]:
+			xmin = 59.496279307835
+			xmax = 66.2256071888537
+			text = ""
+		intervals [12]:
+			xmin = 66.2256071888537
+			xmax = 75.8947870403163
+			text = "<INAUDIBLE_SPEECH/>, OK. And, and, uh, the pain in your tummy, is it, can you describe the <UNIN/>, the pain to me? Is it cramping, burning, sharp?"
+		intervals [13]:
+			xmin = 75.8947870403163
+			xmax = 85.8496814055304
+			text = ""
+		intervals [14]:
+			xmin = 85.8496814055304
+			xmax = 92.9098366182615
+			text = "Right, <UNSURE>right</UNSURE>, OK, OK. Um, fine. And, have you found yourself going to the toilet more often than normal?"
+		intervals [15]:
+			xmin = 92.9098366182615
+			xmax = 96.92487661864
+			text = ""
+		intervals [16]:
+			xmin = 96.92487661864
+			xmax = 106.691800909018
+			text = "No, OK, fine. Have you noticed any, any funny colour to your urine? So, has there been, uh, <UNIN/>, any blood in your urine? Have you noticed any other darkening of urine?"
+		intervals [17]:
+			xmin = 106.691800909018
+			xmax = 119.195569489016
+			text = ""
+		intervals [18]:
+			xmin = 119.195569489016
+			xmax = 119.962486596218
+			text = "Yes."
+		intervals [19]:
+			xmin = 119.962486596218
+			xmax = 122.2482019081
+			text = ""
+		intervals [20]:
+			xmin = 122.2482019081
+			xmax = 122.864742955434
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [21]:
+			xmin = 122.864742955434
+			xmax = 124.827149738597
+			text = ""
+		intervals [22]:
+			xmin = 124.827149738597
+			xmax = 130.563995624479
+			text = "OK, fine, OK. Um, right, let me just <UNIN/>, write a few notes down as well. Um."
+		intervals [23]:
+			xmin = 130.563995624479
+			xmax = 131.706852881354
+			text = ""
+		intervals [24]:
+			xmin = 131.706852881354
+			xmax = 141.157987446007
+			text = "<UNIN/>, and you mentioned a tummy pain, that also started a few days ago. Does the pain move anywhere else? Does it move towards the back, or towards your flank, the sides?"
+		intervals [25]:
+			xmin = 141.157987446007
+			xmax = 143.90234974049
+			text = ""
+		intervals [26]:
+			xmin = 143.90234974049
+			xmax = 149.834684504202
+			text = "No, OK, fine. With those symptoms, have you noticed any other symptoms like nausea, vomiting?"
+		intervals [27]:
+			xmin = 149.834684504202
+			xmax = 153.135438220201
+			text = ""
+		intervals [28]:
+			xmin = 153.135438220201
+			xmax = 155.6316800159
+			text = "OK. Any fevers, or temperatures?"
+		intervals [29]:
+			xmin = 155.6316800159
+			xmax = 162.99258734837
+			text = ""
+		intervals [30]:
+			xmin = 162.99258734837
+			xmax = 166.631687199075
+			text = "<UNIN/>, sorry, was there any, any fevers or temperatures? Sorry, I didn't hear you."
+		intervals [31]:
+			xmin = 166.631687199075
+			xmax = 168.203116226578
+			text = ""
+		intervals [32]:
+			xmin = 168.203116226578
+			xmax = 174.090338172329
+			text = "No fever, OK, fine, sorry. Um, OK. Um, in terms of your bowel, are your bowels working OK?"
+		intervals [33]:
+			xmin = 174.090338172329
+			xmax = 176.278309045296
+			text = ""
+		intervals [34]:
+			xmin = 176.278309045296
+			xmax = 181.917410492263
+			text = "<UNSURE>So, uh, by that I mean</UNSURE>, um, any, any diarrhoea, loose stool?"
+		intervals [35]:
+			xmin = 181.917410492263
+			xmax = 184.849742861583
+			text = ""
+		intervals [36]:
+			xmin = 184.849742861583
+			xmax = 195.15802096749
+			text = "OK, all right. And um, Jessica, sometimes we have to ask very private sensitive questions, uh, just to <UNIN/>, get a full history. Um, hope you don't mind me <UNSURE>asking</UNSURE>, but are you currently sexually active?"
+		intervals [37]:
+			xmin = 195.15802096749
+			xmax = 197.564037127267
+			text = ""
+		intervals [38]:
+			xmin = 197.564037127267
+			xmax = 200.037722513986
+			text = "<UNSURE>OK, is</UNSURE> that with a regular, partner?"
+		intervals [39]:
+			xmin = 200.037722513986
+			xmax = 206.052764110626
+			text = ""
+		intervals [40]:
+			xmin = 206.052764110626
+			xmax = 211.413669846834
+			text = "Fine, OK. Um, have you noticed any other discharge from, from down below?"
+		intervals [41]:
+			xmin = 211.413669846834
+			xmax = 215.909913238794
+			text = ""
+		intervals [42]:
+			xmin = 215.909913238794
+			xmax = 223.097888102414
+			text = "No, OK. When was your last um, uh, last STD screen? If, if ever?"
+		intervals [43]:
+			xmin = 223.097888102414
+			xmax = 228.661801519446
+			text = ""
+		intervals [44]:
+			xmin = 228.661801519446
+			xmax = 232.909924412622
+			text = "No, OK, fine. <UNSURE>And</UNSURE>, and um."
+		intervals [45]:
+			xmin = 232.909924412622
+			xmax = 233.714435534792
+			text = ""
+		intervals [46]:
+			xmin = 233.714435534792
+			xmax = 236.458797829275
+			text = "Do you use any form of contraception, at all?"
+		intervals [47]:
+			xmin = 236.458797829275
+			xmax = 238.962558427968
+			text = ""
+		intervals [48]:
+			xmin = 238.962558427968
+			xmax = 242.894891595419
+			text = "You use condoms, OK. And when was your last, period?"
+		intervals [49]:
+			xmin = 242.894891595419
+			xmax = 245.413689800098
+			text = ""
+		intervals [50]:
+			xmin = 245.413689800098
+			xmax = 249.594143466333
+			text = "Three weeks ago, OK. Is there any chance you could be pregnant perhaps?"
+		intervals [51]:
+			xmin = 249.594143466333
+			xmax = 251.263316932751
+			text = ""
+		intervals [52]:
+			xmin = 251.263316932751
+			xmax = 253.812190349404
+			text = "Is there <INAUDIBLE_SPEECH/> any chance you could be pregnant?"
+		intervals [53]:
+			xmin = 253.812190349404
+			xmax = 256.421214190005
+			text = ""
+		intervals [54]:
+			xmin = 256.421214190005
+			xmax = 264.135505263168
+			text = "No, no. <UNIN/>, it's always worth asking uh, young females like yourself, um. Uh, um, so if that obviously you are worried about the pain."
+		intervals [55]:
+			xmin = 264.135505263168
+			xmax = 277.188146461688
+			text = "Um, not getting any better, uh, then I'd always <UNIN/>, advise getting a pregnancy test, to rule out pregnancy. OK? Um, fine. So just moving on, moving on. Are you otherwise fit and well?"
+		intervals [56]:
+			xmin = 277.188146461688
+			xmax = 281.285893294995
+			text = ""
+		intervals [57]:
+			xmin = 281.285893294995
+			xmax = 285.699429854027
+			text = "And so by that I mean, do you have any other medical problems, medical <INAUDIBLE_SPEECH/>, medical history?"
+		intervals [58]:
+			xmin = 285.699429854027
+			xmax = 297.030265167045
+			text = ""
+		intervals [59]:
+			xmin = 297.030265167045
+			xmax = 300.075379581267
+			text = "OK. Do you take any regular medications?"
+		intervals [60]:
+			xmin = 300.075379581267
+			xmax = 311.473884121226
+			text = ""
+		intervals [61]:
+			xmin = 311.473884121226
+			xmax = 317.075391553225
+			text = "OK. So you've tried that and it didn't help? OK, all right. Um, do you have any allergies to any medications?"
+		intervals [62]:
+			xmin = 317.075391553225
+			xmax = 321.827274246963
+			text = ""
+		intervals [63]:
+			xmin = 321.827274246963
+			xmax = 324.18817758878
+			text = "And what happens when you take Clindamycin?"
+		intervals [64]:
+			xmin = 324.18817758878
+			xmax = 329.586677339956
+			text = ""
+		intervals [65]:
+			xmin = 329.586677339956
+			xmax = 343.646838139601
+			text = "<UNSURE>Right then</UNSURE>, OK. So it's quite a, seems like a quite severe allergy to it, is <UNIN/>, is that right? Um, OK. Fine. In terms of your family history, is there anything I should be aware of, um, related to kidneys, bladder, bowels, guts?"
+		intervals [66]:
+			xmin = 343.646838139601
+			xmax = 348.240825970476
+			text = ""
+		intervals [67]:
+			xmin = 348.240825970476
+			xmax = 353.037821482174
+			text = "OK, all right. And tell me a bit more about your home situation. Who's lives, who's at home with you?"
+		intervals [68]:
+			xmin = 353.037821482174
+			xmax = 364.458882431114
+			text = ""
+		intervals [69]:
+			xmin = 364.458882431114
+			xmax = 365.902491807728
+			text = "OK, and what <INAUDIBLE_SPEECH/>."
+		intervals [70]:
+			xmin = 365.902491807728
+			xmax = 367.519033653192
+			text = ""
+		intervals [71]:
+			xmin = 367.519033653192
+			xmax = 370.977682232055
+			text = "OK, and are you a, are you working at the moment, or are you a student?"
+		intervals [72]:
+			xmin = 370.977682232055
+			xmax = 372.368659987715
+			text = ""
+		intervals [73]:
+			xmin = 372.368659987715
+			xmax = 373.85738218229
+			text = "OK, and what are you studying?"
+		intervals [74]:
+			xmin = 373.85738218229
+			xmax = 376.338586372002
+			text = ""
+		intervals [75]:
+			xmin = 376.338586372002
+			xmax = 377.737082930655
+			text = "And how's that going?"
+		intervals [76]:
+			xmin = 377.737082930655
+			xmax = 385.113027869112
+			text = ""
+		intervals [77]:
+			xmin = 385.113027869112
+			xmax = 388.940097794654
+			text = "<INAUDIBLE_SPEECH/> <UNSURE>great</UNSURE>. Do you have any aspirations for the future, in terms of careers?"
+		intervals [78]:
+			xmin = 388.940097794654
+			xmax = 393.894988169215
+			text = ""
+		intervals [79]:
+			xmin = 393.894988169215
+			xmax = 402.676949267449
+			text = "<UNIN/>, <UNSURE>recommend</UNSURE> it, we need doctors. Um, what about smoking and alcohol? Do you drink much in the way of, <INAUDIBLE_SPEECH/>, do you, do you smoke, or do you drink much in the way of alcohol?"
+		intervals [80]:
+			xmin = 402.676949267449
+			xmax = 407.143117447436
+			text = ""
+		intervals [81]:
+			xmin = 407.143117447436
+			xmax = 416.17107
+			text = "<UNIN/>, <UNSURE>so</UNSURE> socially, OK. All right. Um, right, excellent. So, um, at this stage I <UNIN/>, I would proceed to examination."
+		intervals [82]:
+			xmin = 416.17107
+			xmax = 426.804132930576
+			text = "But um, based on your story, um, just to summarise really. So, last three days, you've been having bit of burning pain on passing urine. A bit of, crampy tummy pain lower down."
+		intervals [83]:
+			xmin = 426.804132930576
+			xmax = 433.786353106217
+			text = "Um, <UNIN/>, essentially but, but no other fevers or back pain, uh, if I, if I understand correctly."
+		intervals [84]:
+			xmin = 433.786353106217
+			xmax = 444.678688708987
+			text = "I <UNSURE>think</UNSURE> probably do have what we call a simple UTI or urinary tract infection, bladder infection, um, which can be readily treated. So, I'll give you a course of antibiotics today."
+		intervals [85]:
+			xmin = 444.678688708987
+			xmax = 454.458942290905
+			text = "Something, called either Nitrofurantoin, or Trimethoprim. Uh, and it's normally a three day course. Uh, so, one tablet, twice a day, for three days."
+		intervals [86]:
+			xmin = 454.458942290905
+			xmax = 463.152319055375
+			text = "And <UNIN/>, that <UNSURE>should</UNSURE> hopefully help your symptoms, but I also advise you to drink plenty of fluids. Let's try and flush that, you know, that infection out of your body, if you can."
+		intervals [87]:
+			xmin = 463.152319055375
+			xmax = 468.030380895975
+			text = "Um, you can try, cranberry juice, that can sometimes help with your symptoms."
+		intervals [88]:
+			xmin = 468.030380895975
+			xmax = 476.27098817868
+			text = "Um, and if you're still not better, by the end of this week, I want you to give me a call or come back and see me. And uh, we can have another look at your symptoms."
+		intervals [89]:
+			xmin = 476.27098817868
+			xmax = 477.165724936771
+			text = ""
+		intervals [90]:
+			xmin = 477.165724936771
+			xmax = 477.917604437987
+			text = "OK."
+		intervals [91]:
+			xmin = 477.917604437987
+			xmax = 482.797306782614
+			text = ""
+		intervals [92]:
+			xmin = 482.797306782614
+			xmax = 493.109087896049
+			text = "<UNSURE>Yeah</UNSURE>, yeah absolutely. And things to look out for would be, you know, if you are having kind of, high temperatures, a back pain, um just <UNIN/>, generally feeling more unwell."
+		intervals [93]:
+			xmin = 493.109087896049
+			xmax = 503.030404839892
+			text = "Uh, you know, I do <UNSURE>want you</UNSURE> give me a call back, 'cause then we do worry whether your infection may be spreading up towards your kidneys, which is something we wanna avoid. So, do, do give me a call if you're having any concerns, OK."
+		intervals [94]:
+			xmin = 503.030404839892
+			xmax = 509.789807932884
+			text = ""
+		intervals [95]:
+			xmin = 509.789807932884
+			xmax = 525.047364896049
+			text = "Yeah I mean if you can try and avoid it, I think that'd be sensible. Um, uh, <INAUDIBLE_SPEECH/> it's great that you're using barrier contraception. I <UNSURE>would</UNSURE> recommend you to continue using barrier contraception, but if you can avoid it while your symptoms clear up. That'd probably be the best for you and your boyfriend,<INAUDIBLE_SPEECH/>."
+		intervals [96]:
+			xmin = 525.047364896049
+			xmax = 525.732022362454
+			text = ""
+		intervals [97]:
+			xmin = 525.732022362454
+			xmax = 527.098090827575
+			text = "All right."
+		intervals [98]:
+			xmin = 527.098090827575
+			xmax = 528.361248932346
+			text = ""
+		intervals [99]:
+			xmin = 528.361248932346
+			xmax = 529.113128433562
+			text = "Great."
+		intervals [100]:
+			xmin = 529.113128433562
+			xmax = 530.534181401196
+			text = ""
+		intervals [101]:
+			xmin = 530.534181401196
+			xmax = 532.143204443666
+			text = "<UNSURE>Thank you</UNSURE> very much. Wish you all the best."
+		intervals [102]:
+			xmin = 532.143204443666
+			xmax = 533.203354867614
+			text = ""
+		intervals [103]:
+			xmin = 533.203354867614
+			xmax = 534.233430079588
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [104]:
+			xmin = 534.233430079588
+			xmax = 536.819977324263
+			text = ""
+

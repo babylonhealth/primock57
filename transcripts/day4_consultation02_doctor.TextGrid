@@ -1,0 +1,635 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 504.059977324263
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 504.059977324263
+		intervals: size = 155
+		intervals [1]:
+			xmin = 0
+			xmax = 2.16547322914094
+			text = "You have to do it, part of your training as a doctor."
+		intervals [2]:
+			xmin = 2.16547322914094
+			xmax = 3.82849918479466
+			text = ""
+		intervals [3]:
+			xmin = 3.82849918479466
+			xmax = 4.68346133098135
+			text = "Hi."
+		intervals [4]:
+			xmin = 4.68346133098135
+			xmax = 5.68346133098135
+			text = ""
+		intervals [5]:
+			xmin = 5.68346133098135
+			xmax = 7.28778078312851
+			text = "Hi. Can you hear me?"
+		intervals [6]:
+			xmin = 7.28778078312851
+			xmax = 8.52590497437967
+			text = ""
+		intervals [7]:
+			xmin = 8.52590497437967
+			xmax = 15.8122790325717
+			text = "Hi. My name's Doctor <UNSURE>Gohill</UNSURE>, I'm one of the general practitioners, that works here. Can I check your name and date of birth please?"
+		intervals [8]:
+			xmin = 15.8122790325717
+			xmax = 20.5717544790966
+			text = ""
+		intervals [9]:
+			xmin = 20.5717544790966
+			xmax = 21.3198466277366
+			text = "Hi."
+		intervals [10]:
+			xmin = 21.3198466277366
+			xmax = 31.439225678686
+			text = ""
+		intervals [11]:
+			xmin = 31.439225678686
+			xmax = 32.2636535398594
+			text = "Great."
+		intervals [12]:
+			xmin = 32.2636535398594
+			xmax = 33.8491339864284
+			text = ""
+		intervals [13]:
+			xmin = 33.8491339864284
+			xmax = 37.4071675700659
+			text = "And Patrick, are you in a, space, that's private and quiet?"
+		intervals [14]:
+			xmin = 37.4071675700659
+			xmax = 38.1086678687575
+			text = ""
+		intervals [15]:
+			xmin = 38.1086678687575
+			xmax = 39.7914957118571
+			text = "Great, and so, we're OK to chat?"
+		intervals [16]:
+			xmin = 39.7914957118571
+			xmax = 41.7684341996022
+			text = ""
+		intervals [17]:
+			xmin = 41.7684341996022
+			xmax = 47.4565260071509
+			text = "OK. So it says here, um, you are feeling hot, and have had severe headaches. Is that correct?"
+		intervals [18]:
+			xmin = 47.4565260071509
+			xmax = 70.1546882101745
+			text = ""
+		intervals [19]:
+			xmin = 70.1546882101745
+			xmax = 71.0237652288991
+			text = "OK."
+		intervals [20]:
+			xmin = 71.0237652288991
+			xmax = 78.491530302344
+			text = ""
+		intervals [21]:
+			xmin = 78.491530302344
+			xmax = 79.3312253060241
+			text = "OK."
+		intervals [22]:
+			xmin = 79.3312253060241
+			xmax = 83.3404648624663
+			text = ""
+		intervals [23]:
+			xmin = 83.3404648624663
+			xmax = 84.120039
+			text = "OK."
+		intervals [24]:
+			xmin = 84.120039
+			xmax = 84.5287356801164
+			text = ""
+		intervals [25]:
+			xmin = 84.5287356801164
+			xmax = 88.4327493730911
+			text = "So, those are lots of things. Are they all happening at the same time?"
+		intervals [26]:
+			xmin = 88.4327493730911
+			xmax = 93.6579301928041
+			text = ""
+		intervals [27]:
+			xmin = 93.6579301928041
+			xmax = 98.6970533906543
+			text = "And, do they all happen at the same time? Or is it one thing one time, and one <INAUDIBLE_SPEECH/>?"
+		intervals [28]:
+			xmin = 98.6970533906543
+			xmax = 99.7686649701475
+			text = ""
+		intervals [29]:
+			xmin = 99.7686649701475
+			xmax = 106.987215471182
+			text = "OK. So, let's <UNSURE>start</UNSURE> with the headaches. When they do come, do you have any idea the headache is going to come?"
+		intervals [30]:
+			xmin = 106.987215471182
+			xmax = 113.660642868686
+			text = ""
+		intervals [31]:
+			xmin = 113.660642868686
+			xmax = 114.934687902849
+			text = "So, it's normally at work?"
+		intervals [32]:
+			xmin = 114.934687902849
+			xmax = 117.882357262901
+			text = ""
+		intervals [33]:
+			xmin = 117.882357262901
+			xmax = 123.243631462372
+			text = "OK. And, where does the headache sit in your head? <UNSURE>Is it</UNSURE> the front, or the back?"
+		intervals [34]:
+			xmin = 123.243631462372
+			xmax = 128.134634788448
+			text = ""
+		intervals [35]:
+			xmin = 128.134634788448
+			xmax = 132.400895068302
+			text = "<INAUDIBLE_SPEECH/>. OK. And, does it <INAUDIBLE_SPEECH/> else?"
+		intervals [36]:
+			xmin = 132.400895068302
+			xmax = 134.08385477292
+			text = ""
+		intervals [37]:
+			xmin = 134.08385477292
+			xmax = 135.485308451869
+			text = "Does it go anywhere else?"
+		intervals [38]:
+			xmin = 135.485308451869
+			xmax = 141.686275489206
+			text = ""
+		intervals [39]:
+			xmin = 141.686275489206
+			xmax = 146.379194701707
+			text = "And, when you have the headaches, specifically, do you <UNSURE>feel</UNSURE> sick?"
+		intervals [40]:
+			xmin = 146.379194701707
+			xmax = 155.994369310925
+			text = ""
+		intervals [41]:
+			xmin = 155.994369310925
+			xmax = 156.885468459287
+			text = "OK."
+		intervals [42]:
+			xmin = 156.885468459287
+			xmax = 168.218757919264
+			text = ""
+		intervals [43]:
+			xmin = 168.218757919264
+			xmax = 169.109173
+			text = "OK."
+		intervals [44]:
+			xmin = 169.109173
+			xmax = 169.56175646832
+			text = ""
+		intervals [45]:
+			xmin = 169.56175646832
+			xmax = 173.427360693609
+			text = "And, do you normally get headaches, before all of this started?"
+		intervals [46]:
+			xmin = 173.427360693609
+			xmax = 178.143339252611
+			text = ""
+		intervals [47]:
+			xmin = 178.143339252611
+			xmax = 178.746393547437
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [48]:
+			xmin = 178.746393547437
+			xmax = 180.623159498184
+			text = ""
+		intervals [49]:
+			xmin = 180.623159498184
+			xmax = 181.233847364265
+			text = "OK."
+		intervals [50]:
+			xmin = 181.233847364265
+			xmax = 183.177558288047
+			text = ""
+		intervals [51]:
+			xmin = 183.177558288047
+			xmax = 184.112428009839
+			text = "And then let's."
+		intervals [52]:
+			xmin = 184.112428009839
+			xmax = 186.866291123762
+			text = ""
+		intervals [53]:
+			xmin = 186.866291123762
+			xmax = 189.698693384057
+			text = "OK. So, talk to me about your job, what do you do?"
+		intervals [54]:
+			xmin = 189.698693384057
+			xmax = 191.530536491406
+			text = ""
+		intervals [55]:
+			xmin = 191.530536491406
+			xmax = 194.638957113373
+			text = "And, do you work in London at the moment?"
+		intervals [56]:
+			xmin = 194.638957113373
+			xmax = 196.036507716822
+			text = ""
+		intervals [57]:
+			xmin = 196.036507716822
+			xmax = 199.097038530595
+			text = "So, do you get these headaches on your commute in to work?"
+		intervals [58]:
+			xmin = 199.097038530595
+			xmax = 204.971792858129
+			text = ""
+		intervals [59]:
+			xmin = 204.971792858129
+			xmax = 211.043925294865
+			text = "OK, and tell me about what you do. Do you sit in front of a computer most of the time? Or do you speak to people?"
+		intervals [60]:
+			xmin = 211.043925294865
+			xmax = 214.691420037605
+			text = ""
+		intervals [61]:
+			xmin = 214.691420037605
+			xmax = 215.691420037605
+			text = "OK."
+		intervals [62]:
+			xmin = 215.691420037605
+			xmax = 216.979191205294
+			text = ""
+		intervals [63]:
+			xmin = 216.979191205294
+			xmax = 220.669851623187
+			text = "And, these things have happened mostly when you're sitting at your computer?"
+		intervals [64]:
+			xmin = 220.669851623187
+			xmax = 229.52128036806
+			text = ""
+		intervals [65]:
+			xmin = 229.52128036806
+			xmax = 232.52837618306
+			text = "OK, and tell me, what did you do, before being a lawyer?"
+		intervals [66]:
+			xmin = 232.52837618306
+			xmax = 236.900239137326
+			text = ""
+		intervals [67]:
+			xmin = 236.900239137326
+			xmax = 237.486868444242
+			text = "OK."
+		intervals [68]:
+			xmin = 237.486868444242
+			xmax = 238.211488289237
+			text = ""
+		intervals [69]:
+			xmin = 238.211488289237
+			xmax = 248.708466077023
+			text = "So, talk to me about the stress that you're under at the moment. If, uh, ten out of ten is, extremely stressful, and one out of ten is being on vacation. Where <UNSURE>would</UNSURE> <INAUDIBLE_SPEECH/> moment?"
+		intervals [70]:
+			xmin = 248.708466077023
+			xmax = 251.590069048294
+			text = ""
+		intervals [71]:
+			xmin = 251.590069048294
+			xmax = 253.106357508473
+			text = "And, is that normal for you?"
+		intervals [72]:
+			xmin = 253.106357508473
+			xmax = 258.736175131043
+			text = ""
+		intervals [73]:
+			xmin = 258.736175131043
+			xmax = 259.49252586583
+			text = "OK."
+		intervals [74]:
+			xmin = 259.49252586583
+			xmax = 260.265329426222
+			text = ""
+		intervals [75]:
+			xmin = 260.265329426222
+			xmax = 266.153228
+			text = "So, you mentioned your headaches. You also mentioned your reduced appetite. So, you don't want to eat as much."
+		intervals [76]:
+			xmin = 266.153228
+			xmax = 266.908057224555
+			text = ""
+		intervals [77]:
+			xmin = 266.908057224555
+			xmax = 268.213729298437
+			text = "Have you lost weight?"
+		intervals [78]:
+			xmin = 268.213729298437
+			xmax = 270.541264692142
+			text = ""
+		intervals [79]:
+			xmin = 270.541264692142
+			xmax = 272.422812302512
+			text = "Can you remember how much you've lost?"
+		intervals [80]:
+			xmin = 272.422812302512
+			xmax = 275.882924573825
+			text = ""
+		intervals [81]:
+			xmin = 275.882924573825
+			xmax = 279.408008490665
+			text = "And, is that because you're going to the gym? Or is that unintentional?"
+		intervals [82]:
+			xmin = 279.408008490665
+			xmax = 280.714561137349
+			text = ""
+		intervals [83]:
+			xmin = 280.714561137349
+			xmax = 284.653672596696
+			text = "OK. So, have you noticed your clothes feeling looser?"
+		intervals [84]:
+			xmin = 284.653672596696
+			xmax = 289.021142630352
+			text = ""
+		intervals [85]:
+			xmin = 289.021142630352
+			xmax = 292.051412844958
+			text = "And, have people said, or commented that you've lost weight?"
+		intervals [86]:
+			xmin = 292.051412844958
+			xmax = 294.796216431813
+			text = ""
+		intervals [87]:
+			xmin = 294.796216431813
+			xmax = 300.238492950274
+			text = "<UNSURE>Great</UNSURE>. And, another thing that you also mentioned. Is that you noticed tingling in your hand."
+		intervals [88]:
+			xmin = 300.238492950274
+			xmax = 301.454321326041
+			text = ""
+		intervals [89]:
+			xmin = 301.454321326041
+			xmax = 304.555050850172
+			text = "So, talk to me about that. Is it in one hand? Or both hands?"
+		intervals [90]:
+			xmin = 304.555050850172
+			xmax = 306.411883051954
+			text = ""
+		intervals [91]:
+			xmin = 306.411883051954
+			xmax = 308.610857530904
+			text = "And, do you get that in your legs as well?"
+		intervals [92]:
+			xmin = 308.610857530904
+			xmax = 311.247307637814
+			text = ""
+		intervals [93]:
+			xmin = 311.247307637814
+			xmax = 313.271862247907
+			text = "And, what does it feel like, the tingling?"
+		intervals [94]:
+			xmin = 313.271862247907
+			xmax = 318.737860537668
+			text = ""
+		intervals [95]:
+			xmin = 318.737860537668
+			xmax = 321.591075131049
+			text = "And again, is this the first time you've noticed this?"
+		intervals [96]:
+			xmin = 321.591075131049
+			xmax = 323.747704992386
+			text = ""
+		intervals [97]:
+			xmin = 323.747704992386
+			xmax = 324.526331426039
+			text = "OK."
+		intervals [98]:
+			xmin = 324.526331426039
+			xmax = 325.655828451499
+			text = ""
+		intervals [99]:
+			xmin = 325.655828451499
+			xmax = 331.141583009538
+			text = "And the other two things that I've just, jotted down. Is, you're feeling hot, but you didn't mention that."
+		intervals [100]:
+			xmin = 331.141583009538
+			xmax = 331.704690967067
+			text = ""
+		intervals [101]:
+			xmin = 331.704690967067
+			xmax = 332.842908556815
+			text = "Is that <UNSURE>correct</UNSURE>?"
+		intervals [102]:
+			xmin = 332.842908556815
+			xmax = 341.13142635645
+			text = ""
+		intervals [103]:
+			xmin = 341.13142635645
+			xmax = 341.85661779133
+			text = "OK."
+		intervals [104]:
+			xmin = 341.85661779133
+			xmax = 346.752950148722
+			text = ""
+		intervals [105]:
+			xmin = 346.752950148722
+			xmax = 350.238656412744
+			text = "Yes. So, do you feel short of breath while you're sitting at your desk?"
+		intervals [106]:
+			xmin = 350.238656412744
+			xmax = 352.245855499656
+			text = ""
+		intervals [107]:
+			xmin = 352.245855499656
+			xmax = 357.073212029921
+			text = "<UNIN/>. OK. And, how about when you're exercising?"
+		intervals [108]:
+			xmin = 357.073212029921
+			xmax = 359.142631956828
+			text = ""
+		intervals [109]:
+			xmin = 359.142631956828
+			xmax = 359.847530440665
+			text = "OK."
+		intervals [110]:
+			xmin = 359.847530440665
+			xmax = 360.411761846986
+			text = ""
+		intervals [111]:
+			xmin = 360.411761846986
+			xmax = 364.972520967548
+			text = "And the last thing is. You mentioned that you noticed your heart beating?"
+		intervals [112]:
+			xmin = 364.972520967548
+			xmax = 366.518681287882
+			text = ""
+		intervals [113]:
+			xmin = 366.518681287882
+			xmax = 368.458661715911
+			text = "Again, how often do you get that?"
+		intervals [114]:
+			xmin = 368.458661715911
+			xmax = 382.30055815367
+			text = ""
+		intervals [115]:
+			xmin = 382.30055815367
+			xmax = 385.448903800148
+			text = "OK. How long has that been happening for?"
+		intervals [116]:
+			xmin = 385.448903800148
+			xmax = 392.028971174368
+			text = ""
+		intervals [117]:
+			xmin = 392.028971174368
+			xmax = 397.490360384254
+			text = "Fine. And, apart from all of these things that you've told me. Do you have any other medical problems?"
+		intervals [118]:
+			xmin = 397.490360384254
+			xmax = 402.340560101697
+			text = ""
+		intervals [119]:
+			xmin = 402.340560101697
+			xmax = 405.08048092283
+			text = "OK. And, do you take medications for that?"
+		intervals [120]:
+			xmin = 405.08048092283
+			xmax = 407.537787027841
+			text = ""
+		intervals [121]:
+			xmin = 407.537787027841
+			xmax = 410.072969854367
+			text = "And, are you remembering to take your medications?"
+		intervals [122]:
+			xmin = 410.072969854367
+			xmax = 411.382763151694
+			text = ""
+		intervals [123]:
+			xmin = 411.382763151694
+			xmax = 413.9511160156
+			text = "OK. And, do you drink or smoke?"
+		intervals [124]:
+			xmin = 413.9511160156
+			xmax = 415.341637946071
+			text = ""
+		intervals [125]:
+			xmin = 415.341637946071
+			xmax = 416.713709609976
+			text = "How much do you drink?"
+		intervals [126]:
+			xmin = 416.713709609976
+			xmax = 420.79286110425
+			text = ""
+		intervals [127]:
+			xmin = 420.79286110425
+			xmax = 422.627397490548
+			text = "<UNSURE>OK</UNSURE>. And, how about smoking?"
+		intervals [128]:
+			xmin = 422.627397490548
+			xmax = 424.951144861918
+			text = ""
+		intervals [129]:
+			xmin = 424.951144861918
+			xmax = 431.303688580936
+			text = "And, uh, I need to ask this to all of my patients, but do you do anything else recreational, in terms of drugs?"
+		intervals [130]:
+			xmin = 431.303688580936
+			xmax = 435.613057009361
+			text = ""
+		intervals [131]:
+			xmin = 435.613057009361
+			xmax = 438.886449234105
+			text = "OK. So, you've never taken cocaine, or marijuana?"
+		intervals [132]:
+			xmin = 438.886449234105
+			xmax = 440.375660219176
+			text = ""
+		intervals [133]:
+			xmin = 440.375660219176
+			xmax = 443.375669834616
+			text = "OK, thank you. And, are you allergic to anything?"
+		intervals [134]:
+			xmin = 443.375669834616
+			xmax = 446.096694123588
+			text = ""
+		intervals [135]:
+			xmin = 446.096694123588
+			xmax = 453.291955862253
+			text = "Good. So, you've told me lots of things happening to you at the moment, and I can understand, they probably feel quite strange and unusual."
+		intervals [136]:
+			xmin = 453.291955862253
+			xmax = 454.320693188382
+			text = ""
+		intervals [137]:
+			xmin = 454.320693188382
+			xmax = 459.972644
+			text = "Um, I think the best course of action is, you come and see, one of our doctors, in the clinic."
+		intervals [138]:
+			xmin = 459.972644
+			xmax = 460.231741155321
+			text = ""
+		intervals [139]:
+			xmin = 460.231741155321
+			xmax = 465.200394576027
+			text = "<UNSURE>We</UNSURE> can give you an examination, and what that means is, we check your heart and your breathing."
+		intervals [140]:
+			xmin = 465.200394576027
+			xmax = 465.615038997479
+			text = ""
+		intervals [141]:
+			xmin = 465.615038997479
+			xmax = 468.512471716821
+			text = "Make sure that those things are functioning correctly."
+		intervals [142]:
+			xmin = 468.512471716821
+			xmax = 472.013827
+			text = "And probably do some blood tests, for your <UNSURE>thyroxine</UNSURE>."
+		intervals [143]:
+			xmin = 472.013827
+			xmax = 472.928917492993
+			text = ""
+		intervals [144]:
+			xmin = 472.928917492993
+			xmax = 475.17014212658
+			text = "And take it from there. How does that sound?"
+		intervals [145]:
+			xmin = 475.17014212658
+			xmax = 477.347036949437
+			text = ""
+		intervals [146]:
+			xmin = 477.347036949437
+			xmax = 481.166949008346
+			text = "I think before we give you any medications, we should see you in person."
+		intervals [147]:
+			xmin = 481.166949008346
+			xmax = 482.101218318895
+			text = ""
+		intervals [148]:
+			xmin = 482.101218318895
+			xmax = 490.24412357722
+			text = "So, <UNSURE>what we're</UNSURE> going to do is book an appointment. Or I think you can book an appointment through the app, to come and <UNSURE>see us</UNSURE> <INAUDIBLE_SPEECH/> clinic, and see one of my colleagues."
+		intervals [149]:
+			xmin = 490.24412357722
+			xmax = 491.120988885918
+			text = ""
+		intervals [150]:
+			xmin = 491.120988885918
+			xmax = 495.177862236793
+			text = "I'll let them know what you've told me today, so you won't have to repeat exactly what you've said."
+		intervals [151]:
+			xmin = 495.177862236793
+			xmax = 496.46942142694
+			text = ""
+		intervals [152]:
+			xmin = 496.46942142694
+			xmax = 499.109717082768
+			text = "Great. Do you have any questions?"
+		intervals [153]:
+			xmin = 499.109717082768
+			xmax = 500.620345299202
+			text = ""
+		intervals [154]:
+			xmin = 500.620345299202
+			xmax = 501.656208615531
+			text = "Thank you very much."
+		intervals [155]:
+			xmin = 501.656208615531
+			xmax = 504.059977324263
+			text = ""
+

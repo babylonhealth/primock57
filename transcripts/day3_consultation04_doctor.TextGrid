@@ -1,0 +1,399 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 433.02
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 433.02
+		intervals: size = 96
+		intervals [1]:
+			xmin = 0
+			xmax = 2.77034651198958
+			text = ""
+		intervals [2]:
+			xmin = 2.77034651198958
+			xmax = 12.7131095816159
+			text = "Hi, hello. I'm Doctor Jacob and welcome to Babylon. Hello. Hi. So just before we start, is it alright if you could confirm your name for me please?"
+		intervals [3]:
+			xmin = 12.7131095816159
+			xmax = 13.0906939626856
+			text = ""
+		intervals [4]:
+			xmin = 13.0906939626856
+			xmax = 17.5251231101512
+			text = "<INAUDIBLE_SPEECH/>. And your date of birth?"
+		intervals [5]:
+			xmin = 17.5251231101512
+			xmax = 18.8818376723008
+			text = ""
+		intervals [6]:
+			xmin = 18.8818376723008
+			xmax = 20.6867702352281
+			text = "And your address for me please?"
+		intervals [7]:
+			xmin = 20.6867702352281
+			xmax = 24.2101460200321
+			text = ""
+		intervals [8]:
+			xmin = 24.2101460200321
+			xmax = 30.0286891510218
+			text = "That's correct. And just to confirm that you're in a secure location, and we can have a confidential conversation."
+		intervals [9]:
+			xmin = 30.0286891510218
+			xmax = 31.4028451425333
+			text = ""
+		intervals [10]:
+			xmin = 31.4028451425333
+			xmax = 39.4211226612304
+			text = "OK. So you've mentioned in <UNIN/> in our notes that you've got some tightness. If you'd like to tell me a bit more about it please."
+		intervals [11]:
+			xmin = 39.4211226612304
+			xmax = 59.296744955971
+			text = ""
+		intervals [12]:
+			xmin = 59.296744955971
+			xmax = 61.5682701156033
+			text = "<UNIN/>. <UNSURE>OK</UNSURE>."
+		intervals [13]:
+			xmin = 61.5682701156033
+			xmax = 67.0233993691472
+			text = ""
+		intervals [14]:
+			xmin = 67.0233993691472
+			xmax = 74.1443643591833
+			text = "Wheezing and coughing, OK. And you've mentioned you're using the blue inhaler. So, how often are you using the blue inhaler?"
+		intervals [15]:
+			xmin = 74.1443643591833
+			xmax = 77.8548464594729
+			text = ""
+		intervals [16]:
+			xmin = 77.8548464594729
+			xmax = 84.2503402726106
+			text = "Yeah. So, um, at the moment you are having shortness of breath. So, are you using it every day at the moment?"
+		intervals [17]:
+			xmin = 84.2503402726106
+			xmax = 89.1944683205237
+			text = ""
+		intervals [18]:
+			xmin = 89.1944683205237
+			xmax = 93.2734238382635
+			text = "OK, and um what, which colour? What's the name of your preventor?"
+		intervals [19]:
+			xmin = 93.2734238382635
+			xmax = 101.622211987733
+			text = ""
+		intervals [20]:
+			xmin = 101.622211987733
+			xmax = 102.276719590536
+			text = "Yeah."
+		intervals [21]:
+			xmin = 102.276719590536
+			xmax = 105.304189215053
+			text = ""
+		intervals [22]:
+			xmin = 105.304189215053
+			xmax = 108.784936380352
+			text = "OK. So could you repeat that? <INAUDIBLE_SPEECH/>"
+		intervals [23]:
+			xmin = 108.784936380352
+			xmax = 112.957318309311
+			text = ""
+		intervals [24]:
+			xmin = 112.957318309311
+			xmax = 116.278266175446
+			text = "And hydrocortisone. So you'd have eczema also, yeah?"
+		intervals [25]:
+			xmin = 116.278266175446
+			xmax = 118.832330609043
+			text = ""
+		intervals [26]:
+			xmin = 118.832330609043
+			xmax = 120.990868101915
+			text = "You do have a history of eczema, <UNIN/>?"
+		intervals [27]:
+			xmin = 120.990868101915
+			xmax = 131.042777870078
+			text = ""
+		intervals [28]:
+			xmin = 131.042777870078
+			xmax = 141.323319488287
+			text = "OK, right. So coming back to your, um, you know your shortness of breath. You've mentioned you're wheezy, and you're coughing. Are you bringing up any phlegm at all?"
+		intervals [29]:
+			xmin = 141.323319488287
+			xmax = 145.499461018716
+			text = ""
+		intervals [30]:
+			xmin = 145.499461018716
+			xmax = 147.52702735834
+			text = "OK, no sputum, OK."
+		intervals [31]:
+			xmin = 147.52702735834
+			xmax = 148.380488082057
+			text = ""
+		intervals [32]:
+			xmin = 148.380488082057
+			xmax = 156.892265187741
+			text = "Right <UNIN/>. And um, how are you using your, um, your <UNIN/>? So are you using it every day?"
+		intervals [33]:
+			xmin = 156.892265187741
+			xmax = 162.560337916181
+			text = ""
+		intervals [34]:
+			xmin = 162.560337916181
+			xmax = 165.725302724084
+			text = "So, how are you using the <UNIN/>? Is it twice a day?"
+		intervals [35]:
+			xmin = 165.725302724084
+			xmax = 167.562235071369
+			text = ""
+		intervals [36]:
+			xmin = 167.562235071369
+			xmax = 168.189367951223
+			text = "<UNSURE>twice</UNSURE>"
+		intervals [37]:
+			xmin = 168.189367951223
+			xmax = 168.728829025659
+			text = ""
+		intervals [38]:
+			xmin = 168.728829025659
+			xmax = 175.426875915852
+			text = "OK. And have you ever been admitted in hospital because your <UNIN/> was so bad?"
+		intervals [39]:
+			xmin = 175.426875915852
+			xmax = 179.259334742756
+			text = ""
+		intervals [40]:
+			xmin = 179.259334742756
+			xmax = 180.192187298296
+			text = "OK."
+		intervals [41]:
+			xmin = 180.192187298296
+			xmax = 180.805767390663
+			text = ""
+		intervals [42]:
+			xmin = 180.805767390663
+			xmax = 183.955409899211
+			text = "<UNSURE>Righty-ho</UNSURE>. When was the last time you had an asthma attack?"
+		intervals [43]:
+			xmin = 183.955409899211
+			xmax = 187.888587782437
+			text = ""
+		intervals [44]:
+			xmin = 187.888587782437
+			xmax = 192.261361378554
+			text = "Three to four years ago. And what, what did the GP do at that time?"
+		intervals [45]:
+			xmin = 192.261361378554
+			xmax = 199.192620176037
+			text = ""
+		intervals [46]:
+			xmin = 199.192620176037
+			xmax = 204.028170127928
+			text = "OK. So you didn't have any <UNIN/> oral steroids or antibiotics?"
+		intervals [47]:
+			xmin = 204.028170127928
+			xmax = 205.243996677189
+			text = ""
+		intervals [48]:
+			xmin = 205.243996677189
+			xmax = 211.64483322763
+			text = "OK. Um, OK. Right, <UNIN/> have you ever had oral steroids in the past?"
+		intervals [49]:
+			xmin = 211.64483322763
+			xmax = 214.61022625602
+			text = ""
+		intervals [50]:
+			xmin = 214.61022625602
+			xmax = 218.527149369498
+			text = "When was the last time you had an asthma review with our nurse?"
+		intervals [51]:
+			xmin = 218.527149369498
+			xmax = 220.913018773883
+			text = ""
+		intervals [52]:
+			xmin = 220.913018773883
+			xmax = 222.86265559063
+			text = "OK. Two years ago."
+		intervals [53]:
+			xmin = 222.86265559063
+			xmax = 223.86265559063
+			text = ""
+		intervals [54]:
+			xmin = 223.86265559063
+			xmax = 228.200772885862
+			text = "OK. But, your asthma was pretty under control till, till now, isn't it?"
+		intervals [55]:
+			xmin = 228.200772885862
+			xmax = 229.571932524088
+			text = ""
+		intervals [56]:
+			xmin = 229.571932524088
+			xmax = 237.689652493404
+			text = "Yes. So do you do a peak flow meter <UNSURE>at home</UNSURE>? Peak flow reading? Where you blow into, you know"
+		intervals [57]:
+			xmin = 237.689652493404
+			xmax = 238.755263236118
+			text = ""
+		intervals [58]:
+			xmin = 238.755263236118
+			xmax = 239.995425341906
+			text = "Do you do that? No?"
+		intervals [59]:
+			xmin = 239.995425341906
+			xmax = 246.442000144056
+			text = ""
+		intervals [60]:
+			xmin = 246.442000144056
+			xmax = 252.704295065626
+			text = "OK. So, what was <UNIN/> what's your peak flow reading when you're good?"
+		intervals [61]:
+			xmin = 252.704295065626
+			xmax = 254.103468328901
+			text = ""
+		intervals [62]:
+			xmin = 254.103468328901
+			xmax = 257.662970271502
+			text = "Like normally <UNIN/> peak flow reading."
+		intervals [63]:
+			xmin = 257.662970271502
+			xmax = 264.343519661001
+			text = ""
+		intervals [64]:
+			xmin = 264.343519661001
+			xmax = 270.367788266419
+			text = "OK. Let's see it's about, um, three eighty, yeah? Yeah? <UNSURE> three </UNSURE> <UNIN/>. OK."
+		intervals [65]:
+			xmin = 270.367788266419
+			xmax = 276.840576
+			text = "Right. So that's your normal, yeah? Righty-ho, OK. So what we need"
+		intervals [66]:
+			xmin = 276.840576
+			xmax = 278.708449027063
+			text = ""
+		intervals [67]:
+			xmin = 278.708449027063
+			xmax = 281.211448947572
+			text = "OK. Do you have any allergies at all?"
+		intervals [68]:
+			xmin = 281.211448947572
+			xmax = 284.71831646958
+			text = ""
+		intervals [69]:
+			xmin = 284.71831646958
+			xmax = 286.461002518001
+			text = "Sorry, could you repeat that please?"
+		intervals [70]:
+			xmin = 286.461002518001
+			xmax = 288.906122083607
+			text = ""
+		intervals [71]:
+			xmin = 288.906122083607
+			xmax = 292.704121463215
+			text = "<UNIN/> OK. <UNIN/> Now any <UNIN/> allergies to medication?"
+		intervals [72]:
+			xmin = 292.704121463215
+			xmax = 295.699704582293
+			text = ""
+		intervals [73]:
+			xmin = 295.699704582293
+			xmax = 298.518108733581
+			text = "OK. So you're not allergic to anything? OK."
+		intervals [74]:
+			xmin = 298.518108733581
+			xmax = 298.854385454679
+			text = ""
+		intervals [75]:
+			xmin = 298.854385454679
+			xmax = 304.077268
+			text = "So no allergies. OK, excellent. Righty-ho."
+		intervals [76]:
+			xmin = 304.077268
+			xmax = 313.71475
+			text = "So what we need to do <UNSURE>that</UNSURE> obviously we <UNIN/> you haven't had an asthma check for sometime and it looks like you can be having a small, small exacerbation."
+		intervals [77]:
+			xmin = 313.71475
+			xmax = 319.675898
+			text = "So what, I would like you to be seen by one of our GP's in the next few days."
+		intervals [78]:
+			xmin = 319.675898
+			xmax = 324.948671872404
+			text = "In the interim, what I'd like you to do is you can use your blue inhaler as and when."
+		intervals [79]:
+			xmin = 324.948671872404
+			xmax = 338.927041701279
+			text = "OK. <UNSURE>You can</UNSURE> use it maximum about every two to four, four hours, but if you're using it that often that means pretty much that, you know, your asthma is really bad. You can use it, but that's not ideal."
+		intervals [80]:
+			xmin = 338.927041701279
+			xmax = 343.212056255152
+			text = "But <UNIN/> uh, the brown <UNIN/> your Clenil. The brown inhaler."
+		intervals [81]:
+			xmin = 343.212056255152
+			xmax = 351.065661
+			text = "You can up the dose. If you're using just three puffs twice a day, you can increase it to four puffs twice a day."
+		intervals [82]:
+			xmin = 351.065661
+			xmax = 356.04148
+			text = "Yeah. And while, this is to do while you're waiting to see us."
+		intervals [83]:
+			xmin = 356.04148
+			xmax = 368.831269642284
+			text = "Now, <UNSURE>I've</UNSURE> mentioned, you know, you're doing <UNIN/> you know, increase the, uh, Clenil to four puffs twice a day and you're using the asthma, you know, the blue inhalers every two to four hours."
+		intervals [84]:
+			xmin = 368.831269642284
+			xmax = 375.674788782358
+			text = "And your breathing is getting really worse, then you would need to take yourself to <UNSURE>A and E</UNSURE>. You shouldn't wait for our appointment."
+		intervals [85]:
+			xmin = 375.674788782358
+			xmax = 381.525075
+			text = "OK. So, when <UNSURE>you'd opt to sneeze</UNSURE> you, what we're going to do is we're gonna examine your chest, yeah."
+		intervals [86]:
+			xmin = 381.525075
+			xmax = 388.739816580827
+			text = "Make you do the <UNSURE>peak flow reading</UNSURE>. So depending on what we find, you might need some antibiotics and some steroids."
+		intervals [87]:
+			xmin = 388.739816580827
+			xmax = 396.689431467021
+			text = "But anyway, while you're at home, we're going to <UNIN/> by increasing your Clenil, we are increasing your steroid intake anyway."
+		intervals [88]:
+			xmin = 396.689431467021
+			xmax = 398.005977072603
+			text = ""
+		intervals [89]:
+			xmin = 398.005977072603
+			xmax = 403.755517734331
+			text = "So, yeah. So, any questions you wanted to ask me? <INAUDIBLE_SPEECH/>"
+		intervals [90]:
+			xmin = 403.755517734331
+			xmax = 404.620289775562
+			text = ""
+		intervals [91]:
+			xmin = 404.620289775562
+			xmax = 411.283008
+			text = "Yeah. So, book an <UNIN/> call support, book an appointment to see and I will recommend that <UNSURE>meet her</UNSURE> face to face."
+		intervals [92]:
+			xmin = 411.283008
+			xmax = 425.55815792526
+			text = "In the interim, increase your brown inhaler to four puffs twice a day, and your salbutamol inhalers up to every two hourly. But, if you breathing's getting worse and you've not seen us, do take your <UNSURE>puffs to A and E</UNSURE>."
+		intervals [93]:
+			xmin = 425.55815792526
+			xmax = 426.604090392647
+			text = "All right?"
+		intervals [94]:
+			xmin = 426.604090392647
+			xmax = 428.603818392381
+			text = ""
+		intervals [95]:
+			xmin = 428.603818392381
+			xmax = 431.924709619057
+			text = "<UNIN/> You're welcome. You take care then, bye, bye now, bye. Bye."
+		intervals [96]:
+			xmin = 431.924709619057
+			xmax = 433.02
+			text = ""
+

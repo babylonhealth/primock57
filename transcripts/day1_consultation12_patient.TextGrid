@@ -1,0 +1,403 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 471.899977324263
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 471.899977324263
+		intervals: size = 97
+		intervals [1]:
+			xmin = 0
+			xmax = 3.71830161538823
+			text = ""
+		intervals [2]:
+			xmin = 3.71830161538823
+			xmax = 4.39435893583419
+			text = "Hi."
+		intervals [3]:
+			xmin = 4.39435893583419
+			xmax = 11.3558361596931
+			text = ""
+		intervals [4]:
+			xmin = 11.3558361596931
+			xmax = 14.1825082212677
+			text = "Yes. So, my name is Robert."
+		intervals [5]:
+			xmin = 14.1825082212677
+			xmax = 15.7463618069409
+			text = ""
+		intervals [6]:
+			xmin = 15.7463618069409
+			xmax = 16.3686690548074
+			text = "Yep."
+		intervals [7]:
+			xmin = 16.3686690548074
+			xmax = 17.322971750194
+			text = ""
+		intervals [8]:
+			xmin = 17.322971750194
+			xmax = 19.8478447943803
+			text = "Um, I'm forty eight."
+		intervals [9]:
+			xmin = 19.8478447943803
+			xmax = 21.5938211085176
+			text = ""
+		intervals [10]:
+			xmin = 21.5938211085176
+			xmax = 22.4271529782543
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [11]:
+			xmin = 22.4271529782543
+			xmax = 25.9896754810526
+			text = ""
+		intervals [12]:
+			xmin = 25.9896754810526
+			xmax = 34.1886629248109
+			text = "Right, so, uh, I've been having, uh, diarrhoea, for like, <UNSURE>let's</UNSURE> say past three days, more or less."
+		intervals [13]:
+			xmin = 34.1886629248109
+			xmax = 40.2135745375545
+			text = ""
+		intervals [14]:
+			xmin = 40.2135745375545
+			xmax = 49.9781688507098
+			text = "Yeah, so it's been a, very bad diarrhoea, so it keeps me like, I keep going back and forth, to, to the toilet very often."
+		intervals [15]:
+			xmin = 49.9781688507098
+			xmax = 54.4129067061972
+			text = "<UNSURE>Um</UNSURE>, yeah it started like three days ago."
+		intervals [16]:
+			xmin = 54.4129067061972
+			xmax = 66.0733169014782
+			text = "And uh, uh, so it started with vomiting, so I vomited a couple of times. Uh, but then, that went away, and, uh, yeah it's just diarrhoea now."
+		intervals [17]:
+			xmin = 66.0733169014782
+			xmax = 73.4067058514837
+			text = ""
+		intervals [18]:
+			xmin = 73.4067058514837
+			xmax = 76.8868862278309
+			text = "Yeah, around, five to six times a day."
+		intervals [19]:
+			xmin = 76.8868862278309
+			xmax = 85.156791471887
+			text = ""
+		intervals [20]:
+			xmin = 85.156791471887
+			xmax = 91.5496956721219
+			text = "Yes, it's definitely, definitely watery, uh, loose stools, yeah."
+		intervals [21]:
+			xmin = 91.5496956721219
+			xmax = 93.6985155847217
+			text = ""
+		intervals [22]:
+			xmin = 93.6985155847217
+			xmax = 95.594356784887
+			text = "No, not that I could see."
+		intervals [23]:
+			xmin = 95.594356784887
+			xmax = 102.038849507487
+			text = ""
+		intervals [24]:
+			xmin = 102.038849507487
+			xmax = 113.098461004595
+			text = "Uh, not, not really, no. Uh, but I, I, I feel like, um, I can't, really drink too much, so I feel very dehydrated."
+		intervals [25]:
+			xmin = 113.098461004595
+			xmax = 116.907017597567
+			text = ""
+		intervals [26]:
+			xmin = 116.907017597567
+			xmax = 133.661124012671
+			text = "Uh, yeah because, really I, uh I, um, I'm like, <UNIN/> I feel like I don't drink enough, like I'm, I'm drink, I'm trying to drink, but then I just go to the loo, and I like, I, uh I, I, I do everything and I feel dehydrated again."
+		intervals [27]:
+			xmin = 133.661124012671
+			xmax = 140.615541564363
+			text = ""
+		intervals [28]:
+			xmin = 140.615541564363
+			xmax = 151.698963445293
+			text = "Uh, <UNIN/> not much, not much. So just a little bit, but I don't feel, um, I don't really feel like, uh, I have appetite."
+		intervals [29]:
+			xmin = 151.698963445293
+			xmax = 160.449031502536
+			text = ""
+		intervals [30]:
+			xmin = 160.449031502536
+			xmax = 161.844868311912
+			text = "<UNSURE>Yes</UNSURE>, yes."
+		intervals [31]:
+			xmin = 161.844868311912
+			xmax = 166.657401791685
+			text = ""
+		intervals [32]:
+			xmin = 166.657401791685
+			xmax = 181.666345049709
+			text = "Uh, so, not, really I <UNIN/>, I feel a little bit warm, um, probably at, at the beginning I was feeling I had a bit of temperature, but now I feel, I feel kind of fine."
+		intervals [33]:
+			xmin = 181.666345049709
+			xmax = 182.293335231744
+			text = ""
+		intervals [34]:
+			xmin = 182.293335231744
+			xmax = 184.157546687752
+			text = "I feel very weak though."
+		intervals [35]:
+			xmin = 184.157546687752
+			xmax = 188.053405451077
+			text = ""
+		intervals [36]:
+			xmin = 188.053405451077
+			xmax = 190.657586204861
+			text = "Not, not really, no."
+		intervals [37]:
+			xmin = 190.657586204861
+			xmax = 197.845140540886
+			text = ""
+		intervals [38]:
+			xmin = 197.845140540886
+			xmax = 205.943247489478
+			text = "<UNIN/>, not that I, I remember, what was I doing, I, I was at home I was working, on my computer and."
+		intervals [39]:
+			xmin = 205.943247489478
+			xmax = 213.78773175974
+			text = "Yeah, just felt, like some nausea and I had to, to vomit, and then I had some diarrhoea, straight after that."
+		intervals [40]:
+			xmin = 213.78773175974
+			xmax = 218.220301902416
+			text = ""
+		intervals [41]:
+			xmin = 218.220301902416
+			xmax = 222.473306258592
+			text = "Uh, not that I remember, no."
+		intervals [42]:
+			xmin = 222.473306258592
+			xmax = 228.157871606206
+			text = ""
+		intervals [43]:
+			xmin = 228.157871606206
+			xmax = 230.637051262292
+			text = "<UNSURE>Hmm</UNSURE>, not that I know, <UNSURE>not that I</UNSURE>."
+		intervals [44]:
+			xmin = 230.637051262292
+			xmax = 237.532936370357
+			text = ""
+		intervals [45]:
+			xmin = 237.532936370357
+			xmax = 239.262109440259
+			text = "Yeah, yeah, <UNIN/>."
+		intervals [46]:
+			xmin = 239.262109440259
+			xmax = 242.84844197638
+			text = ""
+		intervals [47]:
+			xmin = 242.84844197638
+			xmax = 257.760270108466
+			text = "Um, so I, I do suffer of asthma. So, I do have my inhalers, uh, that I you know, I <UNSURE>need</UNSURE>, I use infrequently, let's say only when I have, uh, a bit of <UNIN/>."
+		intervals [48]:
+			xmin = 257.760270108466
+			xmax = 259.283092243399
+			text = ""
+		intervals [49]:
+			xmin = 259.283092243399
+			xmax = 259.887255434023
+			text = "<UNSURE>Sorry</UNSURE>?"
+		intervals [50]:
+			xmin = 259.887255434023
+			xmax = 261.574761471359
+			text = ""
+		intervals [51]:
+			xmin = 261.574761471359
+			xmax = 262.574761471359
+			text = "Yes it is, yeah."
+		intervals [52]:
+			xmin = 262.574761471359
+			xmax = 267.303960886001
+			text = ""
+		intervals [53]:
+			xmin = 267.303960886001
+			xmax = 268.825790731754
+			text = "Uh, no, nothing."
+		intervals [54]:
+			xmin = 268.825790731754
+			xmax = 271.969659031533
+			text = ""
+		intervals [55]:
+			xmin = 271.969659031533
+			xmax = 274.267289023656
+			text = "Um, not that I know of."
+		intervals [56]:
+			xmin = 274.267289023656
+			xmax = 279.533199817752
+			text = ""
+		intervals [57]:
+			xmin = 279.533199817752
+			xmax = 291.866632675656
+			text = "Um, so, my father has, high uh, well used to have high blood pressure. He actually, so he actually died, of, bowel cancer, like ten years ago."
+		intervals [58]:
+			xmin = 291.866632675656
+			xmax = 297.450006257897
+			text = ""
+		intervals [59]:
+			xmin = 297.450006257897
+			xmax = 304.310176315978
+			text = "Ohh yes, so uh, probably is worth mentioning uh, she has diabetes."
+		intervals [60]:
+			xmin = 304.310176315978
+			xmax = 308.075081999023
+			text = ""
+		intervals [61]:
+			xmin = 308.075081999023
+			xmax = 309.845922101491
+			text = "Uh, it's type two."
+		intervals [62]:
+			xmin = 309.845922101491
+			xmax = 322.408523638508
+			text = ""
+		intervals [63]:
+			xmin = 322.408523638508
+			xmax = 322.426659
+			text = ""
+		intervals [64]:
+			xmin = 322.426659
+			xmax = 323.014163573739
+			text = "Sorry?"
+		intervals [65]:
+			xmin = 323.014163573739
+			xmax = 325.054371424858
+			text = ""
+		intervals [66]:
+			xmin = 325.054371424858
+			xmax = 326.575209331931
+			text = "Ohh I, I live alone."
+		intervals [67]:
+			xmin = 326.575209331931
+			xmax = 330.231978977841
+			text = ""
+		intervals [68]:
+			xmin = 330.231978977841
+			xmax = 337.533621333583
+			text = "Uh, well I haven't been able to work in the past few days, but yes <UNIN/>, like given, uh, my uh."
+		intervals [69]:
+			xmin = 337.533621333583
+			xmax = 339.346128468617
+			text = ""
+		intervals [70]:
+			xmin = 339.346128468617
+			xmax = 340.762798794275
+			text = "I'm a software engineer."
+		intervals [71]:
+			xmin = 340.762798794275
+			xmax = 347.054511930135
+			text = ""
+		intervals [72]:
+			xmin = 347.054511930135
+			xmax = 355.108145099922
+			text = "Uh, yes, yes I have, uh. Uh, these last three days I've been feeling, really unwell, so I couldn't work."
+		intervals [73]:
+			xmin = 355.108145099922
+			xmax = 362.867133225706
+			text = ""
+		intervals [74]:
+			xmin = 362.867133225706
+			xmax = 369.221346910415
+			text = "Uh, not really, I drink infrequently, like socially let's say, and I don't smoke."
+		intervals [75]:
+			xmin = 369.221346910415
+			xmax = 382.575622066182
+			text = ""
+		intervals [76]:
+			xmin = 382.575622066182
+			xmax = 383.325619870787
+			text = "OK."
+		intervals [77]:
+			xmin = 383.325619870787
+			xmax = 393.304865388723
+			text = ""
+		intervals [78]:
+			xmin = 393.304865388723
+			xmax = 394.304865388723
+			text = "All right."
+		intervals [79]:
+			xmin = 394.304865388723
+			xmax = 403.450770255342
+			text = ""
+		intervals [80]:
+			xmin = 403.450770255342
+			xmax = 404.242435092513
+			text = "OK."
+		intervals [81]:
+			xmin = 404.242435092513
+			xmax = 411.825826237913
+			text = ""
+		intervals [82]:
+			xmin = 411.825826237913
+			xmax = 413.471665242684
+			text = "I'm sorry, what's the name of that?"
+		intervals [83]:
+			xmin = 413.471665242684
+			xmax = 416.930020164067
+			text = ""
+		intervals [84]:
+			xmin = 416.930020164067
+			xmax = 417.409182256995
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [85]:
+			xmin = 417.409182256995
+			xmax = 420.825870145813
+			text = ""
+		intervals [86]:
+			xmin = 420.825870145813
+			xmax = 421.346699271306
+			text = "All right."
+		intervals [87]:
+			xmin = 421.346699271306
+			xmax = 430.492604137925
+			text = ""
+		intervals [88]:
+			xmin = 430.492604137925
+			xmax = 431.492604137925
+			text = "OK."
+		intervals [89]:
+			xmin = 431.492604137925
+			xmax = 446.534394112608
+			text = ""
+		intervals [90]:
+			xmin = 446.534394112608
+			xmax = 449.869731813655
+			text = "That sounds good, that sounds good. Uh, thanks so much."
+		intervals [91]:
+			xmin = 449.869731813655
+			xmax = 451.576087489913
+			text = ""
+		intervals [92]:
+			xmin = 451.576087489913
+			xmax = 463.810312810305
+			text = "Um, no I think that's fine. Uh, yeah I'll, I'll try to <UNIN/>, and drink <UNIN/>, drink plenty of fluid and I hope it <UNSURE>go away</UNSURE>. Uh, if it doesn't I'll uh, I'll call, I'll call back. Is that OK?"
+		intervals [93]:
+			xmin = 463.810312810305
+			xmax = 465.867862096832
+			text = ""
+		intervals [94]:
+			xmin = 465.867862096832
+			xmax = 468.013705492392
+			text = "Thanks a lot. Thanks so much, for your time."
+		intervals [95]:
+			xmin = 468.013705492392
+			xmax = 469.326208236636
+			text = ""
+		intervals [96]:
+			xmin = 469.326208236636
+			xmax = 470.326208236636
+			text = "OK. Bye."
+		intervals [97]:
+			xmin = 470.326208236636
+			xmax = 471.899977324263
+			text = ""
+

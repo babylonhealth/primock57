@@ -1,0 +1,451 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 626.699977324263
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 626.699977324263
+		intervals: size = 109
+		intervals [1]:
+			xmin = 0
+			xmax = 2.34285709426886
+			text = ""
+		intervals [2]:
+			xmin = 2.34285709426886
+			xmax = 4.61428561969364
+			text = "Hello. Can you hear me OK?"
+		intervals [3]:
+			xmin = 4.61428561969364
+			xmax = 6.75714272119905
+			text = ""
+		intervals [4]:
+			xmin = 6.75714272119905
+			xmax = 15.4142853012853
+			text = "Yeah, good, good. So, my name is Joe. I'm a doctor, um, here <UNSURE>at</UNSURE> Babylon. Can I just confirm your name, please?"
+		intervals [5]:
+			xmin = 15.4142853012853
+			xmax = 17.1184872606754
+			text = ""
+		intervals [6]:
+			xmin = 17.1184872606754
+			xmax = 18.7378139553663
+			text = "And, your date of birth?"
+		intervals [7]:
+			xmin = 18.7378139553663
+			xmax = 26.9310923580081
+			text = ""
+		intervals [8]:
+			xmin = 26.9310923580081
+			xmax = 28.0720765969673
+			text = "OK, great."
+		intervals [9]:
+			xmin = 28.0720765969673
+			xmax = 28.7472023797341
+			text = ""
+		intervals [10]:
+			xmin = 28.7472023797341
+			xmax = 37.7134438973876
+			text = "And are you in a, uh, a safe place, ohh sorry, a safe and <UNIN/>, confidential place to talk and just, <INAUDIBLE_SPEECH/> happy to go ahead with the consultation?"
+		intervals [11]:
+			xmin = 37.7134438973876
+			xmax = 39.4731083776945
+			text = ""
+		intervals [12]:
+			xmin = 39.4731083776945
+			xmax = 41.4268893825925
+			text = "Great. So, how can I help?"
+		intervals [13]:
+			xmin = 41.4268893825925
+			xmax = 53.9647051051655
+			text = ""
+		intervals [14]:
+			xmin = 53.9647051051655
+			xmax = 58.7609448371493
+			text = "OK, I'm sorry to hear that. So, you've had a cough, and a sore throat, for about a week?"
+		intervals [15]:
+			xmin = 58.7609448371493
+			xmax = 59.368732320043
+			text = ""
+		intervals [16]:
+			xmin = 59.368732320043
+			xmax = 61.442855353878
+			text = "And what came, what, what came first?"
+		intervals [17]:
+			xmin = 61.442855353878
+			xmax = 67.4428551729642
+			text = ""
+		intervals [18]:
+			xmin = 67.4428551729642
+			xmax = 71.4453755657318
+			text = "OK, OK. And, uh, are you <UNSURE>coughing</UNSURE> up anything?"
+		intervals [19]:
+			xmin = 71.4453755657318
+			xmax = 73.7268889693989
+			text = ""
+		intervals [20]:
+			xmin = 73.7268889693989
+			xmax = 80.273843
+			text = "OK, So I'm, I'm just gonna ask a few questions about the, uh, your current symptoms. And a little bit about your background."
+		intervals [21]:
+			xmin = 80.273843
+			xmax = 93.3899128957729
+			text = "Um, and, something else about what we can do, a little bit later on in the consultation, to help you. So, before we go on. <UNIN/> anything you're particularly concerned about? Um, or have any ideas, what might be going on? You said that you had a cold."
+		intervals [22]:
+			xmin = 93.3899128957729
+			xmax = 112.068064463061
+			text = ""
+		intervals [23]:
+			xmin = 112.068064463061
+			xmax = 125.29999611759
+			text = "Great, so, so yeah. I can provide a bit of reassurance, um, and uh, we can talk about those a little bit, as well. And was <UNSURE>there anything</UNSURE> you were particularly expecting, or hoping to get out of this consultation? Um."
+		intervals [24]:
+			xmin = 125.29999611759
+			xmax = 141.936130783007
+			text = ""
+		intervals [25]:
+			xmin = 141.936130783007
+			xmax = 154.324558
+			text = "Sure, sure, OK. All right, so, we'll talk a little bit about the symptoms, and I'm sure we can <UNIN/>, get a, um, those things, uh, <INAUDIBLE_SPEECH/> and some reassurance, um, about your concerns."
+		intervals [26]:
+			xmin = 154.324558
+			xmax = 166.584868240085
+			text = "So, um, you mentioned that you started with sore throat about a week ago, developed into bit of a dry cough. Um, <UNIN/>, I'll just ask a few questions around those. So, um, do you have any shortness of breath?"
+		intervals [27]:
+			xmin = 166.584868240085
+			xmax = 171.202516215857
+			text = ""
+		intervals [28]:
+			xmin = 171.202516215857
+			xmax = 178.073103258544
+			text = "You are short of breath. And, uh, do you have any wheeze? Or chest pain?"
+		intervals [29]:
+			xmin = 178.073103258544
+			xmax = 181.585708547645
+			text = ""
+		intervals [30]:
+			xmin = 181.585708547645
+			xmax = 185.328565591258
+			text = "You're, you're feeling a bit wheezy, with some chest pain as well."
+		intervals [31]:
+			xmin = 185.328565591258
+			xmax = 186.745372941061
+			text = ""
+		intervals [32]:
+			xmin = 186.745372941061
+			xmax = 192.199993986425
+			text = "OK. And, how, ah, when did you start to develop the shortness of breath?"
+		intervals [33]:
+			xmin = 192.199993986425
+			xmax = 208.831926667124
+			text = ""
+		intervals [34]:
+			xmin = 208.831926667124
+			xmax = 213.332766132994
+			text = "Three or four days ago, you started develop <UNIN/>. And is the cough worse at night-time?"
+		intervals [35]:
+			xmin = 213.332766132994
+			xmax = 216.067220392545
+			text = ""
+		intervals [36]:
+			xmin = 216.067220392545
+			xmax = 221.306328
+			text = "Same throughout the day. Um, and, uh, when you say you're short of breath."
+		intervals [37]:
+			xmin = 221.306328
+			xmax = 233.481504938282
+			text = "Just need to try and get an idea about how short of breath you are. So, are you able to, <UNSURE>so</UNSURE> <UNIN/>, um, so, uh, like walk up a flight of stairs, for example? Um, or, or, are you short of breath at rest?"
+		intervals [38]:
+			xmin = 233.481504938282
+			xmax = 246.872261502305
+			text = ""
+		intervals [39]:
+			xmin = 246.872261502305
+			xmax = 249.04426
+			text = "And you're a bit concerned about that, OK."
+		intervals [40]:
+			xmin = 249.04426
+			xmax = 257.006713770217
+			text = "So, I just need to ask a few, uh, things about your background as well. So, um, do you have any other medical conditions, or medical history?"
+		intervals [41]:
+			xmin = 257.006713770217
+			xmax = 261.005874643855
+			text = ""
+		intervals [42]:
+			xmin = 261.005874643855
+			xmax = 263.824608759818
+			text = "No <INAUDIBLE_SPEECH/>. No history of asthma?"
+		intervals [43]:
+			xmin = 263.824608759818
+			xmax = 265.012732135312
+			text = ""
+		intervals [44]:
+			xmin = 265.012732135312
+			xmax = 272.556959
+			text = "Um, and any, uh, uh, history of, uh, clots on your legs, or your lungs?"
+		intervals [45]:
+			xmin = 272.556959
+			xmax = 272.998965036589
+			text = ""
+		intervals [46]:
+			xmin = 272.998965036589
+			xmax = 278.07141974025
+			text = "<UNSURE>So these</UNSURE> <INAUDIBLE_SPEECH/>. Uh, no one in your family's had those? Clots on the legs, or the lungs?"
+		intervals [47]:
+			xmin = 278.07141974025
+			xmax = 281.110075399069
+			text = ""
+		intervals [48]:
+			xmin = 281.110075399069
+			xmax = 283.445368691007
+			text = "Your mother had lung cancer. Do you smoke?"
+		intervals [49]:
+			xmin = 283.445368691007
+			xmax = 285.179823561337
+			text = ""
+		intervals [50]:
+			xmin = 285.179823561337
+			xmax = 289.10335158293
+			text = "You ever smoked? Or been exposed to asbestos? That you know of?"
+		intervals [51]:
+			xmin = 289.10335158293
+			xmax = 296.514276396708
+			text = ""
+		intervals [52]:
+			xmin = 296.514276396708
+			xmax = 308.439438
+			text = "OK. Um, and, uh, this, so just going back to the, your symptoms of shortness of breath, with the cough. It's a dry cough, no, you're not coughing up any flem?"
+		intervals [53]:
+			xmin = 308.439438
+			xmax = 314.824344
+			text = "Um, do, do you have, uh, and you don't, you say you don't have any chest pain, as such?"
+		intervals [54]:
+			xmin = 314.824344
+			xmax = 319.642847024606
+			text = "Um. Uh, are you taking any medications, currently, at the moment?"
+		intervals [55]:
+			xmin = 319.642847024606
+			xmax = 322.457132673246
+			text = ""
+		intervals [56]:
+			xmin = 322.457132673246
+			xmax = 325.028561187816
+			text = "OK. Are you allergic to any medications?"
+		intervals [57]:
+			xmin = 325.028561187816
+			xmax = 328.78906576281
+			text = ""
+		intervals [58]:
+			xmin = 328.78906576281
+			xmax = 333.812953
+			text = "Peanuts. OK. Um, and, uh."
+		intervals [59]:
+			xmin = 333.812953
+			xmax = 334.353567304774
+			text = ""
+		intervals [60]:
+			xmin = 334.353567304774
+			xmax = 343.847887870885
+			text = "You mentioned that your mother had, uh, lung cancer. Um, any other, family history of any significant illnesses, uh, run, running in your family?"
+		intervals [61]:
+			xmin = 343.847887870885
+			xmax = 347.357131917026
+			text = ""
+		intervals [62]:
+			xmin = 347.357131917026
+			xmax = 349.50013213298
+			text = "Just lung cancer. OK."
+		intervals [63]:
+			xmin = 349.50013213298
+			xmax = 350.220244897844
+			text = ""
+		intervals [64]:
+			xmin = 350.220244897844
+			xmax = 355.385703091285
+			text = "And you say you have a cold. So, do you have <UNIN/>, sinus congestion? Or, um."
+		intervals [65]:
+			xmin = 355.385703091285
+			xmax = 362.046207561349
+			text = ""
+		intervals [66]:
+			xmin = 362.046207561349
+			xmax = 367.818475552644
+			text = "So, <UNIN/>, just your, just your throat. And, any recent travel? Or have you always lived in the UK?"
+		intervals [67]:
+			xmin = 367.818475552644
+			xmax = 383.087383680972
+			text = ""
+		intervals [68]:
+			xmin = 383.087383680972
+			xmax = 388.992707
+			text = "OK, so no, so no recent travel, no significant recent travel any, anywhere. Um, OK."
+		intervals [69]:
+			xmin = 388.992707
+			xmax = 396.580973
+			text = "And, are you coughing up anything other than, <UNIN/>. Um, uh, so you, you're not coughing up blood, or anything like that? No, no."
+		intervals [70]:
+			xmin = 396.580973
+			xmax = 401.620994328578
+			text = "Um, good. And, uh, are you feeling feverish, hot, cold, sweaty?"
+		intervals [71]:
+			xmin = 401.620994328578
+			xmax = 410.509231703434
+			text = ""
+		intervals [72]:
+			xmin = 410.509231703434
+			xmax = 414.815115052151
+			text = "OK. And in general, do you <UNIN/>. Sorry? Yeah."
+		intervals [73]:
+			xmin = 414.815115052151
+			xmax = 417.399986815001
+			text = ""
+		intervals [74]:
+			xmin = 417.399986815001
+			xmax = 418.331078747473
+			text = "<UNSURE>Uh</UNSURE>."
+		intervals [75]:
+			xmin = 418.331078747473
+			xmax = 421.385701028867
+			text = ""
+		intervals [76]:
+			xmin = 421.385701028867
+			xmax = 429.126875869751
+			text = "OK. And in general, would you say you're feeling, you're, you're beginning to, to feel better? Worse? Or, or sort of, um, staying the same?"
+		intervals [77]:
+			xmin = 429.126875869751
+			xmax = 448.646205364345
+			text = ""
+		intervals [78]:
+			xmin = 448.646205364345
+			xmax = 449.491477442305
+			text = "OK."
+		intervals [79]:
+			xmin = 449.491477442305
+			xmax = 450.021334696754
+			text = ""
+		intervals [80]:
+			xmin = 450.021334696754
+			xmax = 454.03498365671
+			text = "And I just <UNIN/>, need to ask any, other sort of risk factors. Um."
+		intervals [81]:
+			xmin = 454.03498365671
+			xmax = 466.299985226578
+			text = "That you may have. So, <UNIN/>, um, no sort of significant weight loss? Um, or unexplained weight loss? Any <INAUDIBLE_SPEECH/>?"
+		intervals [82]:
+			xmin = 466.299985226578
+			xmax = 477.080658155587
+			text = ""
+		intervals [83]:
+			xmin = 477.080658155587
+			xmax = 479.500753442305
+			text = "You've been losing your appetite recently?"
+		intervals [84]:
+			xmin = 479.500753442305
+			xmax = 480.426523516527
+			text = ""
+		intervals [85]:
+			xmin = 480.426523516527
+			xmax = 485.450221922669
+			text = "And you're a little bit concerned about that? But you haven't, you haven't lost any weight, that you think of?"
+		intervals [86]:
+			xmin = 485.450221922669
+			xmax = 486.573104048391
+			text = ""
+		intervals [87]:
+			xmin = 486.573104048391
+			xmax = 491.135277165817
+			text = "And any, um, sort of rashes or anything? <UNSURE>Or</UNSURE>, uh, <UNIN/>, and you."
+		intervals [88]:
+			xmin = 491.135277165817
+			xmax = 492.283855720546
+			text = ""
+		intervals [89]:
+			xmin = 492.283855720546
+			xmax = 494.783298777574
+			text = "<UNSURE>Not that</UNSURE>, not that you can think of. OK."
+		intervals [90]:
+			xmin = 494.783298777574
+			xmax = 508.383086527824
+			text = "Um. So, I would ask to examine you now, but um, I, I don't know if I could sort of look inside your throat, at least. To see if there's a, probably, <UNSURE>there's</UNSURE>."
+		intervals [91]:
+			xmin = 508.383086527824
+			xmax = 509.017472939064
+			text = ""
+		intervals [92]:
+			xmin = 509.017472939064
+			xmax = 516.122671492499
+			text = "Ohh no, well, no, it's OK, I <UNIN/>, might think about doing <UNSURE>a</UNSURE>. Have you got any lumps or bumps around your neck? That you can feel?"
+		intervals [93]:
+			xmin = 516.122671492499
+			xmax = 519.22099223164
+			text = ""
+		intervals [94]:
+			xmin = 519.22099223164
+			xmax = 521.16465
+			text = "No that you, no, OK."
+		intervals [95]:
+			xmin = 521.16465
+			xmax = 532.605050553601
+			text = "Um. And, so finally, you, you were talking about, uh, <UNIN/>. I mean, it sounds to me that, um, you've been a little bit up and down. Sore throat. Developed a dry cough."
+		intervals [96]:
+			xmin = 532.605050553601
+			xmax = 543.658801777119
+			text = "Um, you are slightly short of breath, but not too overly concerningly short of breath. What I would say, we're just coming to the end of consultation now, <UNIN/>. If you feel significantly worse ."
+		intervals [97]:
+			xmin = 543.658801777119
+			xmax = 557.638764
+			text = "Um. Uh, if you get more short of breath, or sudden change in your breathlessness. Um, or breathlessness that you are concerned about. Then I would advise you to <UNSURE>see, no</UNSURE> <INAUDIBLE_SPEECH/>, go and see a GP. Um, and actually see somebody physically."
+		intervals [98]:
+			xmin = 557.638764
+			xmax = 576.301685933865
+			text = "Um, uh, but I think, for now I can sort of, uh, try and reassure you that, um, if this clears up, as I expect it would. So, I expect this to sort of be getting better in the next, four or five days. Um, if it's not, please get in touch with a medical professional again."
+		intervals [99]:
+			xmin = 576.301685933865
+			xmax = 583.227102
+			text = "Um, and, uh, I would expect it to, and so therefore, I wouldn't be concerned about tuberculosis"
+		intervals [100]:
+			xmin = 583.227102
+			xmax = 588.442838203249
+			text = "Um, your concerns about lung cancer, are. And, was that the other thing <UNSURE>you're</UNSURE> concerned about?"
+		intervals [101]:
+			xmin = 588.442838203249
+			xmax = 590.137796600693
+			text = ""
+		intervals [102]:
+			xmin = 590.137796600693
+			xmax = 596.380082
+			text = "Yeah. So, so, um, again, if you're not getting better, please see somebody again."
+		intervals [103]:
+			xmin = 596.380082
+			xmax = 604.642837689454
+			text = "Um, I've just got four seconds now. So, nice talking to you. And, have we gotta? We gotta, tidy up, yeah. OK, so, uh."
+		intervals [104]:
+			xmin = 604.642837689454
+			xmax = 605.642837689454
+			text = ""
+		intervals [105]:
+			xmin = 605.642837689454
+			xmax = 610.506162420622
+			text = "Uh, and I'll provide you with a sick note, just to give you a few more days off work."
+		intervals [106]:
+			xmin = 610.506162420622
+			xmax = 620.628551469126
+			text = "Um, and paracetemol. Lots of fluids. Um, and, uh, rest up. And, as I say, if you're not feeling better, please get in touch. OK?"
+		intervals [107]:
+			xmin = 620.628551469126
+			xmax = 621.972249341279
+			text = ""
+		intervals [108]:
+			xmin = 621.972249341279
+			xmax = 624.064685499147
+			text = "<UNIN/>. Thank you."
+		intervals [109]:
+			xmin = 624.064685499147
+			xmax = 626.699977324263
+			text = ""
+

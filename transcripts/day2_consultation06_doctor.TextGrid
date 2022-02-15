@@ -1,0 +1,563 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 598.259977324263
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 598.259977324263
+		intervals: size = 137
+		intervals [1]:
+			xmin = 0
+			xmax = 0.620378139324553
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [2]:
+			xmin = 0.620378139324553
+			xmax = 1.63223943885745
+			text = ""
+		intervals [3]:
+			xmin = 1.63223943885745
+			xmax = 4.7333331918295
+			text = "Hi there. I'm Doctor <UNSURE>Deen Mirza</UNSURE> from Babylon. Good morning."
+		intervals [4]:
+			xmin = 4.7333331918295
+			xmax = 5.96666651631884
+			text = ""
+		intervals [5]:
+			xmin = 5.96666651631884
+			xmax = 7.45333316453947
+			text = "Good morning. <UNIN/>."
+		intervals [6]:
+			xmin = 7.45333316453947
+			xmax = 8.24666605996402
+			text = ""
+		intervals [7]:
+			xmin = 8.24666605996402
+			xmax = 14.8333329606223
+			text = "<UNIN/>, sorry, <INAUDIBLE_SPEECH/>, before we start. Could I get your full name and date of birth? Is that possible? <UNSURE>Yes, it's</UNSURE>, <INAUDIBLE_SPEECH/>."
+		intervals [8]:
+			xmin = 14.8333329606223
+			xmax = 24.2466659750667
+			text = ""
+		intervals [9]:
+			xmin = 24.2466659750667
+			xmax = 29.2999991547673
+			text = "That's perfect, thank you for that. Are you, um, John, are you in a private place where you're OK to speak at the moment?"
+		intervals [10]:
+			xmin = 29.2999991547673
+			xmax = 30.3933312959176
+			text = ""
+		intervals [11]:
+			xmin = 30.3933312959176
+			xmax = 36.3199989644951
+			text = "<INAUDIBLE_SPEECH/>, perfect, thank you for that. OK. So, tell me what the problem is. You've been having some difficulty breathing. Is that correct?"
+		intervals [12]:
+			xmin = 36.3199989644951
+			xmax = 66.5466645233889
+			text = ""
+		intervals [13]:
+			xmin = 66.5466645233889
+			xmax = 70.71333107003
+			text = "Right, OK. So, when did this bee sting or bee bite occur?"
+		intervals [14]:
+			xmin = 70.71333107003
+			xmax = 74.8237000110121
+			text = ""
+		intervals [15]:
+			xmin = 74.8237000110121
+			xmax = 84.2733306318735
+			text = "Right, OK. Um, and, your, your lips don't seem swollen to me right now, but, do they, which. Can you show me with your finger where you feel it's swollen?"
+		intervals [16]:
+			xmin = 84.2733306318735
+			xmax = 90.8599970867898
+			text = ""
+		intervals [17]:
+			xmin = 90.8599970867898
+			xmax = 91.2911088247695
+			text = "Sure."
+		intervals [18]:
+			xmin = 91.2911088247695
+			xmax = 92.0866625198322
+			text = ""
+		intervals [19]:
+			xmin = 92.0866625198322
+			xmax = 95.8792554670659
+			text = "<UNSURE>Sure</UNSURE>, OK. Uh, you said you've been having some difficulty breathing."
+		intervals [20]:
+			xmin = 95.8792554670659
+			xmax = 96.4800818799822
+			text = ""
+		intervals [21]:
+			xmin = 96.4800818799822
+			xmax = 97.1031626843452
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [22]:
+			xmin = 97.1031626843452
+			xmax = 106.08847
+			text = "Your breathing seems all right to me right now. Um, the reason why I'm, clarifying <UNSURE>is</UNSURE>, because we have to decide whether this is a, an acute emergency. Whether I need to send you in to hospital straight away."
+		intervals [23]:
+			xmin = 106.08847
+			xmax = 113.275749423276
+			text = "Or whether we, more time to ask questions, OK. So um, <UNIN/>, do you feel like you've got difficulty breathing right now, this minute, as we speak?"
+		intervals [24]:
+			xmin = 113.275749423276
+			xmax = 120.273329494789
+			text = ""
+		intervals [25]:
+			xmin = 120.273329494789
+			xmax = 122.046662798811
+			text = "<UNSURE>Sure</UNSURE>, sure. <INAUDIBLE_SPEECH/>."
+		intervals [26]:
+			xmin = 122.046662798811
+			xmax = 122.813327658403
+			text = ""
+		intervals [27]:
+			xmin = 122.813327658403
+			xmax = 133.50666244025
+			text = "Sure. No you, uh, you did the right thing and I, and I can understand it <UNIN/>, it is quite anxiety provoking, OK. All right. Can I just double-check? Before we carry on asking other questions. Have you got  history of anaphylaxis?"
+		intervals [28]:
+			xmin = 133.50666244025
+			xmax = 134.926662424331
+			text = ""
+		intervals [29]:
+			xmin = 134.926662424331
+			xmax = 135.239995783691
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [30]:
+			xmin = 135.239995783691
+			xmax = 136.062215591427
+			text = ""
+		intervals [31]:
+			xmin = 136.062215591427
+			xmax = 138.793329058149
+			text = "No, OK. Have you ever been given an EpiPen?"
+		intervals [32]:
+			xmin = 138.793329058149
+			xmax = 140.999995679079
+			text = ""
+		intervals [33]:
+			xmin = 140.999995679079
+			xmax = 142.139995673773
+			text = "No, OK, all right."
+		intervals [34]:
+			xmin = 142.139995673773
+			xmax = 142.953326603941
+			text = ""
+		intervals [35]:
+			xmin = 142.953326603941
+			xmax = 150.686662092303
+			text = "Let, let's, um, take a step back now. So, in terms of the bee sting, <UNSURE>it was a</UNSURE> <UNIN/>. Did you see a bee or you're, you're just <UNIN/>, um, assuming it was a bee?"
+		intervals [36]:
+			xmin = 150.686662092303
+			xmax = 157.299995212875
+			text = ""
+		intervals [37]:
+			xmin = 157.299995212875
+			xmax = 158.873328524477
+			text = "<UNIN/>. One of the two."
+		intervals [38]:
+			xmin = 158.873328524477
+			xmax = 161.053328479752
+			text = ""
+		intervals [39]:
+			xmin = 161.053328479752
+			xmax = 165.553328347092
+			text = "<UNIN/>, OK. And, um, the area of your body that it stung. Where was it? Did you say it was your arm?"
+		intervals [40]:
+			xmin = 165.553328347092
+			xmax = 167.913327849802
+			text = ""
+		intervals [41]:
+			xmin = 167.913327849802
+			xmax = 170.233328245512
+			text = "All right. And you've got a rash there. Can I have a look?"
+		intervals [42]:
+			xmin = 170.233328245512
+			xmax = 175.273328092385
+			text = ""
+		intervals [43]:
+			xmin = 175.273328092385
+			xmax = 180.279994607188
+			text = "OK, all right. That looks OK to me right now. <UNIN/>, <UNSURE>does</UNSURE> it look red to you at the moment?"
+		intervals [44]:
+			xmin = 180.279994607188
+			xmax = 182.946661210683
+			text = ""
+		intervals [45]:
+			xmin = 182.946661210683
+			xmax = 183.713327886194
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [46]:
+			xmin = 183.713327886194
+			xmax = 185.779994512431
+			text = ""
+		intervals [47]:
+			xmin = 185.779994512431
+			xmax = 186.086661205377
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [48]:
+			xmin = 186.086661205377
+			xmax = 187.639994517737
+			text = ""
+		intervals [49]:
+			xmin = 187.639994517737
+			xmax = 196.706660878655
+			text = "Yeah, yeah, yeah. The puncture mark, yeah, OK, all right. Um, now, is, is there any swelling, around that area, that you can see? I, I couldn't see any."
+		intervals [50]:
+			xmin = 196.706660878655
+			xmax = 207.646660501901
+			text = ""
+		intervals [51]:
+			xmin = 207.646660501901
+			xmax = 218.133326808996
+			text = "Sure. OK, all right.Um, now, have you taken any medication? It's probably a <UNIN/>, you probably haven't, 'cause it was a few minutes ago. But have you? Is <UNIN/>. <UNIN/>, not taken <UNIN/>, any <UNIN/>, antihistamines or anything like that?"
+		intervals [52]:
+			xmin = 218.133326808996
+			xmax = 220.339993429927
+			text = ""
+		intervals [53]:
+			xmin = 220.339993429927
+			xmax = 220.69332678777
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [54]:
+			xmin = 220.69332678777
+			xmax = 221.793325669625
+			text = ""
+		intervals [55]:
+			xmin = 221.793325669625
+			xmax = 229.153326542918
+			text = "OK. <UNIN/>, now, um, if I can just go back. Do you have any history of any <UNIN/>, any, kind of illnesses at all?"
+		intervals [56]:
+			xmin = 229.153326542918
+			xmax = 234.346659717312
+			text = ""
+		intervals [57]:
+			xmin = 234.346659717312
+			xmax = 236.219993017544
+			text = "OK, <INAUDIBLE_SPEECH/>."
+		intervals [58]:
+			xmin = 236.219993017544
+			xmax = 239.053325241324
+			text = ""
+		intervals [59]:
+			xmin = 239.053325241324
+			xmax = 242.513326188148
+			text = "<UNIN/>, OK. Have you, got a history of any allergies to anything?"
+		intervals [60]:
+			xmin = 242.513326188148
+			xmax = 245.359992784821
+			text = ""
+		intervals [61]:
+			xmin = 245.359992784821
+			xmax = 253.866659166964
+			text = "All right, good. Um, and in your family, is there any history of any illnesses, or, any history of any kind of acute <UNIN/> reactions?"
+		intervals [62]:
+			xmin = 253.866659166964
+			xmax = 255.433325812152
+			text = ""
+		intervals [63]:
+			xmin = 255.433325812152
+			xmax = 255.699992506614
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [64]:
+			xmin = 255.699992506614
+			xmax = 258.205917366618
+			text = ""
+		intervals [65]:
+			xmin = 258.205917366618
+			xmax = 258.786846636255
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [66]:
+			xmin = 258.786846636255
+			xmax = 259.514306596128
+			text = ""
+		intervals [67]:
+			xmin = 259.514306596128
+			xmax = 265.673325537736
+			text = "Right. <UNIN/>, and, um, do you have allergies to any kind of, cats, or dogs, or pets, or anything like that?"
+		intervals [68]:
+			xmin = 265.673325537736
+			xmax = 268.426658804613
+			text = ""
+		intervals [69]:
+			xmin = 268.426658804613
+			xmax = 268.746658830387
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [70]:
+			xmin = 268.746658830387
+			xmax = 269.999992154118
+			text = ""
+		intervals [71]:
+			xmin = 269.999992154118
+			xmax = 273.313365331685
+			text = "Yeah. <UNIN/>, and you've got no food allergies as far as you're aware?"
+		intervals [72]:
+			xmin = 273.313365331685
+			xmax = 274.914567206176
+			text = ""
+		intervals [73]:
+			xmin = 274.914567206176
+			xmax = 275.573325314109
+			text = "OK."
+		intervals [74]:
+			xmin = 275.573325314109
+			xmax = 277.113324402157
+			text = ""
+		intervals [75]:
+			xmin = 277.113324402157
+			xmax = 281.553325163256
+			text = "Um, can I ask? Do you suffer from anxiety or panic attacks, or anything like that?"
+		intervals [76]:
+			xmin = 281.553325163256
+			xmax = 286.079991696252
+			text = ""
+		intervals [77]:
+			xmin = 286.079991696252
+			xmax = 288.713324967677
+			text = "Right, OK. Have you ever been on medication for that?"
+		intervals [78]:
+			xmin = 288.713324967677
+			xmax = 292.053324878985
+			text = ""
+		intervals [79]:
+			xmin = 292.053324878985
+			xmax = 292.386658237587
+			text = "<UNSURE>OK</UNSURE>."
+		intervals [80]:
+			xmin = 292.386658237587
+			xmax = 293.666657038328
+			text = ""
+		intervals [81]:
+			xmin = 293.666657038328
+			xmax = 301.142979
+			text = "Um, great. Now, um, I need to ask a few questions, maybe not directly related to this, but just, it's for, for general information purposes."
+		intervals [82]:
+			xmin = 301.142979
+			xmax = 303.91999120958
+			text = "So, um, <UNIN/>, are you working at the moment?"
+		intervals [83]:
+			xmin = 303.91999120958
+			xmax = 305.286657862349
+			text = ""
+		intervals [84]:
+			xmin = 305.286657862349
+			xmax = 306.373324525731
+			text = "What do you work as?"
+		intervals [85]:
+			xmin = 306.373324525731
+			xmax = 312.451100900434
+			text = ""
+		intervals [86]:
+			xmin = 312.451100900434
+			xmax = 315.373324260411
+			text = "OK. And, um, <UNIN/>, you living alone?"
+		intervals [87]:
+			xmin = 315.373324260411
+			xmax = 317.033324235395
+			text = ""
+		intervals [88]:
+			xmin = 317.033324235395
+			xmax = 318.926657534869
+			text = "OK. Do you have any pets at home?"
+		intervals [89]:
+			xmin = 318.926657534869
+			xmax = 321.239990818423
+			text = ""
+		intervals [90]:
+			xmin = 321.239990818423
+			xmax = 322.939990791891
+			text = "<UNSURE>A cat</UNSURE>. OK, great."
+		intervals [91]:
+			xmin = 322.939990791891
+			xmax = 323.889619101814
+			text = ""
+		intervals [92]:
+			xmin = 323.889619101814
+			xmax = 328.396676556105
+			text = "What I'd like to do now. If that's OK John? Is, I'd like to have a look inside your mouth, OK."
+		intervals [93]:
+			xmin = 328.396676556105
+			xmax = 338.513323610757
+			text = "Um, one of the things that, um, we'd be worried about if, someone's going to have an acute allergic reaction. Is to see whether there's any swelling, of the lips, or the tissues inside the mouth, or the."
+		intervals [94]:
+			xmin = 338.513323610757
+			xmax = 351.684432141977
+			text = "Soft tissues of the airway. And, um, I can, I've got a fairly good view of your lips, but I'd like maybe if you can, bring your device closer to your mouth, and then put your head back, mouth open wide. Sit somewhere where there's good lighting. And I just wanna have a look inside the throat, if that's OK?"
+		intervals [95]:
+			xmin = 351.684432141977
+			xmax = 354.859989139322
+			text = ""
+		intervals [96]:
+			xmin = 354.859989139322
+			xmax = 361.939989503195
+			text = "Perfect, OK, great. Now, um, um, can, can I just get you to do it again? And, just say ah, this time."
+		intervals [97]:
+			xmin = 361.939989503195
+			xmax = 364.093322792814
+			text = ""
+		intervals [98]:
+			xmin = 364.093322792814
+			xmax = 367.643381299625
+			text = "OK, fantastic, brilliant. OK. Um."
+		intervals [99]:
+			xmin = 367.643381299625
+			xmax = 369.049016124699
+			text = ""
+		intervals [100]:
+			xmin = 369.049016124699
+			xmax = 377.33329418103
+			text = "Uh, John. Based on, um, how you look. How you're talking to me, and how you're breathing, and the appearance, <UNSURE>and</UNSURE> your wrist."
+		intervals [101]:
+			xmin = 377.33329418103
+			xmax = 384.237423
+			text = "Um, I don't feel that you're having <UNIN/>, a, an, an, a life-threatening, uh, allergic reaction."
+		intervals [102]:
+			xmin = 384.237423
+			xmax = 401.54147070715
+			text = "Now it's very normal, to have, a rash, when you have some kind of insect bite. It's uh, it's a localised, um, uh, inflammatory reaction, that um, is normal and that <UNIN/>, immediate reaction, that redness, and that maybe slight swelling, is usually temporary."
+		intervals [103]:
+			xmin = 401.54147070715
+			xmax = 412.851012299625
+			text = "What we're worried about, is when someone has, um, compromise of their breathing. So you mentioned, breathing difficulties and you mentioned swelling of your lip. Thankfully I can't see any of that right now."
+		intervals [104]:
+			xmin = 412.851012299625
+			xmax = 413.384238906564
+			text = ""
+		intervals [105]:
+			xmin = 413.384238906564
+			xmax = 418.206654188808
+			text = "<UNIN/>, but that's, the most, urgent and most pressing thing that we'd be watching out for."
+		intervals [106]:
+			xmin = 418.206654188808
+			xmax = 419.673320317755
+			text = ""
+		intervals [107]:
+			xmin = 419.673320317755
+			xmax = 428.87359117633
+			text = "Given that it hasn't happened, initially, it's unlikely to happen later. OK we, so we have like a <UNIN/>, stage one and stage two reaction, for these types of bites."
+		intervals [108]:
+			xmin = 428.87359117633
+			xmax = 431.934002232909
+			text = "And, usually if you're gonna have the reaction, it will happen straight away."
+		intervals [109]:
+			xmin = 431.934002232909
+			xmax = 441.196704
+			text = "So, <INAUDIBLE_SPEECH/>, we may be coming out of the danger zone now, it's um. But I'm just going to warn you about what those signs and symptoms are, in case it happens. So for example."
+		intervals [110]:
+			xmin = 441.196704
+			xmax = 452.700742605977
+			text = "You would have, swelling of the lips, difficulty breathing. You might have something called stridor, which is an inspiratory sound that you, when you're trying, trying to breathe. It makes like a rasping sound, like this. OK. <UNIN/>."
+		intervals [111]:
+			xmin = 452.700742605977
+			xmax = 457.777687
+			text = "Thankfully, you don't have anything like that right now. It seems to me like this is a localised allergic reaction."
+		intervals [112]:
+			xmin = 457.777687
+			xmax = 464.005873627068
+			text = "<UNSURE>However, if</UNSURE> anything changes, if anything deteriorates. Either make an appointment with us, or go straight to A and E."
+		intervals [113]:
+			xmin = 464.005873627068
+			xmax = 472.851965636255
+			text = "Um, uh, and in some cases, if it's, if it's, uh, progressing rapidly, it's better to go straight to A and E, rather than to, wait for a booked appointment with us, OK."
+		intervals [114]:
+			xmin = 472.851965636255
+			xmax = 476.738421182305
+			text = "What I'd like you to do now, is I'd like you to try and take some antihistamines."
+		intervals [115]:
+			xmin = 476.738421182305
+			xmax = 485.56324920839
+			text = "So you can buy <UNSURE>them over the</UNSURE> counter. You can get Piriton or Chlorphenamine, and you can take one tablet, four milligrams, um, up to about six times a day. OK."
+		intervals [116]:
+			xmin = 485.56324920839
+			xmax = 493.28036833663
+			text = "Or you can just take a one-a-day one, whichever is your preference, that's, that's absolutely fine, there's no, no issue. That should be enough to control this."
+		intervals [117]:
+			xmin = 493.28036833663
+			xmax = 500.49998463041
+			text = "Um, if, the redness in your arm spreads, and <UNSURE>you, it</UNSURE> feels hot, or you, you know, you have signs of any localised infection."
+		intervals [118]:
+			xmin = 500.49998463041
+			xmax = 503.602168033362
+			text = "We may need to think about other treatments, like an antibiotic."
+		intervals [119]:
+			xmin = 503.602168033362
+			xmax = 511.379984293833
+			text = "And like I said if anything deteriorates, in terms of your breathing, that's urgent and we need to process that, <INAUDIBLE_SPEECH/>, action needs to be taken urgently."
+		intervals [120]:
+			xmin = 511.379984293833
+			xmax = 512.155537436671
+			text = ""
+		intervals [121]:
+			xmin = 512.155537436671
+			xmax = 516.719984167237
+			text = "Did <UNSURE>you have</UNSURE> any other, um, queries or was there anything else that you're worried about?"
+		intervals [122]:
+			xmin = 516.719984167237
+			xmax = 528.113316438021
+			text = ""
+		intervals [123]:
+			xmin = 528.113316438021
+			xmax = 537.98022320839
+			text = "<UNSURE>Yeah, that's, that's over the</UNSURE>, yeah <UNIN/>, over the counter. You don't need to, any chemist, will have it, you don't need a prescription for that. Yeah, it's probably cheaper to buy it over the counter actually, than to get it via prescription."
+		intervals [124]:
+			xmin = 537.98022320839
+			xmax = 547.633316404674
+			text = "OK. Um, now, um, uh, on the basis of what you've told me, I don't think you need any allergy testing. I think this is just a <UNIN/>, a straightforward localised reaction to a, an insect bite."
+		intervals [125]:
+			xmin = 547.633316404674
+			xmax = 558.946480556105
+			text = "However, if it was to happen that, you know, this, you're, you're having these kind of reactions on a regular basis or other, <UNIN/>, non-specific rashes. We might need to think about blood testing, I don't think we're at, at that moment yet. OK."
+		intervals [126]:
+			xmin = 558.946480556105
+			xmax = 563.177759087182
+			text = "So uh, but <UNIN/>, that's something to bear in mind in case this, becomes a recurrent pattern."
+		intervals [127]:
+			xmin = 563.177759087182
+			xmax = 564.044597648764
+			text = ""
+		intervals [128]:
+			xmin = 564.044597648764
+			xmax = 574.3600001603
+			text = "OK then, so, we'll leave it like that for now, OK. I'm gonna leave a <UNSURE>link</UNSURE> to some information about anaphylactic reactions, just for you to read about it. I don't want you to panic, but just for you to be aware what <UNIN/> symptoms are."
+		intervals [129]:
+			xmin = 574.3600001603
+			xmax = 577.056258755887
+			text = "If those kind of things happen, get back to us."
+		intervals [130]:
+			xmin = 577.056258755887
+			xmax = 582.62664852537
+			text = "If you're feeling worried, just have a lower threshold for <UNIN/>, having a chat with us, sometimes a chat is all you need to calm things down."
+		intervals [131]:
+			xmin = 582.62664852537
+			xmax = 585.606646890225
+			text = ""
+		intervals [132]:
+			xmin = 585.606646890225
+			xmax = 590.946648285824
+			text = "All right then John, OK. Uh, <UNSURE>well</UNSURE> we'll leave it like that, <UNIN/>, come back to us if you have any further issues."
+		intervals [133]:
+			xmin = 590.946648285824
+			xmax = 593.326648233518
+			text = ""
+		intervals [134]:
+			xmin = 593.326648233518
+			xmax = 595.213314866578
+			text = "My pleasure. All right, take care then. All the best."
+		intervals [135]:
+			xmin = 595.213314866578
+			xmax = 596.486648189551
+			text = ""
+		intervals [136]:
+			xmin = 596.486648189551
+			xmax = 597.006648207744
+			text = "Bye <UNSURE>bye</UNSURE>."
+		intervals [137]:
+			xmin = 597.006648207744
+			xmax = 598.259977324263
+			text = ""
+

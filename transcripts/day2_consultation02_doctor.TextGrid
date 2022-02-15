@@ -1,0 +1,403 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 541.559977324263
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 541.559977324263
+		intervals: size = 97
+		intervals [1]:
+			xmin = 0
+			xmax = 0.865034111977115
+			text = ""
+		intervals [2]:
+			xmin = 0.865034111977115
+			xmax = 2.68422167965673
+			text = "Hi there. Good morning."
+		intervals [3]:
+			xmin = 2.68422167965673
+			xmax = 4.09775825278673
+			text = ""
+		intervals [4]:
+			xmin = 4.09775825278673
+			xmax = 7.54138345764581
+			text = "Um, I'm Doctor <UNSURE>Deen Mirza</UNSURE> from GP at Hand. Nice to see you."
+		intervals [5]:
+			xmin = 7.54138345764581
+			xmax = 8.88725040971818
+			text = ""
+		intervals [6]:
+			xmin = 8.88725040971818
+			xmax = 13.1729864544056
+			text = "OK. Before we start your appointment, could you please tell me your first name and your date of birth."
+		intervals [7]:
+			xmin = 13.1729864544056
+			xmax = 22.0978509649333
+			text = ""
+		intervals [8]:
+			xmin = 22.0978509649333
+			xmax = 26.9174251312976
+			text = "OK, that's great. Thank you for that. Um, are you in a private place where you're OK to speak freely?"
+		intervals [9]:
+			xmin = 26.9174251312976
+			xmax = 27.7820858891823
+			text = ""
+		intervals [10]:
+			xmin = 27.7820858891823
+			xmax = 34.9024271715063
+			text = "<UNSURE>OK</UNSURE>, OK, great. OK, so um, tell me a bit about what's been happening? <UNSURE>You said</UNSURE> you mentioned in the notes that <UNSURE>you've</UNSURE> got a problem with your elbow."
+		intervals [11]:
+			xmin = 34.9024271715063
+			xmax = 53.0980297669301
+			text = ""
+		intervals [12]:
+			xmin = 53.0980297669301
+			xmax = 53.887502056973
+			text = "<UNSURE>Sure</UNSURE>."
+		intervals [13]:
+			xmin = 53.887502056973
+			xmax = 63.240940834199
+			text = ""
+		intervals [14]:
+			xmin = 63.240940834199
+			xmax = 66.0454640624027
+			text = "Sure, sure. <UNIN/>, and <UNIN/>."
+		intervals [15]:
+			xmin = 66.0454640624027
+			xmax = 68.1657722332457
+			text = ""
+		intervals [16]:
+			xmin = 68.1657722332457
+			xmax = 71.2484927924641
+			text = "<UNIN/>, and so, did you say it was the left elbow or the right elbow?"
+		intervals [17]:
+			xmin = 71.2484927924641
+			xmax = 75.1131734172374
+			text = ""
+		intervals [18]:
+			xmin = 75.1131734172374
+			xmax = 79.6846256397237
+			text = "Left elbow, OK. <UNIN/>, and have you banged that elbow? Do you have any kind of injury?"
+		intervals [19]:
+			xmin = 79.6846256397237
+			xmax = 92.8726762768824
+			text = ""
+		intervals [20]:
+			xmin = 92.8726762768824
+			xmax = 99.8200840831702
+			text = "Sure, OK. <UNIN/>, and um, <UNIN/>, in terms of your job, do you do anything physical?"
+		intervals [21]:
+			xmin = 99.8200840831702
+			xmax = 103.790028562922
+			text = ""
+		intervals [22]:
+			xmin = 103.790028562922
+			xmax = 108.143434228667
+			text = "Right. OK. <UNIN/>, and um, has this happened before?"
+		intervals [23]:
+			xmin = 108.143434228667
+			xmax = 117.331458376641
+			text = ""
+		intervals [24]:
+			xmin = 117.331458376641
+			xmax = 128.075883808941
+			text = "Sure, OK. Uh, and can I um, can I just double-check? Has anyone in your family, got any, kind of rheumatology, diseases, like rheumatoid arthritis, or lupus or anything like that?"
+		intervals [25]:
+			xmin = 128.075883808941
+			xmax = 143.248909997123
+			text = ""
+		intervals [26]:
+			xmin = 143.248909997123
+			xmax = 144.241391150339
+			text = "OK."
+		intervals [27]:
+			xmin = 144.241391150339
+			xmax = 145.030863440382
+			text = ""
+		intervals [28]:
+			xmin = 145.030863440382
+			xmax = 153.271512893549
+			text = "Sure. <UNIN/>, so you know you said you think you've got <UNIN/>, uh, osteoarthritis. Has anyone ever told you that? Have you ever seen a doctor who's confirmed that, and told you you've got osteoarthritis?"
+		intervals [29]:
+			xmin = 153.271512893549
+			xmax = 156.827920800171
+			text = ""
+		intervals [30]:
+			xmin = 156.827920800171
+			xmax = 161.842984982924
+			text = "OK. <UNIN/>, was that a GP or a specialist or, was it, a <UNSURE>physiotherapist</UNSURE>?"
+		intervals [31]:
+			xmin = 161.842984982924
+			xmax = 163.301634636759
+			text = ""
+		intervals [32]:
+			xmin = 163.301634636759
+			xmax = 169.376856216082
+			text = "GP, OK, all right. Um, look can I just, uh, sorry can I just double-check how old you are please?"
+		intervals [33]:
+			xmin = 169.376856216082
+			xmax = 171.061071273443
+			text = ""
+		intervals [34]:
+			xmin = 171.061071273443
+			xmax = 176.188918157958
+			text = "Fifty three, OK. Fantastic. All right. Um, and, do you have any other illnesses at all?"
+		intervals [35]:
+			xmin = 176.188918157958
+			xmax = 184.760396869629
+			text = ""
+		intervals [36]:
+			xmin = 184.760396869629
+			xmax = 187.482212783207
+			text = "Right, OK. <INAUDIBLE_SPEECH/>."
+		intervals [37]:
+			xmin = 187.482212783207
+			xmax = 188.925824743474
+			text = ""
+		intervals [38]:
+			xmin = 188.925824743474
+			xmax = 192.963438844283
+			text = "OK. Uh, <UNSURE>are you</UNSURE>, are, are you allergic to any medication?"
+		intervals [39]:
+			xmin = 192.963438844283
+			xmax = 194.121334626751
+			text = ""
+		intervals [40]:
+			xmin = 194.121334626751
+			xmax = 194.745392287542
+			text = "No."
+		intervals [41]:
+			xmin = 194.745392287542
+			xmax = 195.301780327275
+			text = ""
+		intervals [42]:
+			xmin = 195.301780327275
+			xmax = 200.564966453906
+			text = "Sure. <UNIN/>, and um, do you um, are you on any medication on a regular basis?"
+		intervals [43]:
+			xmin = 200.564966453906
+			xmax = 201.888276865626
+			text = ""
+		intervals [44]:
+			xmin = 201.888276865626
+			xmax = 206.519879862386
+			text = "No, OK.  And are you normally fit and well? Mobile and active?"
+		intervals [45]:
+			xmin = 206.519879862386
+			xmax = 216.362043680584
+			text = ""
+		intervals [46]:
+			xmin = 216.362043680584
+			xmax = 226.414735208739
+			text = "OK, good, good, glad to hear. Well done that's <UNIN/>, it's good that you're doing that on a regular basis. OK. Um, and um, uh, can I, is it possible for me to have a look at your elbow, now?"
+		intervals [47]:
+			xmin = 226.414735208739
+			xmax = 228.96361764628
+			text = ""
+		intervals [48]:
+			xmin = 228.96361764628
+			xmax = 230.835803873245
+			text = "OK, good, bear with me one second."
+		intervals [49]:
+			xmin = 230.835803873245
+			xmax = 232.94107435052
+			text = ""
+		intervals [50]:
+			xmin = 232.94107435052
+			xmax = 239.809179
+			text = "Right, OK. And if you can just raise your elbow up a little bit like that, a bit higher, so I can just see the underside. OK, fantastic, all right."
+		intervals [51]:
+			xmin = 239.809179
+			xmax = 249.369747951661
+			text = "And then, just, bring it round to this side, <INAUDIBLE_SPEECH/>, I can see other side. OK, fantastic. All right. And if you can just touch the tip of your elbow with your fingers."
+		intervals [52]:
+			xmin = 249.369747951661
+			xmax = 254.339699053709
+			text = "There's, <UNIN/>, is it, is it hot, compared to the surrounding skin, the adjacent skin?"
+		intervals [53]:
+			xmin = 254.339699053709
+			xmax = 256.647978394157
+			text = ""
+		intervals [54]:
+			xmin = 256.647978394157
+			xmax = 265.820964848562
+			text = "It's a bit warmer. OK. Um, and um, is it very tender when you're pressing on that nerve? Is it, if you, if you give it a press, does it hurt you at all?"
+		intervals [55]:
+			xmin = 265.820964848562
+			xmax = 277.024039934697
+			text = ""
+		intervals [56]:
+			xmin = 277.024039934697
+			xmax = 285.633112880289
+			text = "OK. All right. Um, well, um, I noticed the skin was a bit dry, <UNIN/>, on the tip of the elbow. Do you, do you have dry skin anywhere else on the body?"
+		intervals [57]:
+			xmin = 285.633112880289
+			xmax = 287.384997558707
+			text = ""
+		intervals [58]:
+			xmin = 287.384997558707
+			xmax = 292.197052878287
+			text = "<INAUDIBLE_SPEECH/>, <UNSURE>do you</UNSURE> <UNIN/>, do you suffer from eczema at all?"
+		intervals [59]:
+			xmin = 292.197052878287
+			xmax = 293.557957523928
+			text = ""
+		intervals [60]:
+			xmin = 293.557957523928
+			xmax = 294.768485233885
+			text = "No. Alright."
+		intervals [61]:
+			xmin = 294.768485233885
+			xmax = 296.099314492389
+			text = ""
+		intervals [62]:
+			xmin = 296.099314492389
+			xmax = 301.557535227219
+			text = "OK. So um, what I think we should do, with regards to your elbow problem"
+		intervals [63]:
+			xmin = 301.557535227219
+			xmax = 313.670647945709
+			text = "OK. Is um, I think, it would be worthwhile. <UNIN/>, this seems like uh, what we call the Bursitis. OK. So, that's an inflammation of one of the fluid sacs around the joint."
+		intervals [64]:
+			xmin = 313.670647945709
+			xmax = 321.256811241427
+			text = "Um, what I think we should do is, I think you should be on some anti-inflammatory medication, in the, in the first instance."
+		intervals [65]:
+			xmin = 321.256811241427
+			xmax = 329.669722998654
+			text = "And, as well as that, what I would like to do, is to get some blood tests done, to check for other types of uh, causes of joint swelling. K?"
+		intervals [66]:
+			xmin = 329.669722998654
+			xmax = 341.126554619602
+			text = "So, um, what we're going to do is, we're going to arrange some, um, blood test forms to be sent out to your house. And, there'll be instructions within that pack, about where to go to get those blood tests done."
+		intervals [67]:
+			xmin = 341.126554619602
+			xmax = 351.057831091106
+			text = "And, that will involve you, um, having some tests done to check for inflammatory markers, infection, rheumatological antibodies."
+		intervals [68]:
+			xmin = 351.057831091106
+			xmax = 356.82148800996
+			text = "So we'll do a full screen, and also check for things like Gout as well, OK. Um."
+		intervals [69]:
+			xmin = 356.82148800996
+			xmax = 364.123025684824
+			text = "The time frame for that, will be um, the results will come back to us after about five <UNSURE>or</UNSURE> six days. Um."
+		intervals [70]:
+			xmin = 364.123025684824
+			xmax = 374.230504131447
+			text = "From now, but it may take time for the form to come out to you. And if you get the form get the blood tests done straight away, by the time that we're expecting result back, you know one or two days after that, we're looking maybe six days."
+		intervals [71]:
+			xmin = 374.230504131447
+			xmax = 386.373171401114
+			text = "And, what I would suggest, is, we can arrange a follow-up appointment for you, in one of our clinics, where we can have a look at your joint, feel it, we can review the blood test."
+		intervals [72]:
+			xmin = 386.373171401114
+			xmax = 392.896895013576
+			text = "Uh, we can um, get a gauge as to, uh, what's going on. Now in terms of your joint right now,"
+		intervals [73]:
+			xmin = 392.896895013576
+			xmax = 393.896895013576
+			text = ""
+		intervals [74]:
+			xmin = 393.896895013576
+			xmax = 402.686420281988
+			text = "It doesn't look like, to me that's something called, excuse me, septic arthritis. So, we're worried sometimes that someone might have an acutely infected joint."
+		intervals [75]:
+			xmin = 402.686420281988
+			xmax = 404.167626476176
+			text = ""
+		intervals [76]:
+			xmin = 404.167626476176
+			xmax = 408.284176526498
+			text = "Um, and uh, your, your joint doesn't look like that."
+		intervals [77]:
+			xmin = 408.284176526498
+			xmax = 422.105159
+			text = "However, if your, the elbow was to become very red, very painful, uh, and the redness was to spread or become uh, you know more intense. Then you need to get on the phone or get, have a video appointment <INAUDIBLE_SPEECH/>, with one of us as soon as possible."
+		intervals [78]:
+			xmin = 422.105159
+			xmax = 427.814386367836
+			text = "'Cause that would be an emergency. That would require more immediate assessment, more immediate treatment. OK?"
+		intervals [79]:
+			xmin = 427.814386367836
+			xmax = 435.192737553355
+			text = ""
+		intervals [80]:
+			xmin = 435.192737553355
+			xmax = 449.77189852177
+			text = "No. I, I don't think this is anything dangerous. <UNIN/> don't need to worry. OK? What I'm doing, is I'm just outlining the worst case scenario if things were to, to <UNSURE>develop</UNSURE>. K? So, <INAUDIBLE_SPEECH/>, this, this is not the case right now. Right now, it looks quite straightforward."
+		intervals [81]:
+			xmin = 449.77189852177
+			xmax = 461.87091764949
+			text = "<UNSURE>It's</UNSURE> nothing <UNIN/>, sinister or life-threatening. Um, what I'm doing is I'm just saying, in case things worsen, these are the things that we'd be looking out for, and this is what we have to do. But you don't have that now, thankfully, and I don't think you're going to have it."
+		intervals [82]:
+			xmin = 461.87091764949
+			xmax = 465.333411954014
+			text = "But I'm just saying, the what if scenario. Is that OK?"
+		intervals [83]:
+			xmin = 465.333411954014
+			xmax = 467.431163584505
+			text = ""
+		intervals [84]:
+			xmin = 467.431163584505
+			xmax = 470.280799893414
+			text = "All right. Did you have any questions that you wanted to ask me?"
+		intervals [85]:
+			xmin = 470.280799893414
+			xmax = 478.220695475213
+			text = ""
+		intervals [86]:
+			xmin = 478.220695475213
+			xmax = 480.266018931251
+			text = "OK, all right. Um."
+		intervals [87]:
+			xmin = 480.266018931251
+			xmax = 481.604163283503
+			text = ""
+		intervals [88]:
+			xmin = 481.604163283503
+			xmax = 495.446353590886
+			text = "OK. So, I, I would take Ibuprofen regularly, OK. You can get that <UNIN/>, over the counter. Um, that's four hundred milligrams, two times a day. And you should take, take that after food, not on an empty stomach. If you get any heartburn, stop taking it. OK."
+		intervals [89]:
+			xmin = 495.446353590886
+			xmax = 496.295976655202
+			text = ""
+		intervals [90]:
+			xmin = 496.295976655202
+			xmax = 499.314571321997
+			text = "All right. So, what I wanna do is, I'll get the <UNSURE>forms</UNSURE> sent out to you."
+		intervals [91]:
+			xmin = 499.314571321997
+			xmax = 502.995468586992
+			text = "And, um, we are going to arrange a, a follow-up appointment."
+		intervals [92]:
+			xmin = 502.995468586992
+			xmax = 516.927678986404
+			text = "Maybe within a um, actually you know, the follow-up appointment doesn't have to be face-to-face, if it's more convenient for you do, to do it over the phone, we can do that over the phone, uh, over video. We can do that as well, that's, that's your call. But you contact us, <UNIN/>, after you've had the blood test done, and we can review things then, OK."
+		intervals [93]:
+			xmin = 516.927678986404
+			xmax = 523.589370614893
+			text = ""
+		intervals [94]:
+			xmin = 523.589370614893
+			xmax = 535.713158195484
+			text = "Sure, sure that's a good idea. All right then, OK. Um, take care then. So <UNIN/>, <UNSURE>look</UNSURE> just leave that with me, I'll sort all those bits and pieces out, and then we'll get them sent out to you, and then we'll, we'll um, review you after the tests, things goes well, OK."
+		intervals [95]:
+			xmin = 535.713158195484
+			xmax = 536.526508140792
+			text = ""
+		intervals [96]:
+			xmin = 536.526508140792
+			xmax = 538.897736045191
+			text = "All right <UNSURE>then</UNSURE>. Take care then, all the best. Bye bye."
+		intervals [97]:
+			xmin = 538.897736045191
+			xmax = 541.559977324263
+			text = ""
+

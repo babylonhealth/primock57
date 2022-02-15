@@ -1,0 +1,571 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 563.339977324263
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 563.339977324263
+		intervals: size = 139
+		intervals [1]:
+			xmin = 0
+			xmax = 3.2984939727622
+			text = ""
+		intervals [2]:
+			xmin = 3.2984939727622
+			xmax = 11.5596453867155
+			text = "Hi there, it's Doctor Smith from Babylon. Can you confirm your name, date of birth and your address, please?"
+		intervals [3]:
+			xmin = 11.5596453867155
+			xmax = 25.9774946918325
+			text = ""
+		intervals [4]:
+			xmin = 25.9774946918325
+			xmax = 29.6192702319553
+			text = "OK, that's fine. <UNIN/> Are you in a private place so you can have a consultation?"
+		intervals [5]:
+			xmin = 29.6192702319553
+			xmax = 30.8655374433227
+			text = ""
+		intervals [6]:
+			xmin = 30.8655374433227
+			xmax = 32.4849367931255
+			text = "What can I do for you today?"
+		intervals [7]:
+			xmin = 32.4849367931255
+			xmax = 41.1042950599768
+			text = ""
+		intervals [8]:
+			xmin = 41.1042950599768
+			xmax = 43.813240254011
+			text = "OK, and how long has that been going on for?"
+		intervals [9]:
+			xmin = 43.813240254011
+			xmax = 47.6266565778141
+			text = ""
+		intervals [10]:
+			xmin = 47.6266565778141
+			xmax = 50.9400758361137
+			text = "And have you ever had similar symptoms in the past?"
+		intervals [11]:
+			xmin = 50.9400758361137
+			xmax = 58.2609459991959
+			text = ""
+		intervals [12]:
+			xmin = 58.2609459991959
+			xmax = 60.9848164787676
+			text = "As, was that as an adult or as a child?"
+		intervals [13]:
+			xmin = 60.9848164787676
+			xmax = 65.454945366217
+			text = ""
+		intervals [14]:
+			xmin = 65.454945366217
+			xmax = 67.1116579298633
+			text = "How long ago was that?"
+		intervals [15]:
+			xmin = 67.1116579298633
+			xmax = 69.4517547670923
+			text = ""
+		intervals [16]:
+			xmin = 69.4517547670923
+			xmax = 72.626562673925
+			text = "How long ago was that, that you had similar symptoms?"
+		intervals [17]:
+			xmin = 72.626562673925
+			xmax = 73.8728298852924
+			text = ""
+		intervals [18]:
+			xmin = 73.8728298852924
+			xmax = 74.5519362462379
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [19]:
+			xmin = 74.5519362462379
+			xmax = 75.984769526823
+			text = ""
+		intervals [20]:
+			xmin = 75.984769526823
+			xmax = 79.9847519198438
+			text = "And any problems with wheezing when you were a child or any asthma?"
+		intervals [21]:
+			xmin = 79.9847519198438
+			xmax = 90.0518628838245
+			text = ""
+		intervals [22]:
+			xmin = 90.0518628838245
+			xmax = 93.5816987824167
+			text = "OK, and <UNIN/> when you were a child how bad was your asthma?"
+		intervals [23]:
+			xmin = 93.5816987824167
+			xmax = 96.2010922632264
+			text = ""
+		intervals [24]:
+			xmin = 96.2010922632264
+			xmax = 98.4025777489885
+			text = "Did you have to take medication?"
+		intervals [25]:
+			xmin = 98.4025777489885
+			xmax = 101.813011363281
+			text = ""
+		intervals [26]:
+			xmin = 101.813011363281
+			xmax = 103.536887711846
+			text = "Do you know which ones you took?"
+		intervals [27]:
+			xmin = 103.536887711846
+			xmax = 106.715979400309
+			text = ""
+		intervals [28]:
+			xmin = 106.715979400309
+			xmax = 109.424924594343
+			text = "And did you ever have to go to hospital with it?"
+		intervals [29]:
+			xmin = 109.424924594343
+			xmax = 111.738349721636
+			text = ""
+		intervals [30]:
+			xmin = 111.738349721636
+			xmax = 117.39566785393
+			text = "Did you ever get severely unwell, have to be on intensive care unit or anything like that?"
+		intervals [31]:
+			xmin = 117.39566785393
+			xmax = 123.118891681902
+			text = ""
+		intervals [32]:
+			xmin = 123.118891681902
+			xmax = 124.887543887079
+			text = "Did you have to miss school?"
+		intervals [33]:
+			xmin = 124.887543887079
+			xmax = 128.245739001991
+			text = ""
+		intervals [34]:
+			xmin = 128.245739001991
+			xmax = 138.066582754605
+			text = "OK. And when do you think it last, when do you think that asthma stopped? At what age did you get to a point where you weren't taking medication anymore?"
+		intervals [35]:
+			xmin = 138.066582754605
+			xmax = 146.900307197074
+			text = ""
+		intervals [36]:
+			xmin = 146.900307197074
+			xmax = 147.439612292177
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [37]:
+			xmin = 147.439612292177
+			xmax = 148.462085214367
+			text = ""
+		intervals [38]:
+			xmin = 148.462085214367
+			xmax = 158.357555394667
+			text = "And so this time, how did it start? Did you have any other symptoms? Any chest pain, temperature, cold symptoms, anything like that?"
+		intervals [39]:
+			xmin = 158.357555394667
+			xmax = 182.708164617956
+			text = ""
+		intervals [40]:
+			xmin = 182.708164617956
+			xmax = 186.058897090099
+			text = "Right. Have you coughed any phlegm up or anything like that?"
+		intervals [41]:
+			xmin = 186.058897090099
+			xmax = 188.155905577099
+			text = ""
+		intervals [42]:
+			xmin = 188.155905577099
+			xmax = 192.185738541195
+			text = "Any, any, um, blood in there when you cough?"
+		intervals [43]:
+			xmin = 192.185738541195
+			xmax = 195.252890588127
+			text = ""
+		intervals [44]:
+			xmin = 195.252890588127
+			xmax = 197.39467493174
+			text = "OK. And any chest pain?"
+		intervals [45]:
+			xmin = 197.39467493174
+			xmax = 200.431976407597
+			text = ""
+		intervals [46]:
+			xmin = 200.431976407597
+			xmax = 203.1483842444
+			text = "Have you been woken up at night time at all?"
+		intervals [47]:
+			xmin = 203.1483842444
+			xmax = 205.976731722734
+			text = ""
+		intervals [48]:
+			xmin = 205.976731722734
+			xmax = 208.446872348169
+			text = "Have you been able to do any exercise?"
+		intervals [49]:
+			xmin = 208.446872348169
+			xmax = 212.091510748009
+			text = ""
+		intervals [50]:
+			xmin = 212.091510748009
+			xmax = 217.670710548279
+			text = "OK, and do you have a peak flow meter at home, where you measure your breathing?"
+		intervals [51]:
+			xmin = 217.670710548279
+			xmax = 218.670710548279
+			text = ""
+		intervals [52]:
+			xmin = 218.670710548279
+			xmax = 223.819939927681
+			text = "You have what's called a peak flow meter, which you breathe into to get a score on your breathing?"
+		intervals [53]:
+			xmin = 223.819939927681
+			xmax = 225.909485771912
+			text = ""
+		intervals [54]:
+			xmin = 225.909485771912
+			xmax = 230.207973875681
+			text = "And do you normally take any asthma inhalers over the last few years?"
+		intervals [55]:
+			xmin = 230.207973875681
+			xmax = 231.804985297178
+			text = ""
+		intervals [56]:
+			xmin = 231.804985297178
+			xmax = 235.573625764369
+			text = "You do? So you said you stopped them three to four years ago?"
+		intervals [57]:
+			xmin = 235.573625764369
+			xmax = 240.431812075791
+			text = ""
+		intervals [58]:
+			xmin = 240.431812075791
+			xmax = 243.618366407023
+			text = "OK. How about over the last three to four years?"
+		intervals [59]:
+			xmin = 243.618366407023
+			xmax = 245.058662330377
+			text = ""
+		intervals [60]:
+			xmin = 245.058662330377
+			xmax = 247.237759887833
+			text = "Have you taken any medication?"
+		intervals [61]:
+			xmin = 247.237759887833
+			xmax = 253.640713252377
+			text = ""
+		intervals [62]:
+			xmin = 253.640713252377
+			xmax = 257.849649642922
+			text = "OK, so you, you normally take that do you? Or is that just recently?"
+		intervals [63]:
+			xmin = 257.849649642922
+			xmax = 262.013821914841
+			text = ""
+		intervals [64]:
+			xmin = 262.013821914841
+			xmax = 264.513813111351
+			text = "OK, and how often do you normally need it?"
+		intervals [65]:
+			xmin = 264.513813111351
+			xmax = 272.364530911011
+			text = ""
+		intervals [66]:
+			xmin = 272.364530911011
+			xmax = 278.767484275556
+			text = "OK. What about when you exercise normally, do you have to use medication? Uh, inhalers?"
+		intervals [67]:
+			xmin = 278.767484275556
+			xmax = 280.916731261937
+			text = ""
+		intervals [68]:
+			xmin = 280.916731261937
+			xmax = 281.916731261937
+			text = "Pardon?"
+		intervals [69]:
+			xmin = 281.916731261937
+			xmax = 284.364483959067
+			text = ""
+		intervals [70]:
+			xmin = 284.364483959067
+			xmax = 289.185357056646
+			text = "OK, um, and do you take any other medications?"
+		intervals [71]:
+			xmin = 289.185357056646
+			xmax = 293.364454614102
+			text = ""
+		intervals [72]:
+			xmin = 293.364454614102
+			xmax = 295.483851029408
+			text = "Any other medical problems?"
+		intervals [73]:
+			xmin = 295.483851029408
+			xmax = 299.080850712918
+			text = ""
+		intervals [74]:
+			xmin = 299.080850712918
+			xmax = 301.080844843925
+			text = "OK, do you take anything for that?"
+		intervals [75]:
+			xmin = 301.080844843925
+			xmax = 303.856953822878
+			text = ""
+		intervals [76]:
+			xmin = 303.856953822878
+			xmax = 306.498735231994
+			text = "And any allergies to medications?"
+		intervals [77]:
+			xmin = 306.498735231994
+			xmax = 308.177835723946
+			text = ""
+		intervals [78]:
+			xmin = 308.177835723946
+			xmax = 309.177835723946
+			text = "Do you smoke?"
+		intervals [79]:
+			xmin = 309.177835723946
+			xmax = 312.685283694232
+			text = ""
+		intervals [80]:
+			xmin = 312.685283694232
+			xmax = 314.931545036606
+			text = "Do you drink any alcohol regularly?"
+		intervals [81]:
+			xmin = 314.931545036606
+			xmax = 317.841981585396
+			text = ""
+		intervals [82]:
+			xmin = 317.841981585396
+			xmax = 320.237495783144
+			text = "How often? Have a glass of what?"
+		intervals [83]:
+			xmin = 320.237495783144
+			xmax = 322.76733755073
+			text = ""
+		intervals [84]:
+			xmin = 322.76733755073
+			xmax = 325.103150606328
+			text = "Every, how often did you say?"
+		intervals [85]:
+			xmin = 325.103150606328
+			xmax = 328.946429239192
+			text = ""
+		intervals [86]:
+			xmin = 328.946429239192
+			xmax = 331.021049797886
+			text = "And who do you live with at home?"
+		intervals [87]:
+			xmin = 331.021049797886
+			xmax = 332.841940502444
+			text = ""
+		intervals [88]:
+			xmin = 332.841940502444
+			xmax = 334.349400210717
+			text = "Who do you live with at home?"
+		intervals [89]:
+			xmin = 334.349400210717
+			xmax = 337.140434475207
+			text = ""
+		intervals [90]:
+			xmin = 337.140434475207
+			xmax = 339.715052099404
+			text = "Who do you live with, do you live on your own, or do you live with"
+		intervals [91]:
+			xmin = 339.715052099404
+			xmax = 341.610569231649
+			text = ""
+		intervals [92]:
+			xmin = 341.610569231649
+			xmax = 344.22250006969
+			text = "OK, and what's your job, day-to-day?"
+		intervals [93]:
+			xmin = 344.22250006969
+			xmax = 347.080698119098
+			text = ""
+		intervals [94]:
+			xmin = 347.080698119098
+			xmax = 350.013522596194
+			text = "And have you been at work in the last few days?"
+		intervals [95]:
+			xmin = 350.013522596194
+			xmax = 358.998550358712
+			text = ""
+		intervals [96]:
+			xmin = 358.998550358712
+			xmax = 368.185069475985
+			text = "OK, and when, at the moment, are you, um, feeling short of breath when you're sitting still? Or just when you walk?"
+		intervals [97]:
+			xmin = 368.185069475985
+			xmax = 374.491020222523
+			text = ""
+		intervals [98]:
+			xmin = 374.491020222523
+			xmax = 377.282054487013
+			text = "Are you able to get <UNIN/> up and down the stairs OK?"
+		intervals [99]:
+			xmin = 377.282054487013
+			xmax = 379.296973903557
+			text = ""
+		intervals [100]:
+			xmin = 379.296973903557
+			xmax = 385.677539339796
+			text = "Right, OK. Um, and did you say you were finding it hard to complete your sentences?"
+		intervals [101]:
+			xmin = 385.677539339796
+			xmax = 389.304389594381
+			text = ""
+		intervals [102]:
+			xmin = 389.304389594381
+			xmax = 391.483487151837
+			text = "OK, um."
+		intervals [103]:
+			xmin = 391.483487151837
+			xmax = 393.580495638837
+			text = ""
+		intervals [104]:
+			xmin = 393.580495638837
+			xmax = 410.729654590322
+			text = "Right, OK. Um, I mean, it sounds like you've had a flare up of your asthma. It could be, um, triggered by, if there's more pollen around, or there may be, you may have a viral infection, causing it to get worse."
+		intervals [105]:
+			xmin = 410.729654590322
+			xmax = 411.640102877098
+			text = ""
+		intervals [106]:
+			xmin = 411.640102877098
+			xmax = 414.080392931459
+			text = "Did you say you checked your temperature already?"
+		intervals [107]:
+			xmin = 414.080392931459
+			xmax = 417.631409575569
+			text = ""
+		intervals [108]:
+			xmin = 417.631409575569
+			xmax = 418.849033398649
+			text = "Was it normal?"
+		intervals [109]:
+			xmin = 418.849033398649
+			xmax = 421.281860810241
+			text = ""
+		intervals [110]:
+			xmin = 421.281860810241
+			xmax = 422.878872231738
+			text = "<UNIN/> What was your temperature?"
+		intervals [111]:
+			xmin = 422.878872231738
+			xmax = 426.868365840207
+			text = ""
+		intervals [112]:
+			xmin = 426.868365840207
+			xmax = 431.557937509732
+			text = "OK, that's fine. Um, have you got an asthma inhaler at home?"
+		intervals [113]:
+			xmin = 431.557937509732
+			xmax = 433.453454641977
+			text = ""
+		intervals [114]:
+			xmin = 433.453454641977
+			xmax = 443.826533959475
+			text = "OK. So what I would suggest is you take it more regularly than you are doing at the moment. Have you got, um, a spacer at home?"
+		intervals [115]:
+			xmin = 443.826533959475
+			xmax = 451.125004456265
+			text = ""
+		intervals [116]:
+			xmin = 451.125004456265
+			xmax = 454.610064498245
+			text = "Um, do you have a spacer at home?"
+		intervals [117]:
+			xmin = 454.610064498245
+			xmax = 456.080210992674
+			text = ""
+		intervals [118]:
+			xmin = 456.080210992674
+			xmax = 471.318933395369
+			text = "OK. Um, what I can do is, I can prescribe you a peak flow meter so we can check your breathing level and a spacer to use your inhaler a bit more efficiently, which the pharmacist can show you how you use that when you pick it up."
+		intervals [119]:
+			xmin = 471.318933395369
+			xmax = 472.89355688856
+			text = ""
+		intervals [120]:
+			xmin = 472.89355688856
+			xmax = 479.117406826656
+			text = "Um, and if you increase it so you're taking it two to four puffs, like, every four hours?"
+		intervals [121]:
+			xmin = 479.117406826656
+			xmax = 480.460688394016
+			text = ""
+		intervals [122]:
+			xmin = 480.460688394016
+			xmax = 491.818836556984
+			text = "Initially, um, if you get a high temperature or your wheezing is getting worse, you need to call us back straightaway so we can just advise you further with that."
+		intervals [123]:
+			xmin = 491.818836556984
+			xmax = 493.64718990431
+			text = ""
+		intervals [124]:
+			xmin = 493.64718990431
+			xmax = 504.109820935033
+			text = "And it will be a good idea when you're feeling better if we can arrange just a review, just to see how your asthma is, because we may need to start some other medication for you."
+		intervals [125]:
+			xmin = 504.109820935033
+			xmax = 505.400864003012
+			text = ""
+		intervals [126]:
+			xmin = 505.400864003012
+			xmax = 512.82619942687
+			text = "You could arrange a review in a week or so, um, but, but before that and if you're, if you're feeling worse."
+		intervals [127]:
+			xmin = 512.82619942687
+			xmax = 516.721704821129
+			text = ""
+		intervals [128]:
+			xmin = 516.721704821129
+			xmax = 522.781376618313
+			text = "OK, and the other thing to do would be to take a regular antihistamine."
+		intervals [129]:
+			xmin = 522.781376618313
+			xmax = 523.9754053303
+			text = ""
+		intervals [130]:
+			xmin = 523.9754053303
+			xmax = 530.69178969113
+			text = "Which you can get from the pharmacy, I can put a <UNIN/> on your notes about what to take."
+		intervals [131]:
+			xmin = 530.69178969113
+			xmax = 531.781341404355
+			text = ""
+		intervals [132]:
+			xmin = 531.781341404355
+			xmax = 541.102188091465
+			text = "And then if you, when you get the peak flow meter, if you can take, the pharmacist can show you how to use it, and if you can record a value first thing when you wake up."
+		intervals [133]:
+			xmin = 541.102188091465
+			xmax = 541.863383522866
+			text = ""
+		intervals [134]:
+			xmin = 541.863383522866
+			xmax = 550.632249626743
+			text = "And in the evening over the next week, and then we can discuss that over the phone when we look at the figures and see whether you need to go on another inhaler as well."
+		intervals [135]:
+			xmin = 550.632249626743
+			xmax = 553.177186667634
+			text = ""
+		intervals [136]:
+			xmin = 553.177186667634
+			xmax = 554.84093690463
+			text = "Have you got any questions?"
+		intervals [137]:
+			xmin = 554.84093690463
+			xmax = 559.355841648691
+			text = ""
+		intervals [138]:
+			xmin = 559.355841648691
+			xmax = 562.549858622691
+			text = "Thanks a lot, bye."
+		intervals [139]:
+			xmin = 562.549858622691
+			xmax = 563.339977324263
+			text = ""
+

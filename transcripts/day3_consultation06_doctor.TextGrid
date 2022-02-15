@@ -1,0 +1,243 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 228.6
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 228.6
+		intervals: size = 57
+		intervals [1]:
+			xmin = 0
+			xmax = 1.42030051353579
+			text = ""
+		intervals [2]:
+			xmin = 1.42030051353579
+			xmax = 5.05804856400178
+			text = "Hello, hi, I'm Doctor Jacob and welcome to Babylon."
+		intervals [3]:
+			xmin = 5.05804856400178
+			xmax = 7.15668072666351
+			text = ""
+		intervals [4]:
+			xmin = 7.15668072666351
+			xmax = 8.070368
+			text = "You're right."
+		intervals [5]:
+			xmin = 8.070368
+			xmax = 8.63426169075171
+			text = ""
+		intervals [6]:
+			xmin = 8.63426169075171
+			xmax = 15.8263615038357
+			text = "<INAUDIBLE_SPEECH/> So just before we start, is it alright if you could confirm your name for me, please?"
+		intervals [7]:
+			xmin = 15.8263615038357
+			xmax = 20.2919547594904
+			text = ""
+		intervals [8]:
+			xmin = 20.2919547594904
+			xmax = 21.8462612787499
+			text = "And your date of birth?"
+		intervals [9]:
+			xmin = 21.8462612787499
+			xmax = 26.2266331067398
+			text = ""
+		intervals [10]:
+			xmin = 26.2266331067398
+			xmax = 28.7610617244916
+			text = "And your address for me, please."
+		intervals [11]:
+			xmin = 28.7610617244916
+			xmax = 36.1908072289001
+			text = ""
+		intervals [12]:
+			xmin = 36.1908072289001
+			xmax = 41.88711
+			text = "correct, and just to confirm that you're in a secure location and we can have a confidential conversation."
+		intervals [13]:
+			xmin = 41.88711
+			xmax = 42.467686669171
+			text = ""
+		intervals [14]:
+			xmin = 42.467686669171
+			xmax = 49.4911763052822
+			text = "Yeah. You've mentioned you had some breathing difficulties in the, the notes. <UNIN/> How can I help you?"
+		intervals [15]:
+			xmin = 49.4911763052822
+			xmax = 57.0074724431991
+			text = ""
+		intervals [16]:
+			xmin = 57.0074724431991
+			xmax = 57.5791033778329
+			text = "Mm-hmm."
+		intervals [17]:
+			xmin = 57.5791033778329
+			xmax = 64.1110915574041
+			text = ""
+		intervals [18]:
+			xmin = 64.1110915574041
+			xmax = 66.7116615563771
+			text = "You're having difficulties breathing since then, yeah?"
+		intervals [19]:
+			xmin = 66.7116615563771
+			xmax = 67.9382878090979
+			text = ""
+		intervals [20]:
+			xmin = 67.9382878090979
+			xmax = 73.812980727144
+			text = "OK. So, is there any swelling of your lips, you feel your throat is closing up?"
+		intervals [21]:
+			xmin = 73.812980727144
+			xmax = 78.2506137784532
+			text = ""
+		intervals [22]:
+			xmin = 78.2506137784532
+			xmax = 80.1947300979667
+			text = "Right, like a tingling kind of feeling?"
+		intervals [23]:
+			xmin = 80.1947300979667
+			xmax = 81.4123510889994
+			text = ""
+		intervals [24]:
+			xmin = 81.4123510889994
+			xmax = 83.204577442465
+			text = "OK, but no swelling, yeah?"
+		intervals [25]:
+			xmin = 83.204577442465
+			xmax = 88.2478550772261
+			text = ""
+		intervals [26]:
+			xmin = 88.2478550772261
+			xmax = 91.9003994167248
+			text = "OK. Right, OK. Have you had anything like this before?"
+		intervals [27]:
+			xmin = 91.9003994167248
+			xmax = 93.4673684410982
+			text = ""
+		intervals [28]:
+			xmin = 93.4673684410982
+			xmax = 99.4802510619413
+			text = "No. OK. So, um, do you feel wheezy in your chest, or just tightness?"
+		intervals [29]:
+			xmin = 99.4802510619413
+			xmax = 106.021322222526
+			text = ""
+		intervals [30]:
+			xmin = 106.021322222526
+			xmax = 115.842316183403
+			text = "Bit of tightness, OK, OK. So, I, unfortunately, I don't have much of your past medical history. Do you have any significant past medical or surgical history you'd like to share?"
+		intervals [31]:
+			xmin = 115.842316183403
+			xmax = 122.570678564284
+			text = ""
+		intervals [32]:
+			xmin = 122.570678564284
+			xmax = 126.785189881443
+			text = "OK. Are you on any regular medication at all?"
+		intervals [33]:
+			xmin = 126.785189881443
+			xmax = 128.214678301545
+			text = ""
+		intervals [34]:
+			xmin = 128.214678301545
+			xmax = 128.866386
+			text = "OK."
+		intervals [35]:
+			xmin = 128.866386
+			xmax = 129.702427102473
+			text = ""
+		intervals [36]:
+			xmin = 129.702427102473
+			xmax = 130.769010180597
+			text = "Righty-ho."
+		intervals [37]:
+			xmin = 130.769010180597
+			xmax = 132.092965818305
+			text = ""
+		intervals [38]:
+			xmin = 132.092965818305
+			xmax = 135.269685720222
+			text = "<UNIN/> Are you having any rash on your body at the moment?"
+		intervals [39]:
+			xmin = 135.269685720222
+			xmax = 137.379534647816
+			text = ""
+		intervals [40]:
+			xmin = 137.379534647816
+			xmax = 142.086812084292
+			text = "<UNIN/> OK. Well, have you taken anything at all for the blotching?"
+		intervals [41]:
+			xmin = 142.086812084292
+			xmax = 144.35823073731
+			text = ""
+		intervals [42]:
+			xmin = 144.35823073731
+			xmax = 157.543879124731
+			text = "OK so you've, OK. That's fine. So from what you're saying, you do need to <UNIN/> have medical attention straight away. OK? Um, <UNIN/> do you have any antihistamines in your house at all?"
+		intervals [43]:
+			xmin = 157.543879124731
+			xmax = 164.495351630978
+			text = ""
+		intervals [44]:
+			xmin = 164.495351630978
+			xmax = 173.790920389355
+			text = "So, why, why, and I'm, because your <UNIN/> your breathing problem can get worse very quickly, I would like you to call. Is there someone else at home with you?"
+		intervals [45]:
+			xmin = 173.790920389355
+			xmax = 176.892737733695
+			text = ""
+		intervals [46]:
+			xmin = 176.892737733695
+			xmax = 191.237217869091
+			text = "Uh, no, I wouldn't want your wife to take you, I would like, I'd like her to <UNIN/> call the ambulance because that might take a bit longer, and, you know, we need to deal with it quickly. So, what we are worried about is, you know, in case you develop an anaphylactic reaction."
+		intervals [47]:
+			xmin = 191.237217869091
+			xmax = 193.445055655017
+			text = ""
+		intervals [48]:
+			xmin = 193.445055655017
+			xmax = 202.588824
+			text = "Yeah so, I'll ask her to give you the, um, antihistamine, in the meantime while the ambulance is coming. And take yourself to hospital."
+		intervals [49]:
+			xmin = 202.588824
+			xmax = 211.814517652495
+			text = "Um, it might just be an <UNSURE>articularly</UNSURE> <UNIN/> reaction, but because you're complaining of breathing difficulties, it is quite important that you go to hospital straight away."
+		intervals [50]:
+			xmin = 211.814517652495
+			xmax = 217.113671
+			text = "But I'd like you to call the ambulance because, you know, so that you will be sorted out quickly."
+		intervals [51]:
+			xmin = 217.113671
+			xmax = 217.659438744222
+			text = ""
+		intervals [52]:
+			xmin = 217.659438744222
+			xmax = 218.536190932281
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [53]:
+			xmin = 218.536190932281
+			xmax = 221.231991033134
+			text = ""
+		intervals [54]:
+			xmin = 221.231991033134
+			xmax = 223.444527
+			text = "OK. Alright then, you take care."
+		intervals [55]:
+			xmin = 223.444527
+			xmax = 225.005033686926
+			text = ""
+		intervals [56]:
+			xmin = 225.005033686926
+			xmax = 225.730441614294
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [57]:
+			xmin = 225.730441614294
+			xmax = 228.6
+			text = ""
+

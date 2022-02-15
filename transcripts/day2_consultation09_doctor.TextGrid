@@ -1,0 +1,395 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 432.24
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 432.24
+		intervals: size = 95
+		intervals [1]:
+			xmin = 0
+			xmax = 1.57265047852567
+			text = ""
+		intervals [2]:
+			xmin = 1.57265047852567
+			xmax = 5.9059890848691
+			text = "Hi there, good morning. Or good afternoon, sorry. <UNIN/> Hi."
+		intervals [3]:
+			xmin = 5.9059890848691
+			xmax = 6.82906588626117
+			text = ""
+		intervals [4]:
+			xmin = 6.82906588626117
+			xmax = 7.435902871154
+			text = "<UNSURE>Good afternoon</UNSURE>."
+		intervals [5]:
+			xmin = 7.435902871154
+			xmax = 8.38462073874872
+			text = ""
+		intervals [6]:
+			xmin = 8.38462073874872
+			xmax = 11.6239405204461
+			text = "Hi. This, this is Doctor Deen Mirza from GP at Hand."
+		intervals [7]:
+			xmin = 11.6239405204461
+			xmax = 13.0769326900261
+			text = ""
+		intervals [8]:
+			xmin = 13.0769326900261
+			xmax = 17.4786474729099
+			text = "All right. So before we start your appointment, could I please confirm your full name and date of birth?"
+		intervals [9]:
+			xmin = 17.4786474729099
+			xmax = 22.9401929921696
+			text = ""
+		intervals [10]:
+			xmin = 22.9401929921696
+			xmax = 24.0171161907775
+			text = "That's great, thank you."
+		intervals [11]:
+			xmin = 24.0171161907775
+			xmax = 30.5983216008859
+			text = ""
+		intervals [12]:
+			xmin = 30.5983216008859
+			xmax = 35.4188404650795
+			text = "That's great, thank you for that. Um, are you in a private place where you're OK to speak at the moment?"
+		intervals [13]:
+			xmin = 35.4188404650795
+			xmax = 36.4188404650795
+			text = ""
+		intervals [14]:
+			xmin = 36.4188404650795
+			xmax = 38.8461931503599
+			text = "OK. So, how can I help you today?"
+		intervals [15]:
+			xmin = 38.8461931503599
+			xmax = 52.4615977220596
+			text = ""
+		intervals [16]:
+			xmin = 52.4615977220596
+			xmax = 55.0257027604208
+			text = "Yeah I'm still here, you'll tell <INAUDIBLE_SPEECH/>. Yeah."
+		intervals [17]:
+			xmin = 55.0257027604208
+			xmax = 62.8462263703235
+			text = ""
+		intervals [18]:
+			xmin = 62.8462263703235
+			xmax = 63.8462263703235
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [19]:
+			xmin = 63.8462263703235
+			xmax = 64.8462263703235
+			text = ""
+		intervals [20]:
+			xmin = 64.8462263703235
+			xmax = 67.743665269319
+			text = "OK. Uh, and how's your arm right now?"
+		intervals [21]:
+			xmin = 67.743665269319
+			xmax = 76.5300023728545
+			text = ""
+		intervals [22]:
+			xmin = 76.5300023728545
+			xmax = 80.9659052440085
+			text = "That you still can't move. And, and what time did you wake up? You said it was an hour, you're sure about that?"
+		intervals [23]:
+			xmin = 80.9659052440085
+			xmax = 84.1453958712331
+			text = ""
+		intervals [24]:
+			xmin = 84.1453958712331
+			xmax = 85.7607814600965
+			text = "OK, um."
+		intervals [25]:
+			xmin = 85.7607814600965
+			xmax = 86.5471059084078
+			text = ""
+		intervals [26]:
+			xmin = 86.5471059084078
+			xmax = 89.4018096970656
+			text = "Now, can I just double check? Has this ever happened before?"
+		intervals [27]:
+			xmin = 89.4018096970656
+			xmax = 94.4018160246777
+			text = ""
+		intervals [28]:
+			xmin = 94.4018160246777
+			xmax = 100.931739302381
+			text = "OK. And, did you sleep, anything, <UNIN/> in an awkward position, or in a different bed, or anything like that last night?"
+		intervals [29]:
+			xmin = 100.931739302381
+			xmax = 105.196701732184
+			text = ""
+		intervals [30]:
+			xmin = 105.196701732184
+			xmax = 110.04286166258
+			text = "OK. Um, and um, is there any discoloration in your hand?"
+		intervals [31]:
+			xmin = 110.04286166258
+			xmax = 112.743719054022
+			text = ""
+		intervals [32]:
+			xmin = 112.743719054022
+			xmax = 115.675346041288
+			text = "K, um, does your hand feel cold?"
+		intervals [33]:
+			xmin = 115.675346041288
+			xmax = 125.735189432888
+			text = ""
+		intervals [34]:
+			xmin = 125.735189432888
+			xmax = 131.18818793008
+			text = "OK. And it's to your <UNIN/> on your left side. Have you had any symptoms in your left leg at all?"
+		intervals [35]:
+			xmin = 131.18818793008
+			xmax = 140.154012497034
+			text = ""
+		intervals [36]:
+			xmin = 140.154012497034
+			xmax = 145.162565846714
+			text = "Right, OK. Um, and how long has that tingling been there for?"
+		intervals [37]:
+			xmin = 145.162565846714
+			xmax = 156.128393577474
+			text = ""
+		intervals [38]:
+			xmin = 156.128393577474
+			xmax = 157.726685122202
+			text = "OK, um."
+		intervals [39]:
+			xmin = 157.726685122202
+			xmax = 158.726685122202
+			text = ""
+		intervals [40]:
+			xmin = 158.726685122202
+			xmax = 170.760890611405
+			text = "Now, um, I can't see you. <UNIN/> It's, it's telephone appointment. Have you noticed any kind of, um, asymmetry in your face, or did your face expression look different on one side compared to the other, or anything different at all?"
+		intervals [41]:
+			xmin = 170.760890611405
+			xmax = 194.077165229771
+			text = ""
+		intervals [42]:
+			xmin = 194.077165229771
+			xmax = 198.470332990588
+			text = "OK. So, um, you have some difficulties swallowing, is that right?"
+		intervals [43]:
+			xmin = 198.470332990588
+			xmax = 202.98315906035
+			text = ""
+		intervals [44]:
+			xmin = 202.98315906035
+			xmax = 208.188293917583
+			text = "OK. Any problems with your speech? Is your, is your, is your speech different to how it, um, sounds normally?"
+		intervals [45]:
+			xmin = 208.188293917583
+			xmax = 219.803695325477
+			text = ""
+		intervals [46]:
+			xmin = 219.803695325477
+			xmax = 223.692588784308
+			text = "OK. Is there anyone at home with you? <UNIN/>"
+		intervals [47]:
+			xmin = 223.692588784308
+			xmax = 225.62421418967
+			text = ""
+		intervals [48]:
+			xmin = 225.62421418967
+			xmax = 227.333617021277
+			text = "OK. <UNIN/>"
+		intervals [49]:
+			xmin = 227.333617021277
+			xmax = 229.82079886103
+			text = ""
+		intervals [50]:
+			xmin = 229.82079886103
+			xmax = 237.393458830974
+			text = "Um, well, um, I'm <UNIN/> I'm concerned that some of the symptoms you've got may be, um, symptoms of a stroke."
+		intervals [51]:
+			xmin = 237.393458830974
+			xmax = 238.496023095784
+			text = ""
+		intervals [52]:
+			xmin = 238.496023095784
+			xmax = 245.615690896148
+			text = "OK? So, um, that's something that can be dealt with, but it needs to be dealt with as an emergency in a hospital."
+		intervals [53]:
+			xmin = 245.615690896148
+			xmax = 250.658432334098
+			text = ""
+		intervals [54]:
+			xmin = 250.658432334098
+			xmax = 267.718286799019
+			text = "Yeah I'm, I'm happy to do that. Um, what we need to do is to make sure that they've got access to you when you come. So, um, maybe you could, uh, leave the front door, um, unlocked, sit in the hallway. But I'm gonna arrange one of my colleagues next to me to, um, call an ambulance to your home address now."
+		intervals [55]:
+			xmin = 267.718286799019
+			xmax = 268.92341532864
+			text = ""
+		intervals [56]:
+			xmin = 268.92341532864
+			xmax = 276.000348018666
+			text = "So <UNIN/> that's being done right now, as we speak. Uh, while we're waiting for that, I'm just gonna ask you a few more questions. Is that OK?"
+		intervals [57]:
+			xmin = 276.000348018666
+			xmax = 277.000348018666
+			text = ""
+		intervals [58]:
+			xmin = 277.000348018666
+			xmax = 279.427700703947
+			text = "OK. Do you have any other illnesses at all?"
+		intervals [59]:
+			xmin = 279.427700703947
+			xmax = 288.615747844657
+			text = ""
+		intervals [60]:
+			xmin = 288.615747844657
+			xmax = 292.479000237285
+			text = "OK. And, um, are you on any medication for that?"
+		intervals [61]:
+			xmin = 292.479000237285
+			xmax = 301.256790318753
+			text = ""
+		intervals [62]:
+			xmin = 301.256790318753
+			xmax = 306.120044293285
+			text = "OK. Do you have any, um, uh, allergies to any medication?"
+		intervals [63]:
+			xmin = 306.120044293285
+			xmax = 310.855092936803
+			text = ""
+		intervals [64]:
+			xmin = 310.855092936803
+			xmax = 311.72688760579
+			text = "OK."
+		intervals [65]:
+			xmin = 311.72688760579
+			xmax = 313.538854702206
+			text = ""
+		intervals [66]:
+			xmin = 313.538854702206
+			xmax = 315.803813968203
+			text = "Um, are there any illnesses in your family at all?"
+		intervals [67]:
+			xmin = 315.803813968203
+			xmax = 324.889296844103
+			text = ""
+		intervals [68]:
+			xmin = 324.889296844103
+			xmax = 326.752546072926
+			text = "OK, anyone else?"
+		intervals [69]:
+			xmin = 326.752546072926
+			xmax = 328.521778059005
+			text = ""
+		intervals [70]:
+			xmin = 328.521778059005
+			xmax = 331.726909752432
+			text = "And um, <UNIN/> are you normally living alone?"
+		intervals [71]:
+			xmin = 331.726909752432
+			xmax = 334.214091592185
+			text = ""
+		intervals [72]:
+			xmin = 334.214091592185
+			xmax = 336.043152732737
+			text = "<UNSURE>K</UNSURE>. Do you smoke at all?"
+		intervals [73]:
+			xmin = 336.043152732737
+			xmax = 339.145720161354
+			text = ""
+		intervals [74]:
+			xmin = 339.145720161354
+			xmax = 341.20555089773
+			text = "OK. How much alcohol do you drink?"
+		intervals [75]:
+			xmin = 341.20555089773
+			xmax = 352.068814363679
+			text = ""
+		intervals [76]:
+			xmin = 352.068814363679
+			xmax = 354.46197896069
+			text = "So, <UNIN/> what, what drinks are we talking about?"
+		intervals [77]:
+			xmin = 354.46197896069
+			xmax = 355.299585541406
+			text = ""
+		intervals [78]:
+			xmin = 355.299585541406
+			xmax = 355.897875504232
+			text = "<UNSURE>OK</UNSURE>."
+		intervals [79]:
+			xmin = 355.897875504232
+			xmax = 359.479076168631
+			text = ""
+		intervals [80]:
+			xmin = 359.479076168631
+			xmax = 360.282494661077
+			text = "OK."
+		intervals [81]:
+			xmin = 360.282494661077
+			xmax = 361.675657676184
+			text = ""
+		intervals [82]:
+			xmin = 361.675657676184
+			xmax = 363.026085580954
+			text = "All right, um."
+		intervals [83]:
+			xmin = 363.026085580954
+			xmax = 364.367966463656
+			text = ""
+		intervals [84]:
+			xmin = 364.367966463656
+			xmax = 367.291046428854
+			text = "How are you feeling now? Have you got the symptoms right now still, that, um"
+		intervals [85]:
+			xmin = 367.291046428854
+			xmax = 375.419262833188
+			text = ""
+		intervals [86]:
+			xmin = 375.419262833188
+			xmax = 394.29108597643
+			text = "OK, all right. So, the ambulance is on it's way, all right? Um, and what they're going to do is, they'll probably take you down to, um, the local hospital, A and E. And then, they'll they will ring through for the, um, the stroke doctor to assess you, to see whether they can give you any kind of, um"
+		intervals [87]:
+			xmin = 394.29108597643
+			xmax = 404.231271059084
+			text = "Treatment for that OK? So no worry. They're they're on their way, um, and what I'm gonna do is, I'm gonna stay on the line until they reach there. Just to make sure that you're OK."
+		intervals [88]:
+			xmin = 404.231271059084
+			xmax = 407.333838487701
+			text = ""
+		intervals [89]:
+			xmin = 407.333838487701
+			xmax = 419.376590998972
+			text = "Um, not at the moment, no, not at the moment, Just, uh, make sure the <UNIN/> the front door's open. Sit in the hallway, by the front door so that they've got access if needs be, if for any reason you can't open the front door. OK, um."
+		intervals [90]:
+			xmin = 419.376590998972
+			xmax = 423.846680376493
+			text = "All right, then so <UNIN/> I'll be <UNIN/> staying on the line and we'll and <UNIN/> we'll wait until the ambulance comes."
+		intervals [91]:
+			xmin = 423.846680376493
+			xmax = 426.333862216246
+			text = ""
+		intervals [92]:
+			xmin = 426.333862216246
+			xmax = 428.43642806296
+			text = "OK then, all right. Thank you."
+		intervals [93]:
+			xmin = 428.43642806296
+			xmax = 429.43642806296
+			text = ""
+		intervals [94]:
+			xmin = 429.43642806296
+			xmax = 430.180017400933
+			text = "K, bye bye."
+		intervals [95]:
+			xmin = 430.180017400933
+			xmax = 432.24
+			text = ""
+

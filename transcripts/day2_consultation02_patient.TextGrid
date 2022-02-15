@@ -1,0 +1,415 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 541.499977324263
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 541.499977324263
+		intervals: size = 100
+		intervals [1]:
+			xmin = 0
+			xmax = 2.78867192687202
+			text = ""
+		intervals [2]:
+			xmin = 2.78867192687202
+			xmax = 4.14052730246199
+			text = "Hello, good morning."
+		intervals [3]:
+			xmin = 4.14052730246199
+			xmax = 7.6087571337718
+			text = ""
+		intervals [4]:
+			xmin = 7.6087571337718
+			xmax = 8.84064428515654
+			text = "Nice to see you."
+		intervals [5]:
+			xmin = 8.84064428515654
+			xmax = 13.6170735687438
+			text = ""
+		intervals [6]:
+			xmin = 13.6170735687438
+			xmax = 22.0147063925089
+			text = "Yes. Uh, my name is John Smith. And I was born on the fifth of April, uh, nineteen seventy three."
+		intervals [7]:
+			xmin = 22.0147063925089
+			xmax = 27.0456882085504
+			text = ""
+		intervals [8]:
+			xmin = 27.0456882085504
+			xmax = 28.6959282610884
+			text = "Yes. <UNIN/>."
+		intervals [9]:
+			xmin = 28.6959282610884
+			xmax = 35.2467269473608
+			text = ""
+		intervals [10]:
+			xmin = 35.2467269473608
+			xmax = 45.8228448551603
+			text = "Yeah. Um, I just noticed this like about a week ago, or something? Um, have like a weird swelling on, on, on my elbow.  I noticed that when I was in the shower. Uh,"
+		intervals [11]:
+			xmin = 45.8228448551603
+			xmax = 52.6558909340343
+			text = "It's not painful at all, or like, I <UNIN/> I feel fine. But it's just, just a bit, a bit weird, to see that."
+		intervals [12]:
+			xmin = 52.6558909340343
+			xmax = 64.2383283471359
+			text = "Um, it's, it's slightly warm. Um, and I, I, cannot feel like this, little bit fluid in inside, or, uh, um?"
+		intervals [13]:
+			xmin = 64.2383283471359
+			xmax = 64.9519564499205
+			text = ""
+		intervals [14]:
+			xmin = 64.9519564499205
+			xmax = 68.4355354682622
+			text = "So, I, I like to know what's going on with <UNIN/>."
+		intervals [15]:
+			xmin = 68.4355354682622
+			xmax = 71.5043212903843
+			text = ""
+		intervals [16]:
+			xmin = 71.5043212903843
+			xmax = 75.4500951169573
+			text = "Um, it's the, the left <UNIN/> elbow."
+		intervals [17]:
+			xmin = 75.4500951169573
+			xmax = 80.1168106982286
+			text = ""
+		intervals [18]:
+			xmin = 80.1168106982286
+			xmax = 94.7830072700669
+			text = "No, not really. Um, not that I know of. I haven't noticed anything. I can actually like move it normally. Um, it's just, I <UNIN/>, I can just see that. It feels a bit strange, a bit"
+		intervals [19]:
+			xmin = 94.7830072700669
+			xmax = 100.107460634572
+			text = ""
+		intervals [20]:
+			xmin = 100.107460634572
+			xmax = 105.522906700779
+			text = "Not really. No, I just, you know sit at a desk. Um, yeah."
+		intervals [21]:
+			xmin = 105.522906700779
+			xmax = 108.595398116281
+			text = ""
+		intervals [22]:
+			xmin = 108.595398116281
+			xmax = 116.4627248065
+			text = "No, no I haven't noticed that before. Um, I don't have any like history of, of seeing this. I don't remember <INAUDIBLE_SPEECH/>."
+		intervals [23]:
+			xmin = 116.4627248065
+			xmax = 128.239705591979
+			text = ""
+		intervals [24]:
+			xmin = 128.239705591979
+			xmax = 135.834762921232
+			text = "Um, no, well I, I do, well I think, I think I have something like uh, osteoarthritis. Um,"
+		intervals [25]:
+			xmin = 135.834762921232
+			xmax = 142.562778880804
+			text = "Uh, uh, it sometimes kind of hurts, uh, my joints. But uh, in my family, I'm not sure."
+		intervals [26]:
+			xmin = 142.562778880804
+			xmax = 143.72141730826
+			text = ""
+		intervals [27]:
+			xmin = 143.72141730826
+			xmax = 145.161408388544
+			text = "<INAUDIBLE_SPEECH/>. No."
+		intervals [28]:
+			xmin = 145.161408388544
+			xmax = 153.6439480852
+			text = ""
+		intervals [29]:
+			xmin = 153.6439480852
+			xmax = 156.146690395381
+			text = "Um, yes. Yes, a few years ago."
+		intervals [30]:
+			xmin = 156.146690395381
+			xmax = 161.05782239609
+			text = ""
+		intervals [31]:
+			xmin = 161.05782239609
+			xmax = 164.093048993779
+			text = "<INAUDIBLE_SPEECH/> a <UNIN/> a GP. Um, yeah."
+		intervals [32]:
+			xmin = 164.093048993779
+			xmax = 169.716406736628
+			text = ""
+		intervals [33]:
+			xmin = 169.716406736628
+			xmax = 171.043644595994
+			text = "I'm uh, fifty three."
+		intervals [34]:
+			xmin = 171.043644595994
+			xmax = 176.509214174621
+			text = ""
+		intervals [35]:
+			xmin = 176.509214174621
+			xmax = 178.100664
+			text = "Um,"
+		intervals [36]:
+			xmin = 178.100664
+			xmax = 178.952355171488
+			text = ""
+		intervals [37]:
+			xmin = 178.952355171488
+			xmax = 191.08910547759
+			text = "Well not, not really, no. Um, <INAUDIBLE_SPEECH/> I'm, I'm allergic to, to peanuts. Um, but that's, that's pretty much all I uh, have to say about my medical history, yeah."
+		intervals [38]:
+			xmin = 191.08910547759
+			xmax = 193.292672488298
+			text = ""
+		intervals [39]:
+			xmin = 193.292672488298
+			xmax = 195.298899851718
+			text = "Uh, no. Not that I know of."
+		intervals [40]:
+			xmin = 195.298899851718
+			xmax = 200.760763836965
+			text = ""
+		intervals [41]:
+			xmin = 200.760763836965
+			xmax = 201.784846973824
+			text = "Uh, no."
+		intervals [42]:
+			xmin = 201.784846973824
+			xmax = 205.625464578287
+			text = ""
+		intervals [43]:
+			xmin = 205.625464578287
+			xmax = 217.292058217755
+			text = "<UNIN/> yeah. I do, I do, I do some sports. I run regularly, like two, three times a week. Um, yeah, no, I'm, think I'm healthy."
+		intervals [44]:
+			xmin = 217.292058217755
+			xmax = 226.335859105644
+			text = ""
+		intervals [45]:
+			xmin = 226.335859105644
+			xmax = 227.553253310067
+			text = "Uh, yeah, <UNSURE>sure</UNSURE>."
+		intervals [46]:
+			xmin = 227.553253310067
+			xmax = 249.582519351271
+			text = ""
+		intervals [47]:
+			xmin = 249.582519351271
+			xmax = 250.402066978314
+			text = "Yeah."
+		intervals [48]:
+			xmin = 250.402066978314
+			xmax = 255.336192614312
+			text = ""
+		intervals [49]:
+			xmin = 255.336192614312
+			xmax = 256.944896386696
+			text = "It's a bit warm, yes."
+		intervals [50]:
+			xmin = 256.944896386696
+			xmax = 266.959509396778
+			text = ""
+		intervals [51]:
+			xmin = 266.959509396778
+			xmax = 276.611798732822
+			text = "On the, on the tip of the elbow, it's, it's OK, just like, next to it like where the, the swelling is, it's a bit, yeah it feels <UNSURE>weird</UNSURE>."
+		intervals [52]:
+			xmin = 276.611798732822
+			xmax = 286.336552803673
+			text = ""
+		intervals [53]:
+			xmin = 286.336552803673
+			xmax = 290.916310703174
+			text = "Uh, no not really. I have <INAUDIBLE_SPEECH/> <UNSURE> skin really dry</UNSURE> now."
+		intervals [54]:
+			xmin = 290.916310703174
+			xmax = 292.71342278606
+			text = ""
+		intervals [55]:
+			xmin = 292.71342278606
+			xmax = 293.684436892137
+			text = "No."
+		intervals [56]:
+			xmin = 293.684436892137
+			xmax = 319.148531363227
+			text = ""
+		intervals [57]:
+			xmin = 319.148531363227
+			xmax = 320.148531363227
+			text = "OK."
+		intervals [58]:
+			xmin = 320.148531363227
+			xmax = 325.351485982076
+			text = ""
+		intervals [59]:
+			xmin = 325.351485982076
+			xmax = 326.351485982076
+			text = "<UNSURE>Alright</UNSURE>."
+		intervals [60]:
+			xmin = 326.351485982076
+			xmax = 341.525588110468
+			text = ""
+		intervals [61]:
+			xmin = 341.525588110468
+			xmax = 343.279221352468
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [62]:
+			xmin = 343.279221352468
+			xmax = 355.395311671975
+			text = ""
+		intervals [63]:
+			xmin = 355.395311671975
+			xmax = 356.395311671975
+			text = "OK."
+		intervals [64]:
+			xmin = 356.395311671975
+			xmax = 363.830180122901
+			text = ""
+		intervals [65]:
+			xmin = 363.830180122901
+			xmax = 367.757755409134
+			text = "K <INAUDIBLE_SPEECH/>. O"
+		intervals [66]:
+			xmin = 367.757755409134
+			xmax = 374.453483565021
+			text = ""
+		intervals [67]:
+			xmin = 374.453483565021
+			xmax = 375.598413034637
+			text = "OK."
+		intervals [68]:
+			xmin = 375.598413034637
+			xmax = 398.410298211764
+			text = ""
+		intervals [69]:
+			xmin = 398.410298211764
+			xmax = 399.671171257072
+			text = "Mm-hmm."
+		intervals [70]:
+			xmin = 399.671171257072
+			xmax = 404.434105283456
+			text = ""
+		intervals [71]:
+			xmin = 404.434105283456
+			xmax = 405.178464421767
+			text = "Yeah."
+		intervals [72]:
+			xmin = 405.178464421767
+			xmax = 421.888818928083
+			text = ""
+		intervals [73]:
+			xmin = 421.888818928083
+			xmax = 423.033748397699
+			text = "OK."
+		intervals [74]:
+			xmin = 423.033748397699
+			xmax = 427.468576827585
+			text = ""
+		intervals [75]:
+			xmin = 427.468576827585
+			xmax = 436.120852823282
+			text = "<UNIN/> do you, do you think it's something dangerous? Like something, like could I die from that, or is it, is it"
+		intervals [76]:
+			xmin = 436.120852823282
+			xmax = 438.164345004513
+			text = ""
+		intervals [77]:
+			xmin = 438.164345004513
+			xmax = 439.164345004513
+			text = "OK."
+		intervals [78]:
+			xmin = 439.164345004513
+			xmax = 444.425271411208
+			text = ""
+		intervals [79]:
+			xmin = 444.425271411208
+			xmax = 445.845566873092
+			text = "Yeah, OK, I see."
+		intervals [80]:
+			xmin = 445.845566873092
+			xmax = 457.41092520806
+			text = ""
+		intervals [81]:
+			xmin = 457.41092520806
+			xmax = 458.41092520806
+			text = "OK."
+		intervals [82]:
+			xmin = 458.41092520806
+			xmax = 465.077667470025
+			text = ""
+		intervals [83]:
+			xmin = 465.077667470025
+			xmax = 467.671891635795
+			text = "Yeah that, that sounds good. Thank you."
+		intervals [84]:
+			xmin = 467.671891635795
+			xmax = 470.512495899911
+			text = ""
+		intervals [85]:
+			xmin = 470.512495899911
+			xmax = 482.063361287917
+			text = "Um, well just yeah <UNIN/> I just wanted to know about this. Um, yeah it feels a bit better now <INAUDIBLE_SPEECH/>. Uh, but yeah, no that's it. Thank you."
+		intervals [86]:
+			xmin = 482.063361287917
+			xmax = 485.324261013918
+			text = ""
+		intervals [87]:
+			xmin = 485.324261013918
+			xmax = 485.988636568548
+			text = "<UNSURE>OK</UNSURE>."
+		intervals [88]:
+			xmin = 485.988636568548
+			xmax = 495.483790153269
+			text = ""
+		intervals [89]:
+			xmin = 495.483790153269
+			xmax = 497.817141273731
+			text = "Sure. <UNIN/> thanks. <UNSURE>Bye</UNSURE>."
+		intervals [90]:
+			xmin = 497.817141273731
+			xmax = 510.179611691584
+			text = ""
+		intervals [91]:
+			xmin = 510.179611691584
+			xmax = 511.179611691584
+			text = "OK."
+		intervals [92]:
+			xmin = 511.179611691584
+			xmax = 516.946809399727
+			text = ""
+		intervals [93]:
+			xmin = 516.946809399727
+			xmax = 524.049321909992
+			text = "OK, yeah that sounds good. I, I'll do that. And if I see that it's getting worse, I'll probably ask for a physical appointment."
+		intervals [94]:
+			xmin = 524.049321909992
+			xmax = 528.097198778196
+			text = ""
+		intervals [95]:
+			xmin = 528.097198778196
+			xmax = 528.752965982383
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [96]:
+			xmin = 528.752965982383
+			xmax = 534.701597905689
+			text = ""
+		intervals [97]:
+			xmin = 534.701597905689
+			xmax = 537.571188063728
+			text = "Thank you. Alright. Sounds"
+		intervals [98]:
+			xmin = 537.571188063728
+			xmax = 538.811791227671
+			text = ""
+		intervals [99]:
+			xmin = 538.811791227671
+			xmax = 539.405773388518
+			text = "Bye."
+		intervals [100]:
+			xmin = 539.405773388518
+			xmax = 541.499977324263
+			text = ""
+

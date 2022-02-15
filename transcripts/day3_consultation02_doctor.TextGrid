@@ -1,0 +1,315 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 443.64
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 443.64
+		intervals: size = 75
+		intervals [1]:
+			xmin = 0
+			xmax = 4.444701
+			text = "<UNIN/> Hello, hi, I'm Doctor Jacob and welcome to Babylon."
+		intervals [2]:
+			xmin = 4.444701
+			xmax = 5.38703030331766
+			text = ""
+		intervals [3]:
+			xmin = 5.38703030331766
+			xmax = 10.9554597208434
+			text = "Hi. So, just before we start is it alright if you could confirm your name for me please?"
+		intervals [4]:
+			xmin = 10.9554597208434
+			xmax = 14.1449910163013
+			text = ""
+		intervals [5]:
+			xmin = 14.1449910163013
+			xmax = 18.6667485544412
+			text = "OK and your date of birth? <UNIN/>"
+		intervals [6]:
+			xmin = 18.6667485544412
+			xmax = 23.3189415569567
+			text = ""
+		intervals [7]:
+			xmin = 23.3189415569567
+			xmax = 25.2754682957107
+			text = "And, your address for me, please?"
+		intervals [8]:
+			xmin = 25.2754682957107
+			xmax = 29.2320054882232
+			text = ""
+		intervals [9]:
+			xmin = 29.2320054882232
+			xmax = 29.906476370113
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [10]:
+			xmin = 29.906476370113
+			xmax = 32.7247669138545
+			text = ""
+		intervals [11]:
+			xmin = 32.7247669138545
+			xmax = 38.854878
+			text = "That's correct.  And just to confirm that you're in a secure location and we can have a confidential conversation?"
+		intervals [12]:
+			xmin = 38.854878
+			xmax = 39.9460742871676
+			text = ""
+		intervals [13]:
+			xmin = 39.9460742871676
+			xmax = 45.2465662670282
+			text = "OK. So I understand you're having a <UNIN/> a headache is that correct?"
+		intervals [14]:
+			xmin = 45.2465662670282
+			xmax = 51.0147071314234
+			text = ""
+		intervals [15]:
+			xmin = 51.0147071314234
+			xmax = 52.0436927901735
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [16]:
+			xmin = 52.0436927901735
+			xmax = 63.0727307177159
+			text = ""
+		intervals [17]:
+			xmin = 63.0727307177159
+			xmax = 69.6379771977394
+			text = "OK. Right. And um, so what started first, was it the headache or the fever?"
+		intervals [18]:
+			xmin = 69.6379771977394
+			xmax = 77.8988847146451
+			text = ""
+		intervals [19]:
+			xmin = 77.8988847146451
+			xmax = 83.0003554277874
+			text = "OK, afterwards, right. And what have you taken so far for your headache?"
+		intervals [20]:
+			xmin = 83.0003554277874
+			xmax = 88.9569030740583
+			text = ""
+		intervals [21]:
+			xmin = 88.9569030740583
+			xmax = 97.0438966384633
+			text = "<UNIN/> OK. so just a few more questions, with regards to your headache  So do you find it difficult to look at the light?"
+		intervals [22]:
+			xmin = 97.0438966384633
+			xmax = 103.362765019111
+			text = ""
+		intervals [23]:
+			xmin = 103.362765019111
+			xmax = 110.812074091013
+			text = "OK. Uh, and is it any pain when you try to move your neck from side to side, look up and down, is there any pain?"
+		intervals [24]:
+			xmin = 110.812074091013
+			xmax = 118.623703897292
+			text = ""
+		intervals [25]:
+			xmin = 118.623703897292
+			xmax = 124.522280226063
+			text = "OK, all over. Right, and have you been sick with this <UNIN/> headache?"
+		intervals [26]:
+			xmin = 124.522280226063
+			xmax = 126.754170722943
+			text = ""
+		intervals [27]:
+			xmin = 126.754170722943
+			xmax = 129.841138152952
+			text = "OK, and do you have a cough?"
+		intervals [28]:
+			xmin = 129.841138152952
+			xmax = 132.159985626082
+			text = ""
+		intervals [29]:
+			xmin = 132.159985626082
+			xmax = 134.649528
+			text = "OK, so there's no cough or cold, yeah?"
+		intervals [30]:
+			xmin = 134.649528
+			xmax = 135.905641773812
+			text = ""
+		intervals [31]:
+			xmin = 135.905641773812
+			xmax = 140.155563462025
+			text = "OK, and you your ears are OK? There's no earaches?"
+		intervals [32]:
+			xmin = 140.155563462025
+			xmax = 144.362937506125
+			text = ""
+		intervals [33]:
+			xmin = 144.362937506125
+			xmax = 153.290515174284
+			text = "OK, all right. And with this headache have you experienced any pins and needles in your face, arms and legs?"
+		intervals [34]:
+			xmin = 153.290515174284
+			xmax = 154.609357420535
+			text = ""
+		intervals [35]:
+			xmin = 154.609357420535
+			xmax = 158.406473489922
+			text = "No pins and needles.  Any muscle weaknesses at all?"
+		intervals [36]:
+			xmin = 158.406473489922
+			xmax = 161.957211459933
+			text = ""
+		intervals [37]:
+			xmin = 161.957211459933
+			xmax = 167.739845153703
+			text = "Not, not any weakness but where you couldn't, you know, hold a cup or anything like that, that's what I mean."
+		intervals [38]:
+			xmin = 167.739845153703
+			xmax = 170.812319754337
+			text = ""
+		intervals [39]:
+			xmin = 170.812319754337
+			xmax = 171.812319754337
+			text = "Ohh <UNIN/>"
+		intervals [40]:
+			xmin = 171.812319754337
+			xmax = 173.160147659338
+			text = ""
+		intervals [41]:
+			xmin = 173.160147659338
+			xmax = 184.638463297507
+			text = "Okay, and um just a few more questions to you, because I don't have any of your background history. Um, do you suffer from any medical conditions?"
+		intervals [42]:
+			xmin = 184.638463297507
+			xmax = 187.50803828689
+			text = ""
+		intervals [43]:
+			xmin = 187.50803828689
+			xmax = 193.0175539326
+			text = "Fine. And no surgical history <UNSURE> then </UNSURE> and no medical surgical complaints, yeah?"
+		intervals [44]:
+			xmin = 193.0175539326
+			xmax = 194.444262
+			text = ""
+		intervals [45]:
+			xmin = 194.444262
+			xmax = 194.911308644277
+			text = "<UNIN/>"
+		intervals [46]:
+			xmin = 194.911308644277
+			xmax = 214.638604423247
+			text = ""
+		intervals [47]:
+			xmin = 214.638604423247
+			xmax = 220.841530168894
+			text = "Right, and um, do you have any kind of shivering at all?  Do you shivering with the fever?"
+		intervals [48]:
+			xmin = 220.841530168894
+			xmax = 229.885050472053
+			text = ""
+		intervals [49]:
+			xmin = 229.885050472053
+			xmax = 243.264661
+			text = "<INAUDIBLE_SPEECH/> cold, yeah?  OK, right.  And are you using <INAUDIBLE_SPEECH/>  you mentioned about the paracetamol and <UNIN/>  now, but are you on any <UNIN/> regular, any medication, anything that you're using at all?"
+		intervals [50]:
+			xmin = 243.264661
+			xmax = 244.44958009671
+			text = ""
+		intervals [51]:
+			xmin = 244.44958009671
+			xmax = 248.812680409003
+			text = "OK.  Um, any <UNSURE>allergies</UNSURE> at all?"
+		intervals [52]:
+			xmin = 248.812680409003
+			xmax = 251.015585247133
+			text = ""
+		intervals [53]:
+			xmin = 251.015585247133
+			xmax = 252.566312763386
+			text = "Alright."
+		intervals [54]:
+			xmin = 252.566312763386
+			xmax = 254.001097644638
+			text = ""
+		intervals [55]:
+			xmin = 254.001097644638
+			xmax = 263.7402737578
+			text = "OK and... OK, so uh I, I believe that it is quite important for us to actually examine you, yeah?"
+		intervals [56]:
+			xmin = 263.7402737578
+			xmax = 289.555314698206
+			text = "Um, it it's not <INAUDIBLE_SPEECH/>  possible for us to do that online. I think you would need to come into one of our hubs to have a proper examination, and I, I think you would need one quite urgently, OK? So the thing that's <UNIN/> running in the back of my mind are um, kind of a viral illnesses that can one can get with um, sort of mosquito bites or foreign travel."
+		intervals [57]:
+			xmin = 289.555314698206
+			xmax = 302.919956429784
+			text = "Like <UNIN/>, um <UNIN/> the other common thing around Thailand, it will be like some dengue.  But that would have, like you would have some, uh, blood spots or bleeding or something, which you don't have at the moment, do you?"
+		intervals [58]:
+			xmin = 302.919956429784
+			xmax = 310.407168664859
+			text = ""
+		intervals [59]:
+			xmin = 310.407168664859
+			xmax = 313.189786677992
+			text = "OK. So where is the rash?"
+		intervals [60]:
+			xmin = 313.189786677992
+			xmax = 320.102861063017
+			text = ""
+		intervals [61]:
+			xmin = 320.102861063017
+			xmax = 324.711575577407
+			text = "How would <UNSURE>you describe</UNSURE>, how would you describe the rash?"
+		intervals [62]:
+			xmin = 324.711575577407
+			xmax = 329.436232726798
+			text = ""
+		intervals [63]:
+			xmin = 329.436232726798
+			xmax = 337.740618731829
+			text = "Red and itchy. OK. So if you were to put a glass on top of the rash, does that rash go away?"
+		intervals [64]:
+			xmin = 337.740618731829
+			xmax = 338.943518343079
+			text = ""
+		intervals [65]:
+			xmin = 338.943518343079
+			xmax = 340.682652641208
+			text = "It goes away. OK."
+		intervals [66]:
+			xmin = 340.682652641208
+			xmax = 342.481986376483
+			text = ""
+		intervals [67]:
+			xmin = 342.481986376483
+			xmax = 362.885656790043
+			text = "OK. So <UNIN/> what we need to do, <UNIN/> need to urgently examine you. And that's sometime today. OK? And um, after our examination there is a high possibility that sometimes we might need to send you to hospital. But I'm not sure as yet. So I'd like you to be seen in one of our hubs as soon as possible?"
+		intervals [68]:
+			xmin = 362.885656790043
+			xmax = 382.297125421323
+			text = "So um, I'll <INAUDIBLE_SPEECH/> recommend that you would need to be urgently seen by the doctor, preferably in the next few hours time. OK? And um, in any case if that's not available I'd like you to take yourself to <INAUDIBLE_SPEECH/>. Alright? Any questions at all?"
+		intervals [69]:
+			xmin = 382.297125421323
+			xmax = 385.929245042632
+			text = ""
+		intervals [70]:
+			xmin = 385.929245042632
+			xmax = 394.204645388913
+			text = "<UNIN/>, you know obviously when I've spoken to you, you, you didn't tick the box for many theories, but you're in the middle somewhere. Let's put it that way."
+		intervals [71]:
+			xmin = 394.204645388913
+			xmax = 408.748836908994
+			text = "Um <UNIN/> you know things like we have to rule out is Meningitis and all, but Ben, you just have a general muscle ache. You didn't say that you had things like, you had problems looking at the light or something <UNIN/> Those are things when you think of Meningitis"
+		intervals [72]:
+			xmin = 408.748836908994
+			xmax = 436.103404658456
+			text = "But and then, it's the uh, in meningitis you get a non-blanching <UNIN/> rash. While in any kind of virus <INAUDIBLE_SPEECH/> the rash usually goes away. Saying that, we don't know whether these are the beginning stage. So that's why I'd rather, but I would rather you see a <UNIN/> GP as soon as possible, if uh, we've got a slot available. But if not, I think you need to be seen, and maybe have some blood tests and examinations. OK?"
+		intervals [73]:
+			xmin = 436.103404658456
+			xmax = 437.928379360094
+			text = ""
+		intervals [74]:
+			xmin = 437.928379360094
+			xmax = 441.582800281212
+			text = "All right, you take care, Ben. Bye now. Cheers. Bye."
+		intervals [75]:
+			xmin = 441.582800281212
+			xmax = 443.64
+			text = ""
+

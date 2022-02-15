@@ -1,0 +1,515 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 696.299977324263
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 696.299977324263
+		intervals: size = 125
+		intervals [1]:
+			xmin = 0
+			xmax = 2.08694969922614
+			text = ""
+		intervals [2]:
+			xmin = 2.08694969922614
+			xmax = 3.08694969922614
+			text = "Hello?"
+		intervals [3]:
+			xmin = 3.08694969922614
+			xmax = 4.62317821751103
+			text = ""
+		intervals [4]:
+			xmin = 4.62317821751103
+			xmax = 6.24636271173402
+			text = "Hello, can you hear me?"
+		intervals [5]:
+			xmin = 6.24636271173402
+			xmax = 7.75360590470622
+			text = ""
+		intervals [6]:
+			xmin = 7.75360590470622
+			xmax = 12.3043082555116
+			text = "Yes, I can. Hi, I'm Dr. Jacob and welcome to Babylon. How are you doing?"
+		intervals [7]:
+			xmin = 12.3043082555116
+			xmax = 15.7535682444345
+			text = ""
+		intervals [8]:
+			xmin = 15.7535682444345
+			xmax = 21.928654
+			text = "OK Peter, so just before we <UNIN/>, is it alright if you could confirm your full name for me please?"
+		intervals [9]:
+			xmin = 21.928654
+			xmax = 23.9791199421084
+			text = ""
+		intervals [10]:
+			xmin = 23.9791199421084
+			xmax = 26.3332182602808
+			text = "OK, and your date of birth?"
+		intervals [11]:
+			xmin = 26.3332182602808
+			xmax = 31.6230652366959
+			text = ""
+		intervals [12]:
+			xmin = 31.6230652366959
+			xmax = 37.2752099493837
+			text = "<INAUDIBLE_SPEECH/>. And uh, and <UNIN/> um, what's your email address?"
+		intervals [13]:
+			xmin = 37.2752099493837
+			xmax = 42.1157655533161
+			text = ""
+		intervals [14]:
+			xmin = 42.1157655533161
+			xmax = 48.5215287241341
+			text = "That's correct. And just to confirm that you're in a secure location, and we can have a confidential conversation."
+		intervals [15]:
+			xmin = 48.5215287241341
+			xmax = 50.3765958208586
+			text = ""
+		intervals [16]:
+			xmin = 50.3765958208586
+			xmax = 59.3330676191939
+			text = "Alright. So, you've mentioned that you're not having much of an appetite and energy lately. I'm sorry to hear that. Could you tell me a bit more about it please?"
+		intervals [17]:
+			xmin = 59.3330676191939
+			xmax = 75.1010908660131
+			text = ""
+		intervals [18]:
+			xmin = 75.1010908660131
+			xmax = 76.1010908660131
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [19]:
+			xmin = 76.1010908660131
+			xmax = 93.898086884721
+			text = ""
+		intervals [20]:
+			xmin = 93.898086884721
+			xmax = 100.361820706164
+			text = "So, so you, are you telling me that your, your mood's low? Is that what you're trying to tell me?"
+		intervals [21]:
+			xmin = 100.361820706164
+			xmax = 108.202357479961
+			text = ""
+		intervals [22]:
+			xmin = 108.202357479961
+			xmax = 113.347258999677
+			text = "<INAUDIBLE_SPEECH/> your mood, would you say you're depressed?"
+		intervals [23]:
+			xmin = 113.347258999677
+			xmax = 118.839984423145
+			text = ""
+		intervals [24]:
+			xmin = 118.839984423145
+			xmax = 123.202282159417
+			text = "<INAUDIBLE_SPEECH/> it's a tough one isn't it? Because we don't want to actually say"
+		intervals [25]:
+			xmin = 123.202282159417
+			xmax = 135.723948971214
+			text = ""
+		intervals [26]:
+			xmin = 135.723948971214
+			xmax = 140.289143984676
+			text = "<UNSURE>Uh do you like </UNSURE> your work? Do you like your work?"
+		intervals [27]:
+			xmin = 140.289143984676
+			xmax = 148.361563360974
+			text = ""
+		intervals [28]:
+			xmin = 148.361563360974
+			xmax = 156.187607472114
+			text = "You like your work. OK. And um you, and how are things at home? Alright? Are you having any kind of stress <UNSURE>at home</UNSURE>?"
+		intervals [29]:
+			xmin = 156.187607472114
+			xmax = 171.187519598147
+			text = ""
+		intervals [30]:
+			xmin = 171.187519598147
+			xmax = 173.984609767534
+			text = "And have you lost any weight?"
+		intervals [31]:
+			xmin = 173.984609767534
+			xmax = 182.419345710241
+			text = ""
+		intervals [32]:
+			xmin = 182.419345710241
+			xmax = 190.346838459976
+			text = "OK, right. So you mentioned that you've lost your appetite for a while now. So how long are we talking about?"
+		intervals [33]:
+			xmin = 190.346838459976
+			xmax = 200.41924528285
+			text = ""
+		intervals [34]:
+			xmin = 200.41924528285
+			xmax = 205.969941356943
+			text = "We talking about two months, three months, or six months <INAUDIBLE_SPEECH/> ?"
+		intervals [35]:
+			xmin = 205.969941356943
+			xmax = 208.829182934544
+			text = ""
+		intervals [36]:
+			xmin = 208.829182934544
+			xmax = 214.868448781365
+			text = "<UNIN/> <UNSURE>and a half </UNSURE> months ago. But you said your weight loss is much longer than that?"
+		intervals [37]:
+			xmin = 214.868448781365
+			xmax = 217.100325107155
+			text = ""
+		intervals [38]:
+			xmin = 217.100325107155
+			xmax = 220.824945686548
+			text = "Sorry, could you <UNIN/>, I couldn't hear you. What did you say, your weight loss, how long?"
+		intervals [39]:
+			xmin = 220.824945686548
+			xmax = 225.636515965168
+			text = ""
+		intervals [40]:
+			xmin = 225.636515965168
+			xmax = 228.535054773149
+			text = "<UNIN/> at least six months, would you say?"
+		intervals [41]:
+			xmin = 228.535054773149
+			xmax = 232.035054691734
+			text = ""
+		intervals [42]:
+			xmin = 232.035054691734
+			xmax = 238.620768795544
+			text = "<UNIN/> six months. And roughly how much have you lost? Just approximately."
+		intervals [43]:
+			xmin = 238.620768795544
+			xmax = 243.292197247409
+			text = ""
+		intervals [44]:
+			xmin = 243.292197247409
+			xmax = 249.820768495936
+			text = "So about a stone, yeah? Six months, OK. <UNIN/> OK. <UNIN/> , OK."
+		intervals [45]:
+			xmin = 249.820768495936
+			xmax = 250.749339926834
+			text = ""
+		intervals [46]:
+			xmin = 250.749339926834
+			xmax = 261.235053903636
+			text = "Right, OK. So, just a few more questions. It might seem a bit awkward, but it's quite relevant. OK? So, how are your bowels? Are they OK?"
+		intervals [47]:
+			xmin = 261.235053903636
+			xmax = 264.736336385033
+			text = ""
+		intervals [48]:
+			xmin = 264.736336385033
+			xmax = 265.300069593544
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [49]:
+			xmin = 265.300069593544
+			xmax = 274.263625005617
+			text = ""
+		intervals [50]:
+			xmin = 274.263625005617
+			xmax = 278.135097864255
+			text = "Yeah, um, your bowels.  How's your toilet?"
+		intervals [51]:
+			xmin = 278.135097864255
+			xmax = 282.463624803707
+			text = ""
+		intervals [52]:
+			xmin = 282.463624803707
+			xmax = 283.463624803707
+			text = "<UNSURE>OK</UNSURE>."
+		intervals [53]:
+			xmin = 283.463624803707
+			xmax = 288.420767531981
+			text = ""
+		intervals [54]:
+			xmin = 288.420767531981
+			xmax = 290.42731345564
+			text = "So, you're not going to the toilet?"
+		intervals [55]:
+			xmin = 290.42731345564
+			xmax = 292.749338884721
+			text = ""
+		intervals [56]:
+			xmin = 292.749338884721
+			xmax = 298.720767294249
+			text = "<UNIN/> you are going. Like, to be very more <UNIN/> specific, you don't have any diarrhoea?"
+		intervals [57]:
+			xmin = 298.720767294249
+			xmax = 301.177910103939
+			text = ""
+		intervals [58]:
+			xmin = 301.177910103939
+			xmax = 308.192195622363
+			text = "<INAUDIBLE_SPEECH/> OK, so there's <UNIN/> blood in the poo no mucus nothing of that sort?"
+		intervals [59]:
+			xmin = 308.192195622363
+			xmax = 309.335052760568
+			text = ""
+		intervals [60]:
+			xmin = 309.335052760568
+			xmax = 313.663624080741
+			text = "<UNSURE>Just now</UNSURE>, you mentioned nausea. Have you been ever sick with it?"
+		intervals [61]:
+			xmin = 313.663624080741
+			xmax = 316.877909722916
+			text = ""
+		intervals [62]:
+			xmin = 316.877909722916
+			xmax = 319.206481108221
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [63]:
+			xmin = 319.206481108221
+			xmax = 326.777909465644
+			text = ""
+		intervals [64]:
+			xmin = 326.777909465644
+			xmax = 334.006480691376
+			text = "OK, well just <UNSURE>the nausea</UNSURE>, OK. Is there any particular <UNSURE>foods</UNSURE> that make you nauseous?"
+		intervals [65]:
+			xmin = 334.006480691376
+			xmax = 336.677909208373
+			text = ""
+		intervals [66]:
+			xmin = 336.677909208373
+			xmax = 341.806480502493
+			text = "OK. So you can't think of any real.... Do you suffer from acid reflux?"
+		intervals [67]:
+			xmin = 341.806480502493
+			xmax = 343.735051900824
+			text = ""
+		intervals [68]:
+			xmin = 343.735051900824
+			xmax = 353.73505160773
+			text = "OK, OK. You also mentioned that you're feeling short of breath so <INAUDIBLE_SPEECH/> yeah is there any cough?"
+		intervals [69]:
+			xmin = 353.73505160773
+			xmax = 359.506480023772
+			text = ""
+		intervals [70]:
+			xmin = 359.506480023772
+			xmax = 360.635051448156
+			text = "OK."
+		intervals [71]:
+			xmin = 360.635051448156
+			xmax = 369.107762339083
+			text = ""
+		intervals [72]:
+			xmin = 369.107762339083
+			xmax = 372.312142524525
+			text = "Yeah. Is it like in closed spaces?"
+		intervals [73]:
+			xmin = 372.312142524525
+			xmax = 381.977907993659
+			text = ""
+		intervals [74]:
+			xmin = 381.977907993659
+			xmax = 391.24933629572
+			text = "So, how far can you walk and when you start feeling short of breath? So <INAUDIBLE_SPEECH/> how far can you walk with no shortness of breath? <UNIN/>"
+		intervals [75]:
+			xmin = 391.24933629572
+			xmax = 395.149336201278
+			text = ""
+		intervals [76]:
+			xmin = 395.149336201278
+			xmax = 403.153119
+			text = "Walk, you start with walk. Do you feel short of <UNSURE>breath</UNSURE>let's start this way, do you feel short of <UNIN/> uh breath when you walk at all?"
+		intervals [77]:
+			xmin = 403.153119
+			xmax = 404.174566622763
+			text = ""
+		intervals [78]:
+			xmin = 404.174566622763
+			xmax = 408.598738895036
+			text = "Right. You so you can walk about a mile and you don't feel short of breath at all."
+		intervals [79]:
+			xmin = 408.598738895036
+			xmax = 409.835050073869
+			text = ""
+		intervals [80]:
+			xmin = 409.835050073869
+			xmax = 417.720764135343
+			text = "OK, so just explain a bit more just make myself clear about the lift thing.  So you said you're short of breath when you're in the lift?"
+		intervals [81]:
+			xmin = 417.720764135343
+			xmax = 434.420763624056
+			text = ""
+		intervals [82]:
+			xmin = 434.420763624056
+			xmax = 440.526641
+			text = "<UNIN/> <UNSURE>described them</UNSURE> like palpitations to me, yeah? So that's what you're, you're feeling your own heartbeat."
+		intervals [83]:
+			xmin = 440.526641
+			xmax = 441.050577435031
+			text = ""
+		intervals [84]:
+			xmin = 441.050577435031
+			xmax = 445.006477597602
+			text = "Yeah, OK. You get any chest pains with it?"
+		intervals [85]:
+			xmin = 445.006477597602
+			xmax = 447.277906127625
+			text = ""
+		intervals [86]:
+			xmin = 447.277906127625
+			xmax = 448.277906127625
+			text = "<UNSURE>OK</UNSURE>."
+		intervals [87]:
+			xmin = 448.277906127625
+			xmax = 450.32076323652
+			text = ""
+		intervals [88]:
+			xmin = 450.32076323652
+			xmax = 452.420763200697
+			text = "OK, no chest pains."
+		intervals [89]:
+			xmin = 452.420763200697
+			xmax = 454.6779060169
+			text = ""
+		intervals [90]:
+			xmin = 454.6779060169
+			xmax = 468.577905596798
+			text = "OK. Alright. Fine. So, what we need to do, um, just before that, um, just a few more things. Uh, any <UNIN/> any past medical history you'd like to share with me today?"
+		intervals [91]:
+			xmin = 468.577905596798
+			xmax = 472.992191199894
+			text = ""
+		intervals [92]:
+			xmin = 472.992191199894
+			xmax = 476.092191131505
+			text = "<UNIN/> Sorry you had thyroid problems."
+		intervals [93]:
+			xmin = 476.092191131505
+			xmax = 478.077905385119
+			text = ""
+		intervals [94]:
+			xmin = 478.077905385119
+			xmax = 481.577905303704
+			text = "Ohh yeah, underactive thyroid, yes. Yep."
+		intervals [95]:
+			xmin = 481.577905303704
+			xmax = 487.792190848181
+			text = ""
+		intervals [96]:
+			xmin = 487.792190848181
+			xmax = 492.30647644802
+			text = "Yeah, you're taking thyroxine? <UNSURE>Are you</UNSURE> using it every day?"
+		intervals [97]:
+			xmin = 492.30647644802
+			xmax = 494.863619254453
+			text = ""
+		intervals [98]:
+			xmin = 494.863619254453
+			xmax = 496.377904951991
+			text = "Why is that?"
+		intervals [99]:
+			xmin = 496.377904951991
+			xmax = 501.763619094879
+			text = ""
+		intervals [100]:
+			xmin = 501.763619094879
+			xmax = 508.0779046361
+			text = "OK, so is that, so all these things are since you've stopped taking the thyroxine?"
+		intervals [101]:
+			xmin = 508.0779046361
+			xmax = 513.706475913937
+			text = ""
+		intervals [102]:
+			xmin = 513.706475913937
+			xmax = 516.335047289472
+			text = "When was your last blood test?"
+		intervals [103]:
+			xmin = 516.335047289472
+			xmax = 519.163618658494
+			text = ""
+		intervals [104]:
+			xmin = 519.163618658494
+			xmax = 521.735047178748
+			text = "OK, so you've not had a blood test."
+		intervals [105]:
+			xmin = 521.735047178748
+			xmax = 522.735047178748
+			text = ""
+		intervals [106]:
+			xmin = 522.735047178748
+			xmax = 547.092189307807
+			text = "Right, OK. It could, you know, generally for you know <UNIN/> for underactive thyroids what symptoms you've said um <UNIN/> it's the opposite that usually happens, yeah. It's for overactive thyroid like you can feel a bit like the <UNIN/> racing of your heart beat and all so I'm not quite clear on what picture we are having here. Yeah?"
+		intervals [107]:
+			xmin = 547.092189307807
+			xmax = 574.363617023679
+			text = "I think a general set of bloods is a good <UNIN/> , good start. So what we look at, because you're not, you're not having the umph, aren't you? You're like, you're just <UNIN/> feeling a bit, you know low and things like that, right? Well, um, and weak and things like that. So we'll just do a general set of bloods. <UNIN/> we look at things like anaemia, how your kidney functions are, your livers, all that, with vitamin levels, and your <UNIN/>."
+		intervals [108]:
+			xmin = 574.363617023679
+			xmax = 587.692188050758
+			text = "OK. And <UNSURE>uh</UNSURE>, now after we get those set of bloods, we will find out if we can find anything in them. If that's all clear, then we would need to do a physical examination. OK?"
+		intervals [109]:
+			xmin = 587.692188050758
+			xmax = 602.60151027325
+			text = "We would need to <UNSURE>then</UNSURE> go in and do <UNIN/>. But there's nothing from what your history you've said that, that we urgently warrant a physical examination at this point in time. I think it's a good idea to start off with a blood test, and then take it from there."
+		intervals [110]:
+			xmin = 602.60151027325
+			xmax = 624.033805893112
+			text = "Obviously with palpitations or chest pain, if you get that's more of a medical emergency. You need to go to A and E for that. OK? If things change, you've mentioned now your bowels are fine, and you're not being sick. So if that's the case it's OK, but if your, you know, bowels change or you're being sick again, you need to get in touch with us. OK? <UNIN/>"
+		intervals [111]:
+			xmin = 624.033805893112
+			xmax = 625.560961599495
+			text = ""
+		intervals [112]:
+			xmin = 625.560961599495
+			xmax = 627.835044016585
+			text = "Sorry? Could you repeat that?"
+		intervals [113]:
+			xmin = 627.835044016585
+			xmax = 634.12102848207
+			text = ""
+		intervals [114]:
+			xmin = 634.12102848207
+			xmax = 634.741916363643
+			text = "Mm-hmm."
+		intervals [115]:
+			xmin = 634.741916363643
+			xmax = 643.325888146938
+			text = ""
+		intervals [116]:
+			xmin = 643.325888146938
+			xmax = 653.314300407811
+			text = "OK. So let's do all the blood tests first and<UNSURE> we'll</UNSURE> take it from there. OK? But you know, if you have any chest pains, or change in bowel habits, do get in touch with us."
+		intervals [117]:
+			xmin = 653.314300407811
+			xmax = 654.477900454619
+			text = ""
+		intervals [118]:
+			xmin = 654.477900454619
+			xmax = 677.549328307269
+			text = "<UNSURE>OK</UNSURE>. Now what we need to do is now you need to ring up support. And I'll <UNIN/> the form for you, but in the interim you need to call support so that we can organise that blood test for you. And when you get the result, you will receive a text message through your phone to tell you to book an appointment. <UNIN/> If you're feeling poorly, don't wait for that. Just get in touch with us again, yeah?"
+		intervals [119]:
+			xmin = 677.549328307269
+			xmax = 680.247742412309
+			text = ""
+		intervals [120]:
+			xmin = 680.247742412309
+			xmax = 689.365571
+			text = "Ohh, there's a number on your app, yeah? If you open up your app there's the number on there. It's an oh three hundred number, <UNSURE>yeah</UNSURE>? So just call that number."
+		intervals [121]:
+			xmin = 689.365571
+			xmax = 690.382024235582
+			text = ""
+		intervals [122]:
+			xmin = 690.382024235582
+			xmax = 693.076498
+			text = "Alright then. You take care. Bye now."
+		intervals [123]:
+			xmin = 693.076498
+			xmax = 694.193132565839
+			text = ""
+		intervals [124]:
+			xmin = 694.193132565839
+			xmax = 695.359455410197
+			text = "<UNSURE> Ciao</UNSURE>, bye."
+		intervals [125]:
+			xmin = 695.359455410197
+			xmax = 696.299977324263
+			text = ""
+

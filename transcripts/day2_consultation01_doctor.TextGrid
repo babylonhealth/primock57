@@ -1,0 +1,290 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 329.159977324263 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 329.159977324263 
+        intervals: size = 69 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.31252134112288 
+            text = "" 
+        intervals [2]:
+            xmin = 1.31252134112288 
+            xmax = 3.3125896327161 
+            text = "Hi, there. Good morning!" 
+        intervals [3]:
+            xmin = 3.3125896327161 
+            xmax = 4.87512804673728 
+            text = "" 
+        intervals [4]:
+            xmin = 4.87512804673728 
+            xmax = 7.30022536225762 
+            text = "Uh, I'm Dr. Dean Mesa from Babylon." 
+        intervals [5]:
+            xmin = 7.30022536225762 
+            xmax = 9.27529194656101 
+            text = "" 
+        intervals [6]:
+            xmin = 9.27529194656101 
+            xmax = 11.312862799089 
+            text = "<UNIN/> Can you hear me OK?" 
+        intervals [7]:
+            xmin = 11.312862799089 
+            xmax = 12.7050934679692 
+            text = "" 
+        intervals [8]:
+            xmin = 12.7050934679692 
+            xmax = 19.4904958339521 
+            text = "Yeah, OK, great. Well, nice to see you this morning. Um, before we start your appointment, could I confirm your full name and date of birth please?" 
+        intervals [9]:
+            xmin = 19.4904958339521 
+            xmax = 25.1188177267385 
+            text = "" 
+        intervals [10]:
+            xmin = 25.1188177267385 
+            xmax = 29.6605370831701 
+            text = "That's perfect, thank you, John. Um, are you in a private place where you're OK to speak at the moment?" 
+        intervals [11]:
+            xmin = 29.6605370831701 
+            xmax = 30.6605370831701 
+            text = "" 
+        intervals [12]:
+            xmin = 30.6605370831701 
+            xmax = 36.1176545555654 
+            text = "OK, great. So, um, tell me what's been going on. <UNIN/> You've been saying there's a problem with your hearing. Is that right?" 
+        intervals [13]:
+            xmin = 36.1176545555654 
+            xmax = 41.4636527557957 
+            text = "" 
+        intervals [14]:
+            xmin = 41.4636527557957 
+            xmax = 43.7476976785911 
+            text = "Right, OK. How long has this been going on for?" 
+        intervals [15]:
+            xmin = 43.7476976785911 
+            xmax = 45.4020667257848 
+            text = "" 
+        intervals [16]:
+            xmin = 45.4020667257848 
+            xmax = 50.0196163640447 
+            text = "Six weeks, OK. Um, and before that have you had any hearing problem at all?" 
+        intervals [17]:
+            xmin = 50.0196163640447 
+            xmax = 56.6496594870704 
+            text = "" 
+        intervals [18]:
+            xmin = 56.6496594870704 
+            xmax = 64.2674294737848 
+            text = "Right, OK, OK. And, um, in this six week period, have you had anything else happen? Have you had any other ear symptoms at all?" 
+        intervals [19]:
+            xmin = 64.2674294737848 
+            xmax = 74.3545166197209 
+            text = "" 
+        intervals [20]:
+            xmin = 74.3545166197209 
+            xmax = 80.9475199853582 
+            text = "Right, OK. Uh, uh, um,  just to clarify, the difficulty you've got in hearing, is that both ears or just the left ear?" 
+        intervals [21]:
+            xmin = 80.9475199853582 
+            xmax = 82.1944517012804 
+            text = "" 
+        intervals [22]:
+            xmin = 82.1944517012804 
+            xmax = 84.058712707008 
+            text = "Alright, so your right ear is fine." 
+        intervals [23]:
+            xmin = 84.058712707008 
+            xmax = 85.7254283399979 
+            text = "" 
+        intervals [24]:
+            xmin = 85.7254283399979 
+            xmax = 91.7991987439649 
+            text = "OK. So you've had ringing, difficulty hearing in your left ear, and feeling slightly sick." 
+        intervals [25]:
+            xmin = 91.7991987439649 
+            xmax = 97.0224074444679 
+            text = "Um, that's been, on and off for the six weeks, or is it continuous there throughout that six weeks?" 
+        intervals [26]:
+            xmin = 97.0224074444679 
+            xmax = 104.788336460736 
+            text = "" 
+        intervals [27]:
+            xmin = 104.788336460736 
+            xmax = 110.56646516383 
+            text = "Right, OK. Um, and, um, have you had any pain from the ear at all?" 
+        intervals [28]:
+            xmin = 110.56646516383 
+            xmax = 112.270220554208 
+            text = "" 
+        intervals [29]:
+            xmin = 112.270220554208 
+            xmax = 118.97434319201 
+            text = "OK. Any discharge coming out of the ear? No, OK. Um,  have, have you been experiencing any fever?" 
+        intervals [30]:
+            xmin = 118.97434319201 
+            xmax = 123.344961114348 
+            text = "" 
+        intervals [31]:
+            xmin = 123.344961114348 
+            xmax = 127.135289504269 
+            text = "Right, OK. And, um, has your ear been itchy at all?" 
+        intervals [32]:
+            xmin = 127.135289504269 
+            xmax = 128.159982675861 
+            text = "" 
+        intervals [33]:
+            xmin = 128.159982675861 
+            xmax = 133.147929888004 
+            text = "OK. Now, do you use cotton ball buds to try and <UNIN/> clean out wax from your ears?" 
+        intervals [34]:
+            xmin = 133.147929888004 
+            xmax = 134.752912592013 
+            text = "" 
+        intervals [35]:
+            xmin = 134.752912592013 
+            xmax = 143.765846773688 
+            text = "No, OK. Well, you're right, you should, you shouldn't be doing that. <UNIN/> Doesn't clean up wax, it pushes it back in. Alright, um, the first thing that we need to do is we need to get someone to have a look inside your ear." 
+        intervals [36]:
+            xmin = 143.765846773688 
+            xmax = 152.630621925809 
+            text = "'K. I'm just exclude the simple things. Simple things <UNIN/> might be wax. You know. Someone might have impacted wax, blocking the tube going into the eardrum, which can" 
+        intervals [37]:
+            xmin = 152.630621925809 
+            xmax = 160.606442900611 
+            text = "lead to muffled hearing. Um, if that's the case, that that's something that's easy fixable. But, um, so we need to exclude that first." 
+        intervals [38]:
+            xmin = 160.606442900611 
+            xmax = 167.841468727646 
+            text = "and then after that, we can consider other potential possibilities. Um, and for that we need to have a look inside the ear drum." 
+        intervals [39]:
+            xmin = 167.841468727646 
+            xmax = 175.953102146205 
+            text = "So, um, what I think we could do is, um, maybe if we book you in for a face-to-face appointment in one of our clinics. It's not an emergency." 
+        intervals [40]:
+            xmin = 175.953102146205 
+            xmax = 182.817730399356 
+            text = "It can be done within the next four, five days or so, OK? And then, um, what I'll do, I'll send a message to our admin team." 
+        intervals [41]:
+            xmin = 182.817730399356 
+            xmax = 190.9130363466147 
+            text = "I'll ask them to slot you into the clinic, one of our clinics in that time frame. You can come in and one of the GPs will just have a quick look in the ear and figure out" 
+        intervals [42]:
+            xmin = 190.9130363466147 
+            xmax = 200.127496786531 
+            text = "whether there's physical blockage or whether there's something else going on, OK? Um, can I just double check, the dizziness that you've been getting, um, how severe is it?" 
+        intervals [43]:
+            xmin = 200.127496786531 
+            xmax = 206.967431868091 
+            text = "" 
+        intervals [44]:
+            xmin = 206.967431868091 
+            xmax = 207.708153566373 
+            text = "<INAUDIBLE_SPEECH/>" 
+        intervals [45]:
+            xmin = 207.708153566373 
+            xmax = 211.7948000154 
+            text = "" 
+        intervals [46]:
+            xmin = 211.7948000154 
+            xmax = 215.770327192262 
+            text = "Right, right, OK. Have, have you had any chest pain with it?" 
+        intervals [47]:
+            xmin = 215.770327192262 
+            xmax = 216.58512840532 
+            text = "" 
+        intervals [48]:
+            xmin = 216.58512840532 
+            xmax = 219.066718700854 
+            text = "No. Any palpitations, heart beating fast?" 
+        intervals [49]:
+            xmin = 219.066718700854 
+            xmax = 220.128451629834 
+            text = "" 
+        intervals [50]:
+            xmin = 220.128451629834 
+            xmax = 228.709255308645 
+            text = "OK, fine, alright. Um, so <UNIN/> let's get your ear checked out. I think that will be the, the most sensible thing to do. And then after that, we can, we'll be a step closer to figuring out which way we <UNIN/>" 
+        intervals [51]:
+            xmin = 228.709255308645 
+            xmax = 235.401031360651 
+            text = "<UNIN/> It might be that there's a problem inside the drum or the balance system within the ear. But, we just need to exclude whether there's <UNIN/>" 
+        intervals [52]:
+            xmin = 235.401031360651 
+            xmax = 240.351938815406 
+            text = "physical blockage first and trying to deal with that if that's the case, OK? Um, but" 
+        intervals [53]:
+            xmin = 240.351938815406 
+            xmax = 244.969488453666 
+            text = "" 
+        intervals [54]:
+            xmin = 244.969488453666 
+            xmax = 250.562418369818 
+            text = "<UNIN/> The ringing that you got, that you've got, it's something called Tinnitus. OK? Um" 
+        intervals [55]:
+            xmin = 250.562418369818 
+            xmax = 256.686251475204 
+            text = "and Tinnitus is something actually that medicine doctors, we don't really understand it fully. We haven't" 
+        intervals [56]:
+            xmin = 256.686251475204 
+            xmax = 264.8173156290128 
+            text = "Uh, <UNIN/> people can't give you a specific cause for why some patients get Tinnitus and some patients don't. It can be triggered by a wide range of different things, and in fact" 
+        intervals [57]:
+            xmin = 264.8173156290128 
+            xmax = 271.8860376762904 
+            text = "I'm glad that you've mentioned that. What I might do, in the time between now and when you come for the appointment, I'm going to, uh, put" 
+        intervals [58]:
+            xmin = 271.8860376762904 
+            xmax = 279.5359996197398 
+            text = "paste the link for a leaflet about Tinnitus, um, in the notes for this appointment. I'd really appreciate it if you could start reading about it." 
+        intervals [59]:
+            xmin = 279.5359996197398 
+            xmax = 286.354777802703 
+            text = "OK. And often that, that, uh, awareness of what it is and what the treatment options are, and there are limited options" 
+        intervals [60]:
+            xmin = 286.354777802703 
+            xmax = 294.7428808591122 
+            text = "um that helps us in terms of conversation about what we do next, if your ear is clear, OK? So, um, I'm going to paste a link to that, um, and you can read about that and" 
+        intervals [61]:
+            xmin = 294.7428808591122 
+            xmax = 298.849401272007 
+            text = "what we'll do is we'll see you in about four, five days time. It won't be with me, it'll be another GP" 
+        intervals [62]:
+            xmin = 298.849401272007 
+            xmax = 304.676916318285 
+            text = "but they'll have my notes and they'll know exactly what, what my question is, which is just to check your ears. Is that OK?" 
+        intervals [63]:
+            xmin = 304.676916318285 
+            xmax = 305.849768519431 
+            text = "" 
+        intervals [64]:
+            xmin = 305.849768519431 
+            xmax = 313.479885091941 
+            text = "Alright, great. So, um, bear with me five minutes and then you can ring the support team, I'll leave the number in the notes for this appointment. Ring them, and then they'll slot you in, OK?" 
+        intervals [65]:
+            xmin = 313.479885091941 
+            xmax = 314.66759843272916 
+            text = "" 
+        intervals [66]:
+            xmin = 314.66759843272916 
+            xmax = 322.6773267172798 
+            text = "Alright. <UNIN/> If there's any problem, any issues <UNIN/> between now and when the clinic appointment is, just book another appointment <UNSURE>and</UNSURE> you can speak to <UNSURE>one of</UNSURE> us over video, OK?" 
+        intervals [67]:
+            xmin = 322.6773267172798 
+            xmax = 323.974262670179 
+            text = "" 
+        intervals [68]:
+            xmin = 323.974262670179 
+            xmax = 327.147261770294 
+            text = "Alright then. Take care. Nice to see you this morning. OK. Bye bye." 
+        intervals [69]:
+            xmin = 327.147261770294 
+            xmax = 329.159977324263 
+            text = "" 

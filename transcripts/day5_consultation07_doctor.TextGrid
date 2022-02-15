@@ -1,0 +1,486 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 489.239977324263 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Speaker" 
+        xmin = 0 
+        xmax = 489.239977324263 
+        intervals: size = 118 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.24341933921869 
+            text = "" 
+        intervals [2]:
+            xmin = 1.24341933921869 
+            xmax = 3.12499208125394 
+            text = "Hi there, it's Doctor Smith from Babylon." 
+        intervals [3]:
+            xmin = 3.12499208125394 
+            xmax = 4.3355169151728 
+            text = "" 
+        intervals [4]:
+            xmin = 4.3355169151728 
+            xmax = 7.48681756178121 
+            text = "Hi. Can you confirm you name, date of birth and your home address, please?" 
+        intervals [5]:
+            xmin = 7.48681756178121 
+            xmax = 8.42760745224152 
+            text = "" 
+        intervals [6]:
+            xmin = 8.42760745224152 
+            xmax = 11.2894364522115 
+            text = "Hello. <INAUDIBLE_SPEECH/>" 
+        intervals [7]:
+            xmin = 11.2894364522115 
+            xmax = 15.2894153355553 
+            text = "  " 
+        intervals [8]:
+            xmin = 15.2894153355553 
+            xmax = 16.6315181906735 
+            text = "And your home address?" 
+        intervals [9]:
+            xmin = 16.6315181906735 
+            xmax = 22.1315076323454 
+            text = "" 
+        intervals [10]:
+            xmin = 22.1315076323454 
+            xmax = 26.8814812365252 
+            text = "OK, that's fine. Uh, are you in a private place that you can have a consultation at the moment?" 
+        intervals [11]:
+            xmin = 26.8814812365252 
+            xmax = 28.598449123352 
+            text = "" 
+        intervals [12]:
+            xmin = 28.598449123352 
+            xmax = 30.3683128760772 
+            text = "OK, what can I do for you today?" 
+        intervals [13]:
+            xmin = 30.3683128760772 
+            xmax = 37.5722236145091 
+            text = "" 
+        intervals [14]:
+            xmin = 37.5722236145091 
+            xmax = 41.5195718201604 
+            text = "OK. And, and are you normally fit and well?" 
+        intervals [15]:
+            xmin = 41.5195718201604 
+            xmax = 47.5063907782355 
+            text = "" 
+        intervals [16]:
+            xmin = 47.5063907782355 
+            xmax = 51.3287418099673 
+            text = "Right, OK. So, just tell me about the last, did you say five days?" 
+        intervals [17]:
+            xmin = 51.3287418099673 
+            xmax = 53.1708397302101 
+            text = "" 
+        intervals [18]:
+            xmin = 53.1708397302101 
+            xmax = 55.4471479512759 
+            text = "OK. How about your cough at the moment?" 
+        intervals [19]:
+            xmin = 55.4471479512759 
+            xmax = 64.61157682903 
+            text = "" 
+        intervals [20]:
+            xmin = 64.61157682903 
+            xmax = 66.9010435599319 
+            text = "OK, you bringing up any phlegm at all?" 
+        intervals [21]:
+            xmin = 66.9010435599319 
+            xmax = 69.1707698721434 
+            text = "" 
+        intervals [22]:
+            xmin = 69.1707698721434 
+            xmax = 71.2957619533974 
+            text = "No. Any chest pain?" 
+        intervals [23]:
+            xmin = 71.2957619533974 
+            xmax = 72.9141782991759 
+            text = "" 
+        intervals [24]:
+            xmin = 72.9141782991759 
+            xmax = 74.6115428731066 
+            text = "Any pain in your chest?" 
+        intervals [25]:
+            xmin = 74.6115428731066 
+            xmax = 75.9931184268682 
+            text = "" 
+        intervals [26]:
+            xmin = 75.9931184268682 
+            xmax = 81.0128276822228 
+            text = "Any difficulty breathing, feeling short of breath or any pain when you take a deep breath?" 
+        intervals [27]:
+            xmin = 81.0128276822228 
+            xmax = 82.6444014762631 
+            text = "" 
+        intervals [28]:
+            xmin = 82.6444014762631 
+            xmax = 84.9996550946158 
+            text = "Have you coughed up any blood or anything like that?" 
+        intervals [29]:
+            xmin = 84.9996550946158 
+            xmax = 86.3220212465541 
+            text = "" 
+        intervals [30]:
+            xmin = 86.3220212465541 
+            xmax = 88.8614840945858 
+            text = "And what about your nose symptoms?" 
+        intervals [31]:
+            xmin = 88.8614840945858 
+            xmax = 89.6246436564271 
+            text = "" 
+        intervals [32]:
+            xmin = 89.6246436564271 
+            xmax = 92.9667324337745 
+            text = "Are you <INAUDIBLE_SPEECH/> front of your sinuses or anything?" 
+        intervals [33]:
+            xmin = 92.9667324337745 
+            xmax = 98.8680130157318 
+            text = "" 
+        intervals [34]:
+            xmin = 98.8680130157318 
+            xmax = 101.493003169905 
+            text = "OK. And any blood coming from the nose?" 
+        intervals [35]:
+            xmin = 101.493003169905 
+            xmax = 103.861413705732 
+            text = "" 
+        intervals [36]:
+            xmin = 103.861413705732 
+            xmax = 107.894287094376 
+            text = "Right, OK. Any other symptoms, like sore ears? Sore throat?" 
+        intervals [37]:
+            xmin = 107.894287094376 
+            xmax = 119.22974065958 
+            text = "" 
+        intervals [38]:
+            xmin = 119.22974065958 
+            xmax = 121.821835600737 
+            text = "Have you checked your temperature with a thermometer?" 
+        intervals [39]:
+            xmin = 121.821835600737 
+            xmax = 123.867879984626 
+            text = "" 
+        intervals [40]:
+            xmin = 123.867879984626 
+            xmax = 128.098120405068 
+            text = "OK. Um, and are you eating and drinking normally?" 
+        intervals [41]:
+            xmin = 128.098120405068 
+            xmax = 138.795420567456 
+            text = "" 
+        intervals [42]:
+            xmin = 138.795420567456 
+            xmax = 142.604611320061 
+            text = "OK. So, you're drinking well, holding down fluids OK?" 
+        intervals [43]:
+            xmin = 142.604611320061 
+            xmax = 143.80855725292 
+            text = "" 
+        intervals [44]:
+            xmin = 143.80855725292 
+            xmax = 145.499341864216 
+            text = "And passing water OK?" 
+        intervals [45]:
+            xmin = 145.499341864216 
+            xmax = 146.630919885415 
+            text = "" 
+        intervals [46]:
+            xmin = 146.630919885415 
+            xmax = 148.387493507311 
+            text = "No <UNSURE>vomiting</UNSURE>, diarrhoea now?" 
+        intervals [47]:
+            xmin = 148.387493507311 
+            xmax = 149.644069764004 
+            text = "" 
+        intervals [48]:
+            xmin = 149.644069764004 
+            xmax = 154.367729002448 
+            text = "OK, that's fine. Um, any rashes that you've noticed?" 
+        intervals [49]:
+            xmin = 154.367729002448 
+            xmax = 155.519043372969 
+            text = "" 
+        intervals [50]:
+            xmin = 155.519043372969 
+            xmax = 156.144046012551 
+            text = "Yeah." 
+        intervals [51]:
+            xmin = 156.144046012551 
+            xmax = 157.624305789928 
+            text = "" 
+        intervals [52]:
+            xmin = 157.624305789928 
+            xmax = 160.163769522605 
+            text = "Any headaches or change in your vision?" 
+        intervals [53]:
+            xmin = 160.163769522605 
+            xmax = 165.380858295168 
+            text = "" 
+        intervals [54]:
+            xmin = 165.380858295168 
+            xmax = 169.347942673212 
+            text = "OK. And normally, do you have any chest problems?" 
+        intervals [55]:
+            xmin = 169.347942673212 
+            xmax = 171.143989701468 
+            text = "" 
+        intervals [56]:
+            xmin = 171.143989701468 
+            xmax = 173.966345825865 
+            text = "Do you ever get wheezing, short of breath?" 
+        intervals [57]:
+            xmin = 173.966345825865 
+            xmax = 177.946587475242 
+            text = "" 
+        intervals [58]:
+            xmin = 177.946587475242 
+            xmax = 185.406446208058 
+            text = "<UNIN/>. And, do you regularly have any infections in your chest, or anything that needs treatment, normally?" 
+        intervals [59]:
+            xmin = 185.406446208058 
+            xmax = 191.795202362009 
+            text = "" 
+        intervals [60]:
+            xmin = 191.795202362009 
+            xmax = 195.242553556316 
+            text = "OK. Um, any other medical problems?" 
+        intervals [61]:
+            xmin = 195.242553556316 
+            xmax = 199.834633535056 
+            text = "" 
+        intervals [62]:
+            xmin = 199.834633535056 
+            xmax = 202.143835907564 
+            text = "OK, and what type of drugs are you on?" 
+        intervals [63]:
+            xmin = 202.143835907564 
+            xmax = 209.209609778818 
+            text = "" 
+        intervals [64]:
+            xmin = 209.209609778818 
+            xmax = 211.70302031943 
+            text = "OK, and when did you last have your blood pressure checked?" 
+        intervals [65]:
+            xmin = 211.70302031943 
+            xmax = 217.959576344113 
+            text = "" 
+        intervals [66]:
+            xmin = 217.959576344113 
+            xmax = 221.27534951722 
+            text = "<UNIN/> Do you know if it, do you know if it's been stable?" 
+        intervals [67]:
+            xmin = 221.27534951722 
+            xmax = 223.242447973035 
+            text = "" 
+        intervals [68]:
+            xmin = 223.242447973035 
+            xmax = 230.577930755355 
+            text = "OK. And with your blood, with your diabetes, have you had a blood test recently?" 
+        intervals [69]:
+            xmin = 230.577930755355 
+            xmax = 240.814712620002 
+            text = "" 
+        intervals [70]:
+            xmin = 240.814712620002 
+            xmax = 244.202848574454 
+            text = "OK, and do you know what dose of the lisinopril you're taking?" 
+        intervals [71]:
+            xmin = 244.202848574454 
+            xmax = 248.367313354352 
+            text = "" 
+        intervals [72]:
+            xmin = 248.367313354352 
+            xmax = 256.413317274219 
+            text = "OK. Have you been able to pass water normally? Any increase in <UNIN/> in frequency that you're passing water or any increased thirst?" 
+        intervals [73]:
+            xmin = 256.413317274219 
+            xmax = 259.755419244692 
+            text = "" 
+        intervals [74]:
+            xmin = 259.755419244692 
+            xmax = 261.873832424886 
+            text = "And has your weight been stable?" 
+        intervals [75]:
+            xmin = 261.873832424886 
+            xmax = 263.479091322403 
+            text = "" 
+        intervals [76]:
+            xmin = 263.479091322403 
+            xmax = 265.577767799417 
+            text = "What is your weight and height?" 
+        intervals [77]:
+            xmin = 265.577767799417 
+            xmax = 272.873776113803 
+            text = "" 
+        intervals [78]:
+            xmin = 272.873776113803 
+            xmax = 275.577711488334 
+            text = "OK. And do you smoke at all?" 
+        intervals [79]:
+            xmin = 275.577711488334 
+            xmax = 276.656658301053 
+            text = "" 
+        intervals [80]:
+            xmin = 276.656658301053 
+            xmax = 278.22244379221 
+            text = "You drink any alcohol?" 
+        intervals [81]:
+            xmin = 278.22244379221 
+            xmax = 281.419810824009 
+            text = "" 
+        intervals [82]:
+            xmin = 281.419810824009 
+            xmax = 284.123760276311 
+            text = "OK.Um, who do you live with at home?" 
+        intervals [83]:
+            xmin = 284.123760276311 
+            xmax = 288.130318060714 
+            text = "" 
+        intervals [84]:
+            xmin = 288.130318060714 
+            xmax = 289.709261353991 
+            text = "And do you work?" 
+        intervals [85]:
+            xmin = 289.709261353991 
+            xmax = 293.215822657838 
+            text = "" 
+        intervals [86]:
+            xmin = 293.215822657838 
+            xmax = 293.985561120739 
+            text = "OK." 
+        intervals [87]:
+            xmin = 293.985561120739 
+            xmax = 295.222401558898 
+            text = "" 
+        intervals [88]:
+            xmin = 295.222401558898 
+            xmax = 300.998683728432 
+            text = "And have you been doing anything yourself to help with the symptoms? Anything that you've bought in the chemist?" 
+        intervals [89]:
+            xmin = 300.998683728432 
+            xmax = 306.972332929765 
+            text = "" 
+        intervals [90]:
+            xmin = 306.972332929765 
+            xmax = 307.774965897966 
+            text = "<INAUDIBLE_SPEECH/>" 
+        intervals [91]:
+            xmin = 307.774965897966 
+            xmax = 308.584177767227 
+            text = "" 
+        intervals [92]:
+            xmin = 308.584177767227 
+            xmax = 312.380210717712 
+            text = "Do you, what, what do you mean by quite a few? How many in, in a day do you normally take?" 
+        intervals [93]:
+            xmin = 312.380210717712 
+            xmax = 316.886779060444 
+            text = "" 
+        intervals [94]:
+            xmin = 316.886779060444 
+            xmax = 319.445978611656 
+            text = "OK. Have you noticed any improvement in that?" 
+        intervals [95]:
+            xmin = 319.445978611656 
+            xmax = 324.465715314835 
+            text = "" 
+        intervals [96]:
+            xmin = 324.465715314835 
+            xmax = 328.32095837486 
+            text = "OK. Um, do you have any allergies to anything?" 
+        intervals [97]:
+            xmin = 328.32095837486 
+            xmax = 332.242004523255 
+            text = "" 
+        intervals [98]:
+            xmin = 332.242004523255 
+            xmax = 335.807776290499 
+            text = "Any <INAUDIBLE_SPEECH/>. Any allergies to any medications at all?" 
+        intervals [99]:
+            xmin = 335.807776290499 
+            xmax = 337.827519147919 
+            text = "" 
+        intervals [100]:
+            xmin = 337.827519147919 
+            xmax = 358.215938467171 
+            text = "OK. So, what you've described to me, it sounds like you, you probably have got an infection in the chest, um, because it's, it, you know, you're obviously getting symptoms of from your nose and your chest. Um, it sounds like you might have a high temperature, it's definitely worth getting a thermometer and checking your temperature." 
+        intervals [101]:
+            xmin = 358.215938467171 
+            xmax = 361.9004932627 
+            text = "" 
+        intervals [102]:
+            xmin = 361.9004932627 
+            xmax = 380.102532208449 
+            text = "Yeah, and most of the time, these infections are caused by viruses, so they do normally settle by themselves. But it can take, you know, a week or two, um, and you can <UNIN/> persistently have the cough ongoing longer than that." 
+        intervals [103]:
+            xmin = 380.102532208449 
+            xmax = 380.818232663235 
+            text = "" 
+        intervals [104]:
+            xmin = 380.818232663235 
+            xmax = 384.108489502044 
+            text = "Um, the important thing to do would be to take your temperature." 
+        intervals [105]:
+            xmin = 384.108489502044 
+            xmax = 384.806477087547 
+            text = "" 
+        intervals [106]:
+            xmin = 384.806477087547 
+            xmax = 404.202392162577 
+            text = "Um, and if you feel like, if the temperature's ongoing, above thirty seven point five, thirty eight, um, and you keep spiking temperatures and that's not settling down, or your cough's getting worse, you're coughing up lots of nasty phlegm or you cough up any blood or get blood coming out your nose," 
+        intervals [107]:
+            xmin = 404.202392162577 
+            xmax = 419.584897818291 
+            text = "um, or any shortness of breath, chest pain, then we certainly would need to speak to you again. With the diabetes you are a bit more likely to get a bacterial infection than if you didn't have the diabetes, so it's something we do need to be careful of." 
+        intervals [108]:
+            xmin = 419.584897818291 
+            xmax = 424.745957751362 
+            text = "" 
+        intervals [109]:
+            xmin = 424.745957751362 
+            xmax = 430.77278660599 
+            text = "Yeah, potentially. If it is, if it's not settling or the temperature's ongoing, getting worse, then we definitely need to talk to you again." 
+        intervals [110]:
+            xmin = 430.77278660599 
+            xmax = 431.77278660599 
+            text = "" 
+        intervals [111]:
+            xmin = 431.77278660599 
+            xmax = 435.021101247246 
+            text = "Um, have you got any other questions?" 
+        intervals [112]:
+            xmin = 435.021101247246 
+            xmax = 437.955582207236 
+            text = "" 
+        intervals [113]:
+            xmin = 437.955582207236 
+            xmax = 451.291120738269 
+            text = "It's fine to carry on what you're doing at the moment, with the lemsip. I wouldn't take, and that, that contains paracetamol so don't take any other paracetamol containing products, um, with that at the same time." 
+        intervals [114]:
+            xmin = 451.291120738269 
+            xmax = 464.638475399581 
+            text = "Um, the cough syrup isn't advisable in the daytime because it's best for your body if you just keep coughing. But if you're kept up all night and you can't sleep at all, then it, it's OK to have a little bit of cough syrup, just to settle that down." 
+        intervals [115]:
+            xmin = 464.638475399581 
+            xmax = 467.215658019285 
+            text = "" 
+        intervals [116]:
+            xmin = 467.215658019285 
+            xmax = 483.120603712263 
+            text = "OK? Do you have blood sugar checking equipment? Do you check? No, OK. Well, if you make sure that you have the regular diabetes and blood pressure checkups that your GP has asked you for?" 
+        intervals [117]:
+            xmin = 483.120603712263 
+            xmax = 484.321256889595 
+            text = "" 
+        intervals [118]:
+            xmin = 484.321256889595 
+            xmax = 489.239977324263 
+            text = "OK, great. Alright then, take care. Bye." 

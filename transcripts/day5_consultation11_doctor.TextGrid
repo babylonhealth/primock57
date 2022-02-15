@@ -1,0 +1,423 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 665.699977324263
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 665.699977324263
+		intervals: size = 102
+		intervals [1]:
+			xmin = 0
+			xmax = 1.52499998211693
+			text = ""
+		intervals [2]:
+			xmin = 1.52499998211693
+			xmax = 3.65018063400237
+			text = "Hi there. It's Doctor Smith from Babylon."
+		intervals [3]:
+			xmin = 3.65018063400237
+			xmax = 4.20336781137813
+			text = ""
+		intervals [4]:
+			xmin = 4.20336781137813
+			xmax = 9.03333309375692
+			text = "<UNSURE>Hi Doctor Smith</UNSURE>. Hi, can you confirm your name, date of birth, and your home address please?"
+		intervals [5]:
+			xmin = 9.03333309375692
+			xmax = 10.016666427658
+			text = ""
+		intervals [6]:
+			xmin = 10.016666427658
+			xmax = 12.4249997130193
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [7]:
+			xmin = 12.4249997130193
+			xmax = 19.2916661798497
+			text = ""
+		intervals [8]:
+			xmin = 19.2916661798497
+			xmax = 23.1249994166712
+			text = "OK, <UNSURE>I</UNSURE>, are you in a private place where you can have a consultation today?"
+		intervals [9]:
+			xmin = 23.1249994166712
+			xmax = 23.8333327599395
+			text = ""
+		intervals [10]:
+			xmin = 23.8333327599395
+			xmax = 25.1999994141165
+			text = "What can I do for you?"
+		intervals [11]:
+			xmin = 25.1999994141165
+			xmax = 55.3499984211801
+			text = ""
+		intervals [12]:
+			xmin = 55.3499984211801
+			xmax = 57.8499983700856
+			text = "<UNSURE>OK</UNSURE>, that's fine. So when do you think it started?"
+		intervals [13]:
+			xmin = 57.8499983700856
+			xmax = 61.4666649476208
+			text = ""
+		intervals [14]:
+			xmin = 61.4666649476208
+			xmax = 66.4499981452698
+			text = "OK. Um, and, any joint problems before that?"
+		intervals [15]:
+			xmin = 66.4499981452698
+			xmax = 84.1333309103188
+			text = ""
+		intervals [16]:
+			xmin = 84.1333309103188
+			xmax = 91.2499973686335
+			text = "OK, So, um, at the moment, just tell me about the exercise that you're doing, normally."
+		intervals [17]:
+			xmin = 91.2499973686335
+			xmax = 110.216663423302
+			text = ""
+		intervals [18]:
+			xmin = 110.216663423302
+			xmax = 110.983330097916
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [19]:
+			xmin = 110.983330097916
+			xmax = 120.824996463409
+			text = ""
+		intervals [20]:
+			xmin = 120.824996463409
+			xmax = 122.024996456597
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [21]:
+			xmin = 122.024996456597
+			xmax = 129.516662902138
+			text = ""
+		intervals [22]:
+			xmin = 129.516662902138
+			xmax = 135.299996072537
+			text = "And, have you had, any times when the knee feels like it's giving way underneath you?"
+		intervals [23]:
+			xmin = 135.299996072537
+			xmax = 140.966662580243
+			text = ""
+		intervals [24]:
+			xmin = 140.966662580243
+			xmax = 148.808329013862
+			text = "So, it means if you're, if you're there and <UNSURE>uh</UNSURE>, you just feel it sort of jolt, like give way, feel unstable underneath you."
+		intervals [25]:
+			xmin = 148.808329013862
+			xmax = 152.716662248128
+			text = ""
+		intervals [26]:
+			xmin = 152.716662248128
+			xmax = 157.966662103361
+			text = "And does it hurt, uh, how far into the run does it generally hurt?"
+		intervals [27]:
+			xmin = 157.966662103361
+			xmax = 171.149995089819
+			text = ""
+		intervals [28]:
+			xmin = 171.149995089819
+			xmax = 174.724995002107
+			text = "OK. Ooh you're fast. Um."
+		intervals [29]:
+			xmin = 174.724995002107
+			xmax = 176.074994990185
+			text = ""
+		intervals [30]:
+			xmin = 176.074994990185
+			xmax = 183.249994779846
+			text = "<INAUDIBLE_SPEECH/> Um. And, um, do you have to stop running, or can you run through the pain?"
+		intervals [31]:
+			xmin = 183.249994779846
+			xmax = 197.011326324263
+			text = ""
+		intervals [32]:
+			xmin = 197.011326324263
+			xmax = 197.834855073741
+			text = "OK."
+		intervals [33]:
+			xmin = 197.834855073741
+			xmax = 209.843299749128
+			text = ""
+		intervals [34]:
+			xmin = 209.843299749128
+			xmax = 210.717248855899
+			text = "OK."
+		intervals [35]:
+			xmin = 210.717248855899
+			xmax = 212.902127252257
+			text = ""
+		intervals [36]:
+			xmin = 212.902127252257
+			xmax = 217.053399582997
+			text = "Right. And, you said before, it's both knees."
+		intervals [37]:
+			xmin = 217.053399582997
+			xmax = 221.397949950023
+			text = ""
+		intervals [38]:
+			xmin = 221.397949950023
+			xmax = 222.397949950023
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [39]:
+			xmin = 222.397949950023
+			xmax = 223.481983878843
+			text = ""
+		intervals [40]:
+			xmin = 223.481983878843
+			xmax = 225.465180846034
+			text = "<UNSURE>And</UNSURE>, any problems with your left one?"
+		intervals [41]:
+			xmin = 225.465180846034
+			xmax = 227.566025313573
+			text = ""
+		intervals [42]:
+			xmin = 227.566025313573
+			xmax = 233.801339079043
+			text = "OK, <UNSURE>and</UNSURE>, can you just describe in the knee, or show me whereabouts the pain, is happening mainly?"
+		intervals [43]:
+			xmin = 233.801339079043
+			xmax = 244.431627321786
+			text = ""
+		intervals [44]:
+			xmin = 244.431627321786
+			xmax = 249.356011797668
+			text = "OK. Have you noticed any tenderness when you press over any areas in the knee?"
+		intervals [45]:
+			xmin = 249.356011797668
+			xmax = 257.372844854117
+			text = ""
+		intervals [46]:
+			xmin = 257.372844854117
+			xmax = 260.08713700204
+			text = "OK. <UNIN/>, does it look swollen to you?"
+		intervals [47]:
+			xmin = 260.08713700204
+			xmax = 260.877494663679
+			text = ""
+		intervals [48]:
+			xmin = 260.877494663679
+			xmax = 262.540920217666
+			text = "Does the knee look swollen?"
+		intervals [49]:
+			xmin = 262.540920217666
+			xmax = 270.221617558836
+			text = ""
+		intervals [50]:
+			xmin = 270.221617558836
+			xmax = 270.885481843557
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [51]:
+			xmin = 270.885481843557
+			xmax = 287.524188491002
+			text = ""
+		intervals [52]:
+			xmin = 287.524188491002
+			xmax = 295.398163868457
+			text = "OK, and, if you're sitting, still for a while, do you have any problems when you stand up, any locking up of the knee?"
+		intervals [53]:
+			xmin = 295.398163868457
+			xmax = 296.541021547451
+			text = ""
+		intervals [54]:
+			xmin = 296.541021547451
+			xmax = 299.872742210075
+			text = "Can't straighten it. Any problems going up and down stairs?"
+		intervals [55]:
+			xmin = 299.872742210075
+			xmax = 302.26372084121
+			text = ""
+		intervals [56]:
+			xmin = 302.26372084121
+			xmax = 304.541036559271
+			text = "Any problems just walking normally?"
+		intervals [57]:
+			xmin = 304.541036559271
+			xmax = 306.717511562747
+			text = ""
+		intervals [58]:
+			xmin = 306.717511562747
+			xmax = 311.440214609462
+			text = "And <UNSURE>intervals</UNSURE> of range of movement. Are you able to fully straighten the leg?"
+		intervals [59]:
+			xmin = 311.440214609462
+			xmax = 313.246940326131
+			text = ""
+		intervals [60]:
+			xmin = 313.246940326131
+			xmax = 315.38980175808
+			text = "And what about fully flex it?"
+		intervals [61]:
+			xmin = 315.38980175808
+			xmax = 317.07047658152
+			text = ""
+		intervals [62]:
+			xmin = 317.07047658152
+			xmax = 320.843596232571
+			text = "OK. Are you taking any medication for the knee?"
+		intervals [63]:
+			xmin = 320.843596232571
+			xmax = 352.707489492471
+			text = ""
+		intervals [64]:
+			xmin = 352.707489492471
+			xmax = 362.398366528026
+			text = "OK, and any other joint problems, that you're getting? Any back pains? Small swelling of your, hands, feet, elbows, wrists? Any pain?"
+		intervals [65]:
+			xmin = 362.398366528026
+			xmax = 370.768142085518
+			text = ""
+		intervals [66]:
+			xmin = 370.768142085518
+			xmax = 371.432006370239
+			text = "<UNSURE>OK</UNSURE>."
+		intervals [67]:
+			xmin = 371.432006370239
+			xmax = 385.045499086082
+			text = ""
+		intervals [68]:
+			xmin = 385.045499086082
+			xmax = 386.810207838342
+			text = "On your right <UNSURE>side</UNSURE>."
+		intervals [69]:
+			xmin = 386.810207838342
+			xmax = 387.650543373585
+			text = ""
+		intervals [70]:
+			xmin = 387.650543373585
+			xmax = 391.961480169083
+			text = "Any change in colour, or temperature of your lower legs?"
+		intervals [71]:
+			xmin = 391.961480169083
+			xmax = 392.919463204673
+			text = ""
+		intervals [72]:
+			xmin = 392.919463204673
+			xmax = 398.213596967362
+			text = "Any swelling which stays if you push in, and then you release it, that it stays there?"
+		intervals [73]:
+			xmin = 398.213596967362
+			xmax = 415.432145229572
+			text = ""
+		intervals [74]:
+			xmin = 415.432145229572
+			xmax = 419.432156488437
+			text = "Yeah, any, or any pain in the back of the calf or anything like that?"
+		intervals [75]:
+			xmin = 419.432156488437
+			xmax = 420.650644703369
+			text = ""
+		intervals [76]:
+			xmin = 420.650644703369
+			xmax = 429.264118654438
+			text = "Um, and, with your foot, has that gone back to normal now? Do you feel any altered senstation, tingling numbness, anything like that?"
+		intervals [77]:
+			xmin = 429.264118654438
+			xmax = 435.726324027721
+			text = ""
+		intervals [78]:
+			xmin = 435.726324027721
+			xmax = 444.726354051361
+			text = "OK.And any pain in the joints of your foot or <UNIN/>, on the underside in the arch? Any problems walking round on hard floors?"
+		intervals [79]:
+			xmin = 444.726354051361
+			xmax = 446.163330481224
+			text = ""
+		intervals [80]:
+			xmin = 446.163330481224
+			xmax = 449.390229594947
+			text = "OK, have you had, any other medical problems before?"
+		intervals [81]:
+			xmin = 449.390229594947
+			xmax = 484.540193277483
+			text = ""
+		intervals [82]:
+			xmin = 484.540193277483
+			xmax = 488.073526524523
+			text = "OK, <UNSURE>and</UNSURE>, do you take any other medications, apart from the ones you told me about?"
+		intervals [83]:
+			xmin = 488.073526524523
+			xmax = 517.906858875707
+			text = ""
+		intervals [84]:
+			xmin = 517.906858875707
+			xmax = 523.798525375749
+			text = "OK. And, any problems with your stomach, or asthma, indigestion, acid <UNSURE>reflux</UNSURE>?"
+		intervals [85]:
+			xmin = 523.798525375749
+			xmax = 525.223525361272
+			text = ""
+		intervals [86]:
+			xmin = 525.223525361272
+			xmax = 535.55808144564
+			text = "<UNIN/>. <UNSURE>And</UNSURE>, what I would suggest is, definitely carrying on with the ice therapy that you've been using. So, as much as you can, 'cause that really does make a difference to injuries."
+		intervals [87]:
+			xmin = 535.55808144564
+			xmax = 542.547574467971
+			text = "<UNSURE>Brings</UNSURE> the healing blood into the area, and it gives it the best chance of, getting better. So, as much as you can, use the ice."
+		intervals [88]:
+			xmin = 542.547574467971
+			xmax = 545.809360531086
+			text = "Um, obviously you're trying to stick to a marathon programme, but."
+		intervals [89]:
+			xmin = 545.809360531086
+			xmax = 554.974632220914
+			text = "Um, I would, try and ease up on the running, if you can. And if it, if it's painful enough that you're, having to stop running, then it's not a good idea, to do that."
+		intervals [90]:
+			xmin = 554.974632220914
+			xmax = 567.329661849316
+			text = "Um. It's fine to take the Ibuprofen. Um, I can prescribe you a slightly stronger, anti-inflammatory that you can take regularly instead of the Ibuprofen, but not with the Ibuprofen."
+		intervals [91]:
+			xmin = 567.329661849316
+			xmax = 573.058886
+			text = "But make <UNSURE>sure</UNSURE> that with food. Ultimately we probably need to, examine the knee."
+		intervals [92]:
+			xmin = 573.058886
+			xmax = 584.710039
+			text = "Um, so, the best thing I would, suggest, getting a appointment with the physiotherapist first, who can do like a long, assessment, and examination of the knee."
+		intervals [93]:
+			xmin = 584.710039
+			xmax = 593.940189789432
+			text = "And then <UNSURE>we can</UNSURE> make an assessment as to whether we need to do any, um, imagery to <UNIN/>, have a look inside the knee, and see if there's any problem with the, cartilage."
+		intervals [94]:
+			xmin = 593.940189789432
+			xmax = 610.04852260813
+			text = ""
+		intervals [95]:
+			xmin = 610.04852260813
+			xmax = 624.233343
+			text = "Um, it's, it's not really possible to, diagnose that over the <UNIN/>, over the video. So we definitely would need to, see you. And, the, a physio is the best point of call, because they'll probably be the most likely initial treatment."
+		intervals [96]:
+			xmin = 624.233343
+			xmax = 629.876402839039
+			text = "But certainly if the appointment time's too long to wait, then we can see, we can see you <UNSURE>in</UNSURE> our clinic as well."
+		intervals [97]:
+			xmin = 629.876402839039
+			xmax = 632.799086065733
+			text = ""
+		intervals [98]:
+			xmin = 632.799086065733
+			xmax = 646.619822104571
+			text = "Yep, <UNIN/> we can, we can do a referral before that. If in the meantime you develop like persistant swelling, heat, redness, um, of the knee, or high temperature, feel unwell, or it completely locks up and you can't bend and stretch it."
+		intervals [99]:
+			xmin = 646.619822104571
+			xmax = 653.502029704866
+			text = "Then, you'd need to see a doctor urgently, so call us back <INAUDIBLE_SPEECH/> in that, case. <UNIN/>."
+		intervals [100]:
+			xmin = 653.502029704866
+			xmax = 658.483045065362
+			text = ""
+		intervals [101]:
+			xmin = 658.483045065362
+			xmax = 663.956854275499
+			text = "OK. I'll send it through to your pharmacy for you. OK? Thank you, bye."
+		intervals [102]:
+			xmin = 663.956854275499
+			xmax = 665.699977324263
+			text = ""
+

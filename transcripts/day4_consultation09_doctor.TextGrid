@@ -1,0 +1,463 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 628.499977324263
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 628.499977324263
+		intervals: size = 112
+		intervals [1]:
+			xmin = 0
+			xmax = 1.0977449420411
+			text = ""
+		intervals [2]:
+			xmin = 1.0977449420411
+			xmax = 9.96490308064714
+			text = "Ohh hello. Hi, how you doing? Uh, my name's Joe. I'm one of the doctors here at Babylon. Can I just confirm your name please?"
+		intervals [3]:
+			xmin = 9.96490308064714
+			xmax = 12.9745178517045
+			text = "Yes. <UNSURE>Brian</UNSURE> <UNIN/>."
+		intervals [4]:
+			xmin = 12.9745178517045
+			xmax = 17.3008428502796
+			text = "Hi Daniel. And your date of birth? <INAUDIBLE_SPEECH/>."
+		intervals [5]:
+			xmin = 17.3008428502796
+			xmax = 18.7143791435304
+			text = ""
+		intervals [6]:
+			xmin = 18.7143791435304
+			xmax = 25.3083973649595
+			text = "Ninety two. OK, Daniel. And uh, are you in a, a comfortable and confidential place to talk?"
+		intervals [7]:
+			xmin = 25.3083973649595
+			xmax = 26.5163229467025
+			text = ""
+		intervals [8]:
+			xmin = 26.5163229467025
+			xmax = 29.4061541979953
+			text = "<UNIN/>, happy to go ahead. Great. How can I help?"
+		intervals [9]:
+			xmin = 29.4061541979953
+			xmax = 35.0979114159681
+			text = ""
+		intervals [10]:
+			xmin = 35.0979114159681
+			xmax = 38.2332624574813
+			text = "OK. And how long has this been going on for Daniel?"
+		intervals [11]:
+			xmin = 38.2332624574813
+			xmax = 42.8376079430084
+			text = ""
+		intervals [12]:
+			xmin = 42.8376079430084
+			xmax = 52.000119
+			text = "OK. And, so, tight chest, three hours. Um, and, so you're born in ninety two, so that makes you twenty six?"
+		intervals [13]:
+			xmin = 52.000119
+			xmax = 59.0754797463269
+			text = "Um, and, you are, uh. Any shortness of breath at all, with that?"
+		intervals [14]:
+			xmin = 59.0754797463269
+			xmax = 66.4138632956074
+			text = ""
+		intervals [15]:
+			xmin = 66.4138632956074
+			xmax = 68.6319156502734
+			text = "Uh, any cough? Wheeze?"
+		intervals [16]:
+			xmin = 68.6319156502734
+			xmax = 74.46653086046
+			text = ""
+		intervals [17]:
+			xmin = 74.46653086046
+			xmax = 79.4590358007541
+			text = "Slight cough, yeah. <UNIN/>, sore throat? Runny nose? Sore ears?"
+		intervals [18]:
+			xmin = 79.4590358007541
+			xmax = 87.188399118199
+			text = ""
+		intervals [19]:
+			xmin = 87.188399118199
+			xmax = 90.9402951787407
+			text = "<UNSURE>Mm-hmm</UNSURE>. Are you feeling better now, other than the tight chest?"
+		intervals [20]:
+			xmin = 90.9402951787407
+			xmax = 95.5944403517439
+			text = ""
+		intervals [21]:
+			xmin = 95.5944403517439
+			xmax = 102.827560117288
+			text = "Right. OK, OK, but you now, now you've got this, this um. So you've still got, still got uh, symptoms of a cold, essentially?"
+		intervals [22]:
+			xmin = 102.827560117288
+			xmax = 105.113282047213
+			text = ""
+		intervals [23]:
+			xmin = 105.113282047213
+			xmax = 107.451635869006
+			text = "Uh, ooh, yeah, OK."
+		intervals [24]:
+			xmin = 107.451635869006
+			xmax = 110.053149150141
+			text = ""
+		intervals [25]:
+			xmin = 110.053149150141
+			xmax = 111.632099960693
+			text = "And are you coughing up anything?"
+		intervals [26]:
+			xmin = 111.632099960693
+			xmax = 114.974509255372
+			text = ""
+		intervals [27]:
+			xmin = 114.974509255372
+			xmax = 119.425439265925
+			text = "And, um, do you have any other medical problems, like asthma?"
+		intervals [28]:
+			xmin = 119.425439265925
+			xmax = 128.52691941392
+			text = ""
+		intervals [29]:
+			xmin = 128.52691941392
+			xmax = 130.767528293672
+			text = "<INAUDIBLE_SPEECH/>, OK."
+		intervals [30]:
+			xmin = 130.767528293672
+			xmax = 132.263771845573
+			text = ""
+		intervals [31]:
+			xmin = 132.263771845573
+			xmax = 135.887847597292
+			text = "You have any, inhalers? Or any, any medications?"
+		intervals [32]:
+			xmin = 135.887847597292
+			xmax = 143.354051455395
+			text = ""
+		intervals [33]:
+			xmin = 143.354051455395
+			xmax = 144.323976088613
+			text = "Yeah."
+		intervals [34]:
+			xmin = 144.323976088613
+			xmax = 149.030765044479
+			text = ""
+		intervals [35]:
+			xmin = 149.030765044479
+			xmax = 151.663726464135
+			text = "<UNSURE>Clenil</UNSURE>, Clenil Modulite, yeah, OK."
+		intervals [36]:
+			xmin = 151.663726464135
+			xmax = 152.495204517942
+			text = ""
+		intervals [37]:
+			xmin = 152.495204517942
+			xmax = 159.727232681745
+			text = "And um, uh, have you been using Clenil and the Ventolin? And how often have you been using them?"
+		intervals [38]:
+			xmin = 159.727232681745
+			xmax = 168.203781640439
+			text = ""
+		intervals [39]:
+			xmin = 168.203781640439
+			xmax = 169.797770134381
+			text = "Both <UNSURE>of them</UNSURE>?"
+		intervals [40]:
+			xmin = 169.797770134381
+			xmax = 174.790275074675
+			text = ""
+		intervals [41]:
+			xmin = 174.790275074675
+			xmax = 176.203811367926
+			text = "Yeah, sure."
+		intervals [42]:
+			xmin = 176.203811367926
+			xmax = 177.091028742494
+			text = ""
+		intervals [43]:
+			xmin = 177.091028742494
+			xmax = 183.023388894721
+			text = "OK. All right, all right. So, so, so you've, you haven't got any Clenil, or any Ventolin at the moment?"
+		intervals [44]:
+			xmin = 183.023388894721
+			xmax = 185.534676075511
+			text = ""
+		intervals [45]:
+			xmin = 185.534676075511
+			xmax = 191.963279779639
+			text = "OK. All right. Um, and <UNIN/>, any drug allergies, that you know of?"
+		intervals [46]:
+			xmin = 191.963279779639
+			xmax = 198.782863251933
+			text = ""
+		intervals [47]:
+			xmin = 198.782863251933
+			xmax = 205.158835064193
+			text = "OK, great. Now, uh, do you, anyone in your family have any medical problems, that you know of?"
+		intervals [48]:
+			xmin = 205.158835064193
+			xmax = 216.354384403249
+			text = ""
+		intervals [49]:
+			xmin = 216.354384403249
+			xmax = 221.076211042506
+			text = "Hmm. OK. Um."
+		intervals [50]:
+			xmin = 221.076211042506
+			xmax = 222.376964710325
+			text = ""
+		intervals [51]:
+			xmin = 222.376964710325
+			xmax = 232.467244320147
+			text = "Right. So, just uh, <UNIN/>, do you have any other, sort of concerns? Or ideas about what might be going on? Or, um, hopes for this consultation?"
+		intervals [52]:
+			xmin = 232.467244320147
+			xmax = 251.21922956315
+			text = ""
+		intervals [53]:
+			xmin = 251.21922956315
+			xmax = 254.251422
+			text = "Yeah, absolutely, I can, I can imagine."
+		intervals [54]:
+			xmin = 254.251422
+			xmax = 267.640373880557
+			text = "Um, well, it certainly sounds like uh, you've, you've had this cold, so you've got wheezy with a cough. Um, and it's non-productive cough, and you're short of breath. Uh, is the cough worse at night-time?"
+		intervals [55]:
+			xmin = 267.640373880557
+			xmax = 273.068971639188
+			text = ""
+		intervals [56]:
+			xmin = 273.068971639188
+			xmax = 273.888519438497
+			text = "Yeah."
+		intervals [57]:
+			xmin = 273.888519438497
+			xmax = 275.226723757046
+			text = ""
+		intervals [58]:
+			xmin = 275.226723757046
+			xmax = 282.184385977837
+			text = "OK. And you've got this tight, tight chest. But you, you wouldn't say you've got chest pains? It's more of a tight chest, is it?"
+		intervals [59]:
+			xmin = 282.184385977837
+			xmax = 289.099112406442
+			text = ""
+		intervals [60]:
+			xmin = 289.099112406442
+			xmax = 302.069108385628
+			text = "Yeah, sure. Um, OK. Well, I, I would quite like to, uh, certainly get you some, uh, Ventolin, Clenil Modulite. Have you had asthma exacerbations in the past?"
+		intervals [61]:
+			xmin = 302.069108385628
+			xmax = 308.618013556885
+			text = ""
+		intervals [62]:
+			xmin = 308.618013556885
+			xmax = 309.287184522284
+			text = "Yeah."
+		intervals [63]:
+			xmin = 309.287184522284
+			xmax = 313.66314444355
+			text = ""
+		intervals [64]:
+			xmin = 313.66314444355
+			xmax = 319.445127761868
+			text = "Have you ever been to hospital, uh, as an inpatient? As in, you know, stayed in there overnight, for asthma?"
+		intervals [65]:
+			xmin = 319.445127761868
+			xmax = 323.130945346556
+			text = ""
+		intervals [66]:
+			xmin = 323.130945346556
+			xmax = 334.845438320347
+			text = "Ohh, OK. So you, so, so you, uh, you <UNIN/>, you went to hospital, and had a, a, <UNIN/>. So you stayed in hospital for a few days did you, with an asthma exacerbation?"
+		intervals [67]:
+			xmin = 334.845438320347
+			xmax = 335.768515246239
+			text = ""
+		intervals [68]:
+			xmin = 335.768515246239
+			xmax = 341.527942039471
+			text = "OK, but currently you're just on Ventolin and Clenil? And you haven't got any of those <UNSURE>steroids</UNSURE>, uh, those inhalers at the moment?"
+		intervals [69]:
+			xmin = 341.527942039471
+			xmax = 345.678336709873
+			text = ""
+		intervals [70]:
+			xmin = 345.678336709873
+			xmax = 350.903925742726
+			text = "OK. When, sorry, how old were you when you had that severe asthma exacerbation?"
+		intervals [71]:
+			xmin = 350.903925742726
+			xmax = 356.377131108369
+			text = ""
+		intervals [72]:
+			xmin = 356.377131108369
+			xmax = 360.339336408716
+			text = "Sure. OK. Um."
+		intervals [73]:
+			xmin = 360.339336408716
+			xmax = 363.204732920022
+			text = ""
+		intervals [74]:
+			xmin = 363.204732920022
+			xmax = 369.836022
+			text = "Just to quantify how short of breath you are, um, I don't suppose you've got a peak flow with you? No, you won't have will you."
+		intervals [75]:
+			xmin = 369.836022
+			xmax = 381.415361560951
+			text = "<UNSURE>Um</UNSURE>, are you able to, uh, like walk up, flights of stairs OK? Walk on <UNSURE>the</UNSURE> flat OK, without getting to short of breath? Or um, are you short of breath at rest?"
+		intervals [76]:
+			xmin = 381.415361560951
+			xmax = 392.558279008138
+			text = ""
+		intervals [77]:
+			xmin = 392.558279008138
+			xmax = 396.781382415838
+			text = "Sure. Yeah. OK, but you're not short of breath at rest at the moment?"
+		intervals [78]:
+			xmin = 396.781382415838
+			xmax = 397.836246999569
+			text = ""
+		intervals [79]:
+			xmin = 397.836246999569
+			xmax = 410.400478460492
+			text = "OK, fine. So, what, what I think, um, and just to, just to go over, <UNIN/>. Is there anything you had hoped about getting other than the uh, a, prescription for your inhalers? Was there anything else you'd hoped about getting from this?"
+		intervals [80]:
+			xmin = 410.400478460492
+			xmax = 417.385476450085
+			text = ""
+		intervals [81]:
+			xmin = 417.385476450085
+			xmax = 430.626150730309
+			text = "Sure, yeah, no, <UNSURE>absolutely</UNSURE>. Well, I'm really glad you have <UNIN/> talked to me today. I think what we can do is, is give you a prescription for, uh, some more of the inhalers. We can get that to you, within the hour, I would hope."
+		intervals [82]:
+			xmin = 430.626150730309
+			xmax = 443.474465462926
+			text = "Um, and, uh, I think, what, the other thing I'd like to do is just give you a, dose of steroids. So this is, these are tablets which, um, you can take for five days. Uh, two tablets in the morning."
+		intervals [83]:
+			xmin = 443.474465462926
+			xmax = 449.137533039057
+			text = "And, uh, that should just dampen down your asthmatic response, OK."
+		intervals [84]:
+			xmin = 449.137533039057
+			xmax = 459.668257773047
+			text = "Um, now there are some side effects to the steroids. Which I should really tell you about, but please read the label, <UNSURE>that's</UNSURE> associated <UNSURE>with</UNSURE>. Don't be too worried about the side effects."
+		intervals [85]:
+			xmin = 459.668257773047
+			xmax = 468.498544459392
+			text = "They're <UNIN/>, most, you know <UNIN/>, most of the time the steroids are, very well tolerated. And, uh, you <UNIN/>. Have you had them in the past, do you know of?"
+		intervals [86]:
+			xmin = 468.498544459392
+			xmax = 471.280509941218
+			text = ""
+		intervals [87]:
+			xmin = 471.280509941218
+			xmax = 474.047437739654
+			text = "<INAUDIBLE_SPEECH/>. Have you had steroids in the past?"
+		intervals [88]:
+			xmin = 474.047437739654
+			xmax = 477.603843916113
+			text = ""
+		intervals [89]:
+			xmin = 477.603843916113
+			xmax = 486.393363912619
+			text = "Probably, yeah I would <INAUDIBLE_SPEECH/> too. So, um, they, they can come, they can make you, your mood change, can be slightly low or <UNIN/> too, slightly high."
+		intervals [90]:
+			xmin = 486.393363912619
+			xmax = 500.627760492728
+			text = "Can give you, a high blood sugar, um, and, uh, <UNSURE>their</UNSURE>. Uh, <INAUDIBLE_SPEECH/>, they can also cause rash, nausea, um, headaches, but, mostly is well-tolerated, and it should help your asthma an awful lot."
+		intervals [91]:
+			xmin = 500.627760492728
+			xmax = 523.508391352103
+			text = "Um, uh, what I'd like to do is, is send you these, the, some prescriptions for your, uh, inhalers, <UNIN/>, ongoing. So you, um, you can, once you get better from this asthma attack, you can, you can, use the Clenil Modulite in the morning, with Ventolin as a PRN. <UNIN/>, so, a Ventolin when you need to, um, when you're getting <UNSURE>wheezy</UNSURE>."
+		intervals [92]:
+			xmin = 523.508391352103
+			xmax = 529.025178489437
+			text = "If you should start to use the Ventolin more than, uh, every three hours."
+		intervals [93]:
+			xmin = 529.025178489437
+			xmax = 538.298624379759
+			text = "Uh, at, at anytime, it's a good idea to seek medical attention. So, um, see a doctor, um, in some capacity."
+		intervals [94]:
+			xmin = 538.298624379759
+			xmax = 549.574166897656
+			text = "Uh, and, the other thing I'd like to send you is a spacer, which would allow the medication to actually, go into your lungs better. Have you, do you know what a spacer is? Have you used one before?"
+		intervals [95]:
+			xmin = 549.574166897656
+			xmax = 555.76216766753
+			text = ""
+		intervals [96]:
+			xmin = 555.76216766753
+			xmax = 557.032845968567
+			text = "Have you got one?"
+		intervals [97]:
+			xmin = 557.032845968567
+			xmax = 560.175715851776
+			text = ""
+		intervals [98]:
+			xmin = 560.175715851776
+			xmax = 574.611885961579
+			text = "OK. All right. Well, um, I'll send you another one, and it has some instructions about how to use it, but essentially, uh, couple of puffs to prime it, inside, breathing in and out, um, uh, for five or <UNIN/>, five or ten breaths."
+		intervals [99]:
+			xmin = 574.611885961579
+			xmax = 576.243468663999
+			text = ""
+		intervals [100]:
+			xmin = 576.243468663999
+			xmax = 578.687086269529
+			text = "Uh, yeah. So."
+		intervals [101]:
+			xmin = 578.687086269529
+			xmax = 580.078066037693
+			text = ""
+		intervals [102]:
+			xmin = 580.078066037693
+			xmax = 584.860043410514
+			text = "Uh, was there anything else that was on your mind? Or you're concerned about at this stage?"
+		intervals [103]:
+			xmin = 584.860043410514
+			xmax = 587.017945031616
+			text = ""
+		intervals [104]:
+			xmin = 587.017945031616
+			xmax = 604.138341626702
+			text = "OK, and, and uh, I might give you some time off work as well. You can self-certify first seven days, but uh, I think I would advise you just to, rest a little bit until you're feeling a bit better, if you're OK with that. All right?"
+		intervals [105]:
+			xmin = 604.138341626702
+			xmax = 606.206017147459
+			text = ""
+		intervals [106]:
+			xmin = 606.206017147459
+			xmax = 618.495606
+			text = "<UNSURE>OK</UNSURE>. No worries. Any deterioration <UNSURE>in</UNSURE> your symptoms, like worsening shortness of breath. Um, or just generally concerning symptoms, uh, pain in your chest tightness, uh, feeling light-headed."
+		intervals [107]:
+			xmin = 618.495606
+			xmax = 622.567004785805
+			text = "Uh, then, seek further medical attention anytime please. OK?"
+		intervals [108]:
+			xmin = 622.567004785805
+			xmax = 624.318888955351
+			text = ""
+		intervals [109]:
+			xmin = 624.318888955351
+			xmax = 625.860245557425
+			text = "OK. Thank you."
+		intervals [110]:
+			xmin = 625.860245557425
+			xmax = 627.188442698353
+			text = ""
+		intervals [111]:
+			xmin = 627.188442698353
+			xmax = 627.762538299316
+			text = "Bye bye."
+		intervals [112]:
+			xmin = 627.762538299316
+			xmax = 628.499977324263
+			text = ""
+

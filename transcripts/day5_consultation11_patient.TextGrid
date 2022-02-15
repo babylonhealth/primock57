@@ -1,0 +1,531 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 665.699977324263
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 665.699977324263
+		intervals: size = 129
+		intervals [1]:
+			xmin = 0
+			xmax = 0.953019993736505
+			text = ""
+		intervals [2]:
+			xmin = 0.953019993736505
+			xmax = 1.65771709722311
+			text = "Hi."
+		intervals [3]:
+			xmin = 1.65771709722311
+			xmax = 4.24161445124952
+			text = ""
+		intervals [4]:
+			xmin = 4.24161445124952
+			xmax = 5.08725157352661
+			text = "Hi Doctor Smith."
+		intervals [5]:
+			xmin = 5.08725157352661
+			xmax = 9.49332006593158
+			text = ""
+		intervals [6]:
+			xmin = 9.49332006593158
+			xmax = 15.0754496434496
+			text = "Yes. My name is Mary Jo. Date of birth is January first, nineteen eighty."
+		intervals [7]:
+			xmin = 15.0754496434496
+			xmax = 19.3311120120501
+			text = "And my address is uh, sixty Sloane Avenue, London."
+		intervals [8]:
+			xmin = 19.3311120120501
+			xmax = 22.8073027257089
+			text = ""
+		intervals [9]:
+			xmin = 22.8073027257089
+			xmax = 23.9578929378801
+			text = "<UNSURE>Absolutely</UNSURE>."
+		intervals [10]:
+			xmin = 23.9578929378801
+			xmax = 26.2394492066161
+			text = ""
+		intervals [11]:
+			xmin = 26.2394492066161
+			xmax = 36.3202734664911
+			text = "So, a couple of things. I, I, think I may have, overdone my workouts, and now my knees are hurting, and they're clicking a lot, and it's starting to worry me."
+		intervals [12]:
+			xmin = 36.3202734664911
+			xmax = 42.568513
+			text = "Um, I can't run very far, um, any more without just feeling, pain in my knees."
+		intervals [13]:
+			xmin = 42.568513
+			xmax = 47.9397107725056
+			text = "And then, sometimes I also get this weird tingling in my toes. Um."
+		intervals [14]:
+			xmin = 47.9397107725056
+			xmax = 55.0623847018652
+			text = "So yeah, that's, that's it. I'm just concerned and I figured you know I'd call and, see if you can, help me figure out what's going on."
+		intervals [15]:
+			xmin = 55.0623847018652
+			xmax = 58.7728951164307
+			text = ""
+		intervals [16]:
+			xmin = 58.7728951164307
+			xmax = 61.3470701238701
+			text = "So probably, it's been about two weeks."
+		intervals [17]:
+			xmin = 61.3470701238701
+			xmax = 67.6750380302589
+			text = ""
+		intervals [18]:
+			xmin = 67.6750380302589
+			xmax = 77.8647473011631
+			text = "You know not, not really. I mean I play a lot of sports. Um, and I had a <UNIN/>, like I play some ice hockey, and I had this injury a few months ago."
+		intervals [19]:
+			xmin = 77.8647473011631
+			xmax = 83.8126491530285
+			text = "You know I just like, fell on the ice and, and, you know had a, huge bruise but, I think that's about it."
+		intervals [20]:
+			xmin = 83.8126491530285
+			xmax = 91.4994820700407
+			text = ""
+		intervals [21]:
+			xmin = 91.4994820700407
+			xmax = 101.24857408938
+			text = "So I'm training, well, I'm currently training for a marathon, um, that's gonna happen in, June. And so, I'm trying to run like."
+		intervals [22]:
+			xmin = 101.24857408938
+			xmax = 102.358206129529
+			text = ""
+		intervals [23]:
+			xmin = 102.358206129529
+			xmax = 110.386615
+			text = "I mean right now, I'm actually not even doing such long runs, maybe like seven or eight miles. And so, I started about uh, maybe a month ago."
+		intervals [24]:
+			xmin = 110.386615
+			xmax = 116.458541
+			text = "Uh, I've done like, you know, four or five miles, and I've just done like a couple of seven, mile runs."
+		intervals [25]:
+			xmin = 116.458541
+			xmax = 122.804351677499
+			text = "And then uh, uh, and then you know I go to the gym like few times a week and, kinda do my, usual routine."
+		intervals [26]:
+			xmin = 122.804351677499
+			xmax = 129.37522583499
+			text = "Um, but, yeah, I think the only thing that's really different has, have been, the runs, the longer runs."
+		intervals [27]:
+			xmin = 129.37522583499
+			xmax = 137.370603089489
+			text = ""
+		intervals [28]:
+			xmin = 137.370603089489
+			xmax = 141.993650416899
+			text = "Um, well, I, what do you mean by that? I'm not sure what, what <UNSURE>that</UNSURE> means."
+		intervals [29]:
+			xmin = 141.993650416899
+			xmax = 149.583911316807
+			text = ""
+		intervals [30]:
+			xmin = 149.583911316807
+			xmax = 153.752068860774
+			text = "Not, not bad, I mean it just kinda starts hurting, you know. Um."
+		intervals [31]:
+			xmin = 153.752068860774
+			xmax = 159.355565220725
+			text = ""
+		intervals [32]:
+			xmin = 159.355565220725
+			xmax = 171.168222344666
+			text = "You know I would say probably starts off like after, uh, maybe, twenty minutes or so. Which is, probably I don't know like somewhere around mile, three maybe,  two and a half or three miles."
+		intervals [33]:
+			xmin = 171.168222344666
+			xmax = 174.03588606905
+			text = ""
+		intervals [34]:
+			xmin = 174.03588606905
+			xmax = 178.32368868246
+			text = "<INAUDIBLE_SPEECH/> switching my kilometres and miles, I'm not sure, <UNSURE>all right</UNSURE>."
+		intervals [35]:
+			xmin = 178.32368868246
+			xmax = 184.754395781575
+			text = ""
+		intervals [36]:
+			xmin = 184.754395781575
+			xmax = 197.197761
+			text = "Yeah, that is a good question. So, um, you know the last few times, the last time I actually stopped, I mean I ran a little bit longer, but then I stopped, because it was um, I, I feel like it's getting worse."
+		intervals [37]:
+			xmin = 197.197761
+			xmax = 209.963307068817
+			text = "Um, and, when I start doing my abs, that's, you know when I do my abs. <UNSURE>It's</UNSURE> kind of requiring me to move my you know, um, to kind of go from the flex position on my knees, and straighten my legs, then I feel all this clicking."
+		intervals [38]:
+			xmin = 209.963307068817
+			xmax = 215.020690515043
+			text = "And, I think that's also freaked me out, and uh, I just figured you know, something's wrong <UNSURE>here</UNSURE>."
+		intervals [39]:
+			xmin = 215.020690515043
+			xmax = 217.904933356833
+			text = ""
+		intervals [40]:
+			xmin = 217.904933356833
+			xmax = 222.020705467372
+			text = "So it's more, um, it's actually my right knee that hurts."
+		intervals [41]:
+			xmin = 222.020705467372
+			xmax = 226.745548821121
+			text = ""
+		intervals [42]:
+			xmin = 226.745548821121
+			xmax = 227.35628591208
+			text = "No."
+		intervals [43]:
+			xmin = 227.35628591208
+			xmax = 234.255632412882
+			text = ""
+		intervals [44]:
+			xmin = 234.255632412882
+			xmax = 244.413541299186
+			text = "So, ah, you know I, I feel it, it's kind of weird, I feel it in the middle, but I almost feel like maybe it kind of uh,  um, moves to the right, to the right of my knee a little bit."
+		intervals [45]:
+			xmin = 244.413541299186
+			xmax = 249.667317655067
+			text = ""
+		intervals [46]:
+			xmin = 249.667317655067
+			xmax = 258.967106736083
+			text = "So, yes, well it's, I have, probably some fluid. I googled it, and you know it says that sometimes <UNIN/> fluid accumulates uh, <UNSURE>I</UNSURE>."
+		intervals [47]:
+			xmin = 258.967106736083
+			xmax = 260.497309663914
+			text = ""
+		intervals [48]:
+			xmin = 260.497309663914
+			xmax = 261.054355319144
+			text = "Sorry?"
+		intervals [49]:
+			xmin = 261.054355319144
+			xmax = 262.545232836565
+			text = ""
+		intervals [50]:
+			xmin = 262.545232836565
+			xmax = 270.297259301163
+			text = "Um, well it did, like, the first time I ran, it was a little bit swollen, but then I just put some like ice on it, and it went away."
+		intervals [51]:
+			xmin = 270.297259301163
+			xmax = 275.981343
+			text = "Um, but, right now, right now it's not swollen, and right now it doesn't hurt, you know."
+		intervals [52]:
+			xmin = 275.981343
+			xmax = 287.117804796058
+			text = "Um, but, it just kind of comes on when uh, um, or you know right now when I flex and extend my leg, it, there's no clicking but, I'll notice it in the gym and then, you know, when I run it'll start hurting."
+		intervals [53]:
+			xmin = 287.117804796058
+			xmax = 296.10814244978
+			text = ""
+		intervals [54]:
+			xmin = 296.10814244978
+			xmax = 296.55780523355
+			text = "No."
+		intervals [55]:
+			xmin = 296.55780523355
+			xmax = 300.685331364806
+			text = ""
+		intervals [56]:
+			xmin = 300.685331364806
+			xmax = 301.18197415484
+			text = "No."
+		intervals [57]:
+			xmin = 301.18197415484
+			xmax = 304.804474237914
+			text = ""
+		intervals [58]:
+			xmin = 304.804474237914
+			xmax = 306.626424891266
+			text = "No, <UNSURE>none</UNSURE>, I don't."
+		intervals [59]:
+			xmin = 306.626424891266
+			xmax = 312.510858122411
+			text = ""
+		intervals [60]:
+			xmin = 312.510858122411
+			xmax = 313.208843796431
+			text = "Yes."
+		intervals [61]:
+			xmin = 313.208843796431
+			xmax = 316.309521219356
+			text = ""
+		intervals [62]:
+			xmin = 316.309521219356
+			xmax = 316.940392598715
+			text = "Yes."
+		intervals [63]:
+			xmin = 316.940392598715
+			xmax = 322.11062088388
+			text = ""
+		intervals [64]:
+			xmin = 322.11062088388
+			xmax = 337.668906787316
+			text = "Well, um, since you're asking. Um, yes I <UNIN/>, I take Ibuprofen, um, and I'll just kinda, use it sometime like uh, um, like sometimes I have some joint issues, but you know, that kind of, is not very frequent. So I'll take Ibuprofen for that."
+		intervals [65]:
+			xmin = 337.668906787316
+			xmax = 343.665298752246
+			text = "But you know it's nothing like major maybe, like, four hundred milligrams max, something like that."
+		intervals [66]:
+			xmin = 343.665298752246
+			xmax = 347.526479
+			text = "I also sometimes will um, you know, smoke a joint."
+		intervals [67]:
+			xmin = 347.526479
+			xmax = 352.672396941379
+			text = "Um, and, yeah, other than that, that's it."
+		intervals [68]:
+			xmin = 352.672396941379
+			xmax = 356.685465935768
+			text = ""
+		intervals [69]:
+			xmin = 356.685465935768
+			xmax = 357.101571572208
+			text = "<UNSURE>No</UNSURE>."
+		intervals [70]:
+			xmin = 357.101571572208
+			xmax = 362.687908484279
+			text = ""
+		intervals [71]:
+			xmin = 362.687908484279
+			xmax = 372.585395
+			text = "Uh, well I have sometimes, you know how sometimes like if you stand for a long time, your feet will kinda, or your legs will swell up. Like I noticed it because of my socks, I'll just kind of, notice this indentation."
+		intervals [72]:
+			xmin = 372.585395
+			xmax = 380.100084
+			text = "And then, another weird thing. I've felt this just once, but there was this tingling in my toes, like uh, um, after the run."
+		intervals [73]:
+			xmin = 380.100084
+			xmax = 385.116738031002
+			text = "There was tingling in my toes like on my, you know my right toes, um, so."
+		intervals [74]:
+			xmin = 385.116738031002
+			xmax = 386.779137874027
+			text = ""
+		intervals [75]:
+			xmin = 386.779137874027
+			xmax = 387.370103512502
+			text = "Yes."
+		intervals [76]:
+			xmin = 387.370103512502
+			xmax = 392.343269756501
+			text = ""
+		intervals [77]:
+			xmin = 392.343269756501
+			xmax = 392.792932540271
+			text = "No."
+		intervals [78]:
+			xmin = 392.792932540271
+			xmax = 398.992802956328
+			text = ""
+		intervals [79]:
+			xmin = 398.992802956328
+			xmax = 416.397023992013
+			text = "Well I don't know if I really try that, but I, I will tell you that, what I noticed is like if I, you know when my socks come off, I kind of notice that indentation a little bit, I mean it's not like major, right but, I. Uh, I mean do you mean I just need to like press and see what happens, if it like kind of stays or, <UNIN/>."
+		intervals [80]:
+			xmin = 416.397023992013
+			xmax = 418.960787057641
+			text = ""
+		intervals [81]:
+			xmin = 418.960787057641
+			xmax = 420.974212907039
+			text = "<UNSURE>No</UNSURE>, no, nothing like that, no."
+		intervals [82]:
+			xmin = 420.974212907039
+			xmax = 429.397053896671
+			text = ""
+		intervals [83]:
+			xmin = 429.397053896671
+			xmax = 435.43639425941
+			text = "No it was just, it was that time, uh, but it was just really weird, because it kind of went on for a while."
+		intervals [84]:
+			xmin = 435.43639425941
+			xmax = 441.819903857701
+			text = ""
+		intervals [85]:
+			xmin = 441.819903857701
+			xmax = 442.23600949414
+			text = "No."
+		intervals [86]:
+			xmin = 442.23600949414
+			xmax = 445.269572622403
+			text = ""
+		intervals [87]:
+			xmin = 445.269572622403
+			xmax = 445.739369694572
+			text = "No."
+		intervals [88]:
+			xmin = 445.739369694572
+			xmax = 450.752441679454
+			text = ""
+		intervals [89]:
+			xmin = 450.752441679454
+			xmax = 453.110363523716
+			text = "Uh, well, I had uh."
+		intervals [90]:
+			xmin = 453.110363523716
+			xmax = 455.050362561503
+			text = ""
+		intervals [91]:
+			xmin = 455.050362561503
+			xmax = 465.021973980338
+			text = "You know <UNSURE>what</UNSURE> just, kind of your garden variety stuff, right, colds and, uh. I mean I, I do have, I'm far-sighted, and so I had uh, I had Lasik surgery."
+		intervals [92]:
+			xmin = 465.021973980338
+			xmax = 470.984261
+			text = "And then, once I had this really bad UTI, they thought it was kidney stones, and so they had me actually in ER."
+		intervals [93]:
+			xmin = 470.984261
+			xmax = 476.294100546831
+			text = "And if my GP didn't call them, tell them, that you know, they don't need to give me Morphine."
+		intervals [94]:
+			xmin = 476.294100546831
+			xmax = 484.345347288077
+			text = "Um, that was kind of an awful experience but, uh, other than that, you know, I'm, I'm, I'm pretty good."
+		intervals [95]:
+			xmin = 484.345347288077
+			xmax = 488.555296905703
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [96]:
+			xmin = 488.555296905703
+			xmax = 490.948657
+			text = "Well, I'll take uh, I take vitamin D."
+		intervals [97]:
+			xmin = 490.948657
+			xmax = 502.410862817038
+			text = "Uh, I take melatonin. Sometimes, you know, just for cramps, I'll take, like, uh, um, ibuprofen, or actually <UNIN/>, uh, I'll take, what am I taking? Aleve. Whatever Aleve is."
+		intervals [98]:
+			xmin = 502.410862817038
+			xmax = 507.658997016599
+			text = "Think that's maybe um, Acetaminophen, or, I can't remember what class of drugs."
+		intervals [99]:
+			xmin = 507.658997016599
+			xmax = 512.961752
+			text = "You know occasionally, if I'm really having hard times, like I'll, I'll sleeping, I'll take Xanax."
+		intervals [100]:
+			xmin = 512.961752
+			xmax = 516.942388398175
+			text = "Um, but, I prefer Melatonin, it's just sometimes Melatonin doesn't work."
+		intervals [101]:
+			xmin = 516.942388398175
+			xmax = 522.649168204714
+			text = ""
+		intervals [102]:
+			xmin = 522.649168204714
+			xmax = 524.779844613512
+			text = "No, no, no problems."
+		intervals [103]:
+			xmin = 524.779844613512
+			xmax = 535.853700242299
+			text = ""
+		intervals [104]:
+			xmin = 535.853700242299
+			xmax = 536.3369201734
+			text = "Mm-hmm."
+		intervals [105]:
+			xmin = 536.3369201734
+			xmax = 555.383954008048
+			text = ""
+		intervals [106]:
+			xmin = 555.383954008048
+			xmax = 555.86717393915
+			text = "<UNSURE>Hmm</UNSURE>."
+		intervals [107]:
+			xmin = 555.86717393915
+			xmax = 567.867206834274
+			text = ""
+		intervals [108]:
+			xmin = 567.867206834274
+			xmax = 568.4846553547
+			text = "I see."
+		intervals [109]:
+			xmin = 568.4846553547
+			xmax = 584.967923133255
+			text = ""
+		intervals [110]:
+			xmin = 584.967923133255
+			xmax = 585.558525935816
+			text = "OK."
+		intervals [111]:
+			xmin = 585.558525935816
+			xmax = 594.903263348966
+			text = ""
+		intervals [112]:
+			xmin = 594.903263348966
+			xmax = 607.876704
+			text = "Well, you know I read, I read some stuff online that, that maybe like my ligaments there's, I think it's like ACL or, or something like that right, and so if that. I mean I'm kind of like freaked out that <UNSURE>that</UNSURE> may break."
+		intervals [113]:
+			xmin = 607.876704
+			xmax = 610.141361505296
+			text = "So do you think it's that, or?"
+		intervals [114]:
+			xmin = 610.141361505296
+			xmax = 616.598878245656
+			text = ""
+		intervals [115]:
+			xmin = 616.598878245656
+			xmax = 616.947869587434
+			text = "<UNSURE>Right</UNSURE>."
+		intervals [116]:
+			xmin = 616.947869587434
+			xmax = 624.578761900053
+			text = ""
+		intervals [117]:
+			xmin = 624.578761900053
+			xmax = 625.082116119553
+			text = "OK."
+		intervals [118]:
+			xmin = 625.082116119553
+			xmax = 628.712996470309
+			text = ""
+		intervals [119]:
+			xmin = 628.712996470309
+			xmax = 629.216350689809
+			text = "OK."
+		intervals [120]:
+			xmin = 629.216350689809
+			xmax = 630.354315868082
+			text = ""
+		intervals [121]:
+			xmin = 630.354315868082
+			xmax = 632.900919485829
+			text = "Can you, so are you going to send referral for that?"
+		intervals [122]:
+			xmin = 632.900919485829
+			xmax = 634.049514100473
+			text = ""
+		intervals [123]:
+			xmin = 634.049514100473
+			xmax = 635.125371498732
+			text = "<UNSURE>OK. Great</UNSURE>."
+		intervals [124]:
+			xmin = 635.125371498732
+			xmax = 646.686186638034
+			text = ""
+		intervals [125]:
+			xmin = 646.686186638034
+			xmax = 647.216386575399
+			text = "Mm-hmm."
+		intervals [126]:
+			xmin = 647.216386575399
+			xmax = 651.914384211283
+			text = ""
+		intervals [127]:
+			xmin = 651.914384211283
+			xmax = 658.651713238508
+			text = "<UNSURE>That sounds</UNSURE> good. Thank you yeah. <UNIN/>, sure I mean, give me the, stronger medicine, I'll give that a try."
+		intervals [128]:
+			xmin = 658.651713238508
+			xmax = 660.954492303384
+			text = ""
+		intervals [129]:
+			xmin = 660.954492303384
+			xmax = 665.699977324263
+			text = "<UNSURE>OK</UNSURE>. Sweet. Thanks so <UNSURE>much. OK</UNSURE>. Bye, bye."
+

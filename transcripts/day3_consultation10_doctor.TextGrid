@@ -1,0 +1,507 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 560.279977324263
+tiers? <exists> 
+size = 1
+item []: 
+	item [1]:
+		class = "IntervalTier"
+		name = "Speaker"
+		xmin = 0 
+		xmax = 560.279977324263
+		intervals: size = 123
+		intervals [1]:
+			xmin = 0
+			xmax = 2.73649563044748
+			text = ""
+		intervals [2]:
+			xmin = 2.73649563044748
+			xmax = 6.61488916574175
+			text = "Hello, hi, I'm Doctor Jacob and welcome to Babylon. Hello."
+		intervals [3]:
+			xmin = 6.61488916574175
+			xmax = 7.9594855748967
+			text = ""
+		intervals [4]:
+			xmin = 7.9594855748967
+			xmax = 14.493298498385
+			text = "<UNIN/> Nice to meet you too. So just before we start, is it all right if you could confirm your name for me please?"
+		intervals [5]:
+			xmin = 14.493298498385
+			xmax = 16.729791495941
+			text = ""
+		intervals [6]:
+			xmin = 16.729791495941
+			xmax = 18.4460114835964
+			text = "And your date of birth?"
+		intervals [7]:
+			xmin = 18.4460114835964
+			xmax = 22.1689987951541
+			text = ""
+		intervals [8]:
+			xmin = 22.1689987951541
+			xmax = 25.2500908347565
+			text = "OK, and your address for me please."
+		intervals [9]:
+			xmin = 25.2500908347565
+			xmax = 32.5271509152456
+			text = ""
+		intervals [10]:
+			xmin = 32.5271509152456
+			xmax = 38.8785304456519
+			text = "OK and that's correct, and just to confirm that you're in a secure location and we can have a confidential conversation."
+		intervals [11]:
+			xmin = 38.8785304456519
+			xmax = 40.1150181774249
+			text = ""
+		intervals [12]:
+			xmin = 40.1150181774249
+			xmax = 48.5272193704244
+			text = "OK, uh, you've mentioned on our notes that you're suffering from bad diarrhea. I'm sorry to hear about it. So if you tell me a bit more about it, please."
+		intervals [13]:
+			xmin = 48.5272193704244
+			xmax = 53.6150787339292
+			text = ""
+		intervals [14]:
+			xmin = 53.6150787339292
+			xmax = 54.3245366634652
+			text = "OK."
+		intervals [15]:
+			xmin = 54.3245366634652
+			xmax = 64.4462063175668
+			text = ""
+		intervals [16]:
+			xmin = 64.4462063175668
+			xmax = 64.9462036846753
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [17]:
+			xmin = 64.9462036846753
+			xmax = 69.6759530543524
+			text = ""
+		intervals [18]:
+			xmin = 69.6759530543524
+			xmax = 70.1218960827699
+			text = "Mmm."
+		intervals [19]:
+			xmin = 70.1218960827699
+			xmax = 76.9867918307404
+			text = ""
+		intervals [20]:
+			xmin = 76.9867918307404
+			xmax = 77.5340867442035
+			text = "Mm-hmm."
+		intervals [21]:
+			xmin = 77.5340867442035
+			xmax = 80.3719342596965
+			text = ""
+		intervals [22]:
+			xmin = 80.3719342596965
+			xmax = 84.7165464662004
+			text = "So you <UNSURE>haven't</UNSURE> had anything from outside? Nothing dodgy anything <UNIN/>? No."
+		intervals [23]:
+			xmin = 84.7165464662004
+			xmax = 91.9868392227872
+			text = ""
+		intervals [24]:
+			xmin = 91.9868392227872
+			xmax = 92.3246735738228
+			text = "<INAUDIBLE_SPEECH/>"
+		intervals [25]:
+			xmin = 92.3246735738228
+			xmax = 96.8719895504179
+			text = ""
+		intervals [26]:
+			xmin = 96.8719895504179
+			xmax = 97.4598252178992
+			text = "Mm-hmm."
+		intervals [27]:
+			xmin = 97.4598252178992
+			xmax = 99.8517244391917
+			text = ""
+		intervals [28]:
+			xmin = 99.8517244391917
+			xmax = 102.49362497693
+			text = "Repeat that please, that wasn't clear. What did you say?"
+		intervals [29]:
+			xmin = 102.49362497693
+			xmax = 104.55444137374
+			text = ""
+		intervals [30]:
+			xmin = 104.55444137374
+			xmax = 107.344991342879
+			text = "<INAUDIBLE_SPEECH/> After that we'd said something."
+		intervals [31]:
+			xmin = 107.344991342879
+			xmax = 111.095005823782
+			text = ""
+		intervals [32]:
+			xmin = 111.095005823782
+			xmax = 116.439623296069
+			text = "OK, right, and with the diarrhea, how many times a day are you going to the toilet?"
+		intervals [33]:
+			xmin = 116.439623296069
+			xmax = 120.736937956218
+			text = ""
+		intervals [34]:
+			xmin = 120.736937956218
+			xmax = 127.980214075025
+			text = "Four to five times, yeah. And is there any? And it's like water? Is it like water or is it just loose?"
+		intervals [35]:
+			xmin = 127.980214075025
+			xmax = 131.662660632565
+			text = ""
+		intervals [36]:
+			xmin = 131.662660632565
+			xmax = 139.405939384264
+			text = "Are you going like water? Or is it just, you know bit, bit of <UNIN/> solid stools, bit loose kind of thing?"
+		intervals [37]:
+			xmin = 139.405939384264
+			xmax = 143.426225558622
+			text = ""
+		intervals [38]:
+			xmin = 143.426225558622
+			xmax = 148.237056436335
+			text = "<UNSURE>Sure</UNSURE> OK. Bit of both and is there any blood or mucus?"
+		intervals [39]:
+			xmin = 148.237056436335
+			xmax = 152.601939019848
+			text = ""
+		intervals [40]:
+			xmin = 152.601939019848
+			xmax = 154.183023160776
+			text = "It's like the snotty stuff."
+		intervals [41]:
+			xmin = 154.183023160776
+			xmax = 156.345191442632
+			text = ""
+		intervals [42]:
+			xmin = 156.345191442632
+			xmax = 158.507359724488
+			text = "Yeah, it looks like snot <UNIN/>."
+		intervals [43]:
+			xmin = 158.507359724488
+			xmax = 159.811415379625
+			text = ""
+		intervals [44]:
+			xmin = 159.811415379625
+			xmax = 163.953323816038
+			text = "No, so no mucus, OK. Any fever at all?"
+		intervals [45]:
+			xmin = 163.953323816038
+			xmax = 168.987128840851
+			text = ""
+		intervals [46]:
+			xmin = 168.987128840851
+			xmax = 169.493883000296
+			text = "Mm-hmm."
+		intervals [47]:
+			xmin = 169.493883000296
+			xmax = 174.797959718565
+			text = ""
+		intervals [48]:
+			xmin = 174.797959718565
+			xmax = 178.26418892134
+			text = "Are you still able to eat, and drink?"
+		intervals [49]:
+			xmin = 178.26418892134
+			xmax = 185.257463723702
+			text = ""
+		intervals [50]:
+			xmin = 185.257463723702
+			xmax = 185.899353729874
+			text = "OK."
+		intervals [51]:
+			xmin = 185.899353729874
+			xmax = 191.385863841225
+			text = ""
+		intervals [52]:
+			xmin = 191.385863841225
+			xmax = 196.095342833893
+			text = "Sure. So but you're you're still able to drink quite a bit yeah? You're drinking plenty."
+		intervals [53]:
+			xmin = 196.095342833893
+			xmax = 198.216970361731
+			text = ""
+		intervals [54]:
+			xmin = 198.216970361731
+			xmax = 200.358868266577
+			text = "OK. Excellent."
+		intervals [55]:
+			xmin = 200.358868266577
+			xmax = 202.122385800587
+			text = ""
+		intervals [56]:
+			xmin = 202.122385800587
+			xmax = 207.32511063381
+			text = "OK, and, um, what have you take, have you taken anything so far for the diarrhea?"
+		intervals [57]:
+			xmin = 207.32511063381
+			xmax = 209.568360423703
+			text = ""
+		intervals [58]:
+			xmin = 209.568360423703
+			xmax = 212.69675000966
+			text = "Nothing yet, OK. Anything for the abdominal pain?"
+		intervals [59]:
+			xmin = 212.69675000966
+			xmax = 216.068384119726
+			text = ""
+		intervals [60]:
+			xmin = 216.068384119726
+			xmax = 224.433287766371
+			text = "OK. Right, and any <UNIN/> unfortunately we don't have any of your past medical history, is there anything you'd like to say?"
+		intervals [61]:
+			xmin = 224.433287766371
+			xmax = 231.669807092842
+			text = ""
+		intervals [62]:
+			xmin = 231.669807092842
+			xmax = 232.102236536587
+			text = "Mm-hmm."
+		intervals [63]:
+			xmin = 232.102236536587
+			xmax = 235.021165560116
+			text = ""
+		intervals [64]:
+			xmin = 235.021165560116
+			xmax = 239.379291351293
+			text = "OK and uh, are you, any, uh, anything else other than asthma?"
+		intervals [65]:
+			xmin = 239.379291351293
+			xmax = 244.561745807507
+			text = ""
+		intervals [66]:
+			xmin = 244.561745807507
+			xmax = 245.304987698725
+			text = "OK."
+		intervals [67]:
+			xmin = 245.304987698725
+			xmax = 246.838774293298
+			text = ""
+		intervals [68]:
+			xmin = 246.838774293298
+			xmax = 247.771206369935
+			text = "Yeah <INAUDIBLE_SPEECH/>."
+		intervals [69]:
+			xmin = 247.771206369935
+			xmax = 251.433382550465
+			text = ""
+		intervals [70]:
+			xmin = 251.433382550465
+			xmax = 257.494220010407
+			text = "Ohh dear, OK. Bowel cancer. Ten years ago. And how old was he when he died?"
+		intervals [71]:
+			xmin = 257.494220010407
+			xmax = 260.419905826273
+			text = ""
+		intervals [72]:
+			xmin = 260.419905826273
+			xmax = 266.561824794252
+			text = "K, and um, you mentioned you had asthma, are you using any inhalers at all?"
+		intervals [73]:
+			xmin = 266.561824794252
+			xmax = 268.426694213307
+			text = ""
+		intervals [74]:
+			xmin = 268.426694213307
+			xmax = 269.379396666953
+			text = "Which ones?"
+		intervals [75]:
+			xmin = 269.379396666953
+			xmax = 272.014540412355
+			text = ""
+		intervals [76]:
+			xmin = 272.014540412355
+			xmax = 272.588862495163
+			text = "Sorry?"
+		intervals [77]:
+			xmin = 272.588862495163
+			xmax = 275.325358125611
+			text = ""
+		intervals [78]:
+			xmin = 275.325358125611
+			xmax = 276.953739812893
+			text = "<UNIN/> <UNSURE>Laxepro</UNSURE>."
+		intervals [79]:
+			xmin = 276.953739812893
+			xmax = 279.845641667077
+			text = ""
+		intervals [80]:
+			xmin = 279.845641667077
+			xmax = 284.872689899555
+			text = "OK, not heard of it may. Is it <UNSURE>like</UNSURE> Salbutamol? Is it like a blue colour?"
+		intervals [81]:
+			xmin = 284.872689899555
+			xmax = 287.413238552247
+			text = ""
+		intervals [82]:
+			xmin = 287.413238552247
+			xmax = 292.102447167906
+			text = "Yellow, OK. I'll have to check that one, not sure. <UNSURE>Laxepro</UNSURE>."
+		intervals [83]:
+			xmin = 292.102447167906
+			xmax = 293.764612816871
+			text = ""
+		intervals [84]:
+			xmin = 293.764612816871
+			xmax = 298.734434
+			text = "OK. Um, that's fine. Any other medication that you're using?"
+		intervals [85]:
+			xmin = 298.734434
+			xmax = 299.362929787582
+			text = ""
+		intervals [86]:
+			xmin = 299.362929787582
+			xmax = 301.202202
+			text = "<UNIN/> Over the counter, anything at all?"
+		intervals [87]:
+			xmin = 301.202202
+			xmax = 302.280065792959
+			text = ""
+		intervals [88]:
+			xmin = 302.280065792959
+			xmax = 308.514685221387
+			text = "<INAUDIBLE_SPEECH/> OK. Right. Any allergies?"
+		intervals [89]:
+			xmin = 308.514685221387
+			xmax = 312.676864034808
+			text = ""
+		intervals [90]:
+			xmin = 312.676864034808
+			xmax = 335.285085926525
+			text = "No allergies at all, righty <UNIN/>. Fine so, obviously, you know you just have diarrhea it's about four to five times a day. Um, you're still drinking plenty and you look like you're not dehydrated which is a good sign, OK? Um, when we start worrying about diarrhea is if you're going more than eight times a day."
+		intervals [91]:
+			xmin = 335.285085926525
+			xmax = 345.412335
+			text = "That means probably you are, you know, whatever you're eating is going straight through, OK? You still need to drink plenty of water because you're losing a lot of fluids."
+		intervals [92]:
+			xmin = 345.412335
+			xmax = 346.204489490646
+			text = ""
+		intervals [93]:
+			xmin = 346.204489490646
+			xmax = 360.798723257097
+			text = "OK, when you go to the toilet. Um, things that one would advise is a soft diet. So avoid dairy, fish, meat, eggs, while you're having the diarrhea. <UNSURE>Go</UNSURE>, sorry?"
+		intervals [94]:
+			xmin = 360.798723257097
+			xmax = 366.298746953121
+			text = ""
+		intervals [95]:
+			xmin = 366.298746953121
+			xmax = 392.335076
+			text = "OK, so that will be like crackers, toast, jam, those kind of things that's easily digested. Like what we <UNSURE>are good</UNSURE> give babies yeah. When they start eating you give, simple food for babies. You don't give eggs or meat the first time they start feeding. So that's the kind of soft diet we're talking about, yeah? Once you are able to, you know keep most of it in, you can start off with some just boiled vegetables and mash."
+		intervals [96]:
+			xmin = 392.335076
+			xmax = 393.078631546276
+			text = ""
+		intervals [97]:
+			xmin = 393.078631546276
+			xmax = 406.130027244465
+			text = "Once you're OK with that for about forty-eight hours then you can start having meat. So just don't have meat <INAUDIBLE_SPEECH/> <UNSURE>once</UNSURE> you feel like you're slightly better, because you might go back to square one again, all <UNSURE>right</UNSURE>?"
+		intervals [98]:
+			xmin = 406.130027244465
+			xmax = 409.109767399022
+			text = ""
+		intervals [99]:
+			xmin = 409.109767399022
+			xmax = 418.434135557432
+			text = "<UNIN/> Forty-eight hours you're not having any diarrhea, you're fine then you can go and start having meat, egg, fish and <UNSURE>all</UNSURE>. So that <INAUDIBLE_SPEECH/>."
+		intervals [100]:
+			xmin = 418.434135557432
+			xmax = 426.902138203011
+			text = ""
+		intervals [101]:
+			xmin = 426.902138203011
+			xmax = 447.32616905619
+			text = "No, no, no <UNIN/> preferably just don't because, what why do we say this? It's because it takes much more time for meat to get digested. So because your gut flora, you know, the, the, the bacteria in your gut is not you know as it should be, it takes a bit more effort for one to digest these food."
+		intervals [102]:
+			xmin = 447.32616905619
+			xmax = 453.91403631837
+			text = "While it doesn't take that much of an effort to, you know digest mash and vegetables. Does that make sense?"
+		intervals [103]:
+			xmin = 453.91403631837
+			xmax = 455.191064804161
+			text = ""
+		intervals [104]:
+			xmin = 455.191064804161
+			xmax = 471.035737567169
+			text = "Yeah? So, um, at the same time you could have some, although you can't <UNIN/> milk is not a good idea, yoghurts are a good idea because they <UNSURE>are</UNSURE> probiotics, it help to build up the normal, um gut, gut bacteria back."
+		intervals [105]:
+			xmin = 471.035737567169
+			xmax = 472.035737567169
+			text = ""
+		intervals [106]:
+			xmin = 472.035737567169
+			xmax = 472.574938
+			text = "OK."
+		intervals [107]:
+			xmin = 472.574938
+			xmax = 473.119487766835
+			text = ""
+		intervals [108]:
+			xmin = 473.119487766835
+			xmax = 491.333131214063
+			text = "So those kinda, now, things to look out for, if your diarrhoea doesn't go away in a week's time, or if you're passing blood, we need a stool sample, because that means you <UNIN/> you may have <UNIN/>, um, some particular bugs that might need treatment with antibiotics."
+		intervals [109]:
+			xmin = 491.333131214063
+			xmax = 493.204757425455
+			text = ""
+		intervals [110]:
+			xmin = 493.204757425455
+			xmax = 512.029175608804
+			text = "OK. If you're again, as I've mentioned previously if you're going about six to eight times a day, that means there's a high chance that, uh, you are, having <UNIN/> dehydration and you might need to go into hospital at that point in time. If that happens you get in touch with us again, all right?"
+		intervals [111]:
+			xmin = 512.029175608804
+			xmax = 515.339998587843
+			text = ""
+		intervals [112]:
+			xmin = 515.339998587843
+			xmax = 517.529194039044
+			text = "Any questions? You look a bit confused."
+		intervals [113]:
+			xmin = 517.529194039044
+			xmax = 520.340014385191
+			text = ""
+		intervals [114]:
+			xmin = 520.340014385191
+			xmax = 533.245482481878
+			text = "Yeah? OK and also you could get something called Dioralyte over the counter. So, it helps to uh, replenish your, the salts that you've been, that's lost through going to the toilet."
+		intervals [115]:
+			xmin = 533.245482481878
+			xmax = 535.069811146915
+			text = ""
+		intervals [116]:
+			xmin = 535.069811146915
+			xmax = 551.745569367297
+			text = "OK? If you're a bit confused you know you can actually, uh, all this is all recorded in your app. So you can go back. I'll put that all in detail so if, you know I know sometimes it's a bit difficult to process everything, you can go back and read, read the notes."
+		intervals [117]:
+			xmin = 551.745569367297
+			xmax = 552.928002760379
+			text = ""
+		intervals [118]:
+			xmin = 552.928002760379
+			xmax = 554.301588
+			text = "Is that OK?"
+		intervals [119]:
+			xmin = 554.301588
+			xmax = 555.19071188482
+			text = ""
+		intervals [120]:
+			xmin = 555.19071188482
+			xmax = 557.313155720901
+			text = "All right then, you take care."
+		intervals [121]:
+			xmin = 557.313155720901
+			xmax = 558.522616283329
+			text = ""
+		intervals [122]:
+			xmin = 558.522616283329
+			xmax = 559.461150617052
+			text = "Bye now, bye bye."
+		intervals [123]:
+			xmin = 559.461150617052
+			xmax = 560.279977324263
+			text = ""
+
