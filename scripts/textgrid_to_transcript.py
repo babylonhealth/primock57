@@ -1,6 +1,6 @@
 import os
 from glob import glob
-from scripts.utils import get_utterances_textgrid
+from scripts.utils import get_utterances_textgrid, strip_transcript_tags
 
 
 def get_combined_transcript(transcript_path_doctor, transcript_path_patient):
@@ -12,7 +12,8 @@ def get_combined_transcript(transcript_path_doctor, transcript_path_patient):
         u['speaker'] = 'Patient'
     combined_utterances = utterances_doctor + utterances_patient
     combined_utterances.sort(key=lambda x: x['from'])
-    return [f"{u['speaker']}: {u['text']}" for u in combined_utterances]
+    return [f"{u['speaker']}: {strip_transcript_tags(u['text'])}"
+            for u in combined_utterances]
 
 
 def __parse_args():

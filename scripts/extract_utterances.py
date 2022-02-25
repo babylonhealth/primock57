@@ -3,7 +3,7 @@ from glob import glob
 from tqdm import tqdm
 
 from scripts.utils import get_utterances_textgrid,\
-    get_partial_audio, write_wave
+    get_partial_audio, write_wave, preprocess_text
 
 
 def __parse_args():
@@ -54,8 +54,9 @@ def main():
                                              'transcript.ref.txt')
     with open(reference_transcript_path, 'w') as f:
         for utt_id, utt in all_utterances.items():
-            f.write(f"{utt['text']} ({utt_id})\n")
-
+            cleaned_text = preprocess_text(utt['text'])
+            if len(cleaned_text) > 0:
+                f.write(f"{cleaned_text} ({utt_id})\n")
     print('Done!')
 
 

@@ -34,10 +34,20 @@ def write_wave(file_path, audio_frames):
         f.writeframes(audio_frames)
 
 
-def preprocess_reference(ref_str: str) -> str:
-    # Remove punctuation
-    ref_str = ref_str.replace('’', '\'')
-    ref_str = re.sub(r'<.*>', ' ', ref_str)
-    ref_str = re.sub(r'[^a-zA-Z\s\']', ' ', ref_str)
-    ref_str = re.sub(r'\s+', ' ', ref_str)
-    return ref_str.strip().lower()
+def strip_transcript_tags(text):
+    tags = ["<UNSURE>", "</UNSURE>", "<UNIN/>", "<INAUDIBLE_SPEECH/>"]
+    for t in tags:
+        text = text.replace(t, "")
+    text = re.sub(r'\s+', ' ', text)
+    text = text.lstrip().rstrip()
+    return text
+
+
+def preprocess_text(text):
+    text = strip_transcript_tags(text)
+    text = text.lower()
+    text = text.replace('-', ' ')
+    text = re.sub(r'[^a-z \']+', '', text)
+    text = re.sub(r'\s+', ' ', text)
+    text = text.lstrip().rstrip()
+    return text
