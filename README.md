@@ -1,4 +1,9 @@
 # PriMock57
+
+This repository contains the data and annotations described in the papers:
+* **PriMock57: A Dataset Of Primary Care Mock Consultations**
+* **Human Evaluation and Correlation with Automatic Metrics in Consultation Note Generation**
+
 Dataset of 57 mock medical primary care consultations, containing:
 1) Audio recordings of the consultations;
 2) Manual utterance-level transcriptions of the recordings;
@@ -58,3 +63,6 @@ transcripts. Usage: ```python textgrid_to_transcript.py
 - `extract_utterances.py`: Script to extract audio utterances & prepare 
 reference file for sclite. Usage: ```python extract_utterances.py 
 --audio_path=audio --transcript_path=transcripts --output_path=output```
+
+# Citing
+[...]
