@@ -16,6 +16,19 @@ def get_utterances_textgrid(tg_path):
     return utterances
 
 
+def get_utterances_audacity(aud_path):
+    with open(aud_path, 'r') as _f:
+        lines = _f.readlines()
+    utterances = []
+    for line in lines:
+        components = line.split('\t')
+        text = components[2].strip()
+        utterances.append({'text': text,
+                           'from': float(components[0]),
+                           'to': float(components[1])})
+    return utterances
+
+
 def get_partial_audio(audio_file_path, from_sec, to_sec):
     with wave.open(audio_file_path, 'rb') as f:
         framerate = f.getframerate()
