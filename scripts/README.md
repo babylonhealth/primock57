@@ -7,5 +7,7 @@ audio file. Please install Sox dependency (http://sox.sourceforge.net/)
 transcripts. Usage: ```python textgrid_to_transcript.py 
 --transcript_path=transcripts --output_path=output/joined_transcripts```
 - `extract_utterances.py`: Script to extract audio utterances & prepare 
-reference file for sclite. Usage: ```python extract_utterances.py 
+reference file for calculating Word Error Rate with sclite 
+(https://github.com/usnistgov/SCTK).
+- Usage: ```python extract_utterances.py 
 --audio_path=audio --transcript_path=transcripts --output_path=output```

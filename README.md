@@ -5,7 +5,7 @@ This repository contains the data and annotations described in the papers:
 * **Human Evaluation and Correlation with Automatic Metrics in Consultation Note Generation**
 
 The dataset consists of 57 mock medical primary care consultations held over 
-5 days by 7 Babylon Health clinicians and 57 Babylon Health employees acting 
+5 days by 7 Babylon clinicians and 57 Babylon employees acting 
 as patients, using case cards  with presenting complaints, symptoms, medical 
 & general history etc. The data in this repository includes:
 1) Audio recordings of the consultations (`audio` folder);
@@ -13,7 +13,8 @@ as patients, using case cards  with presenting complaints, symptoms, medical
 3) Consultation notes written by the consulting clinicians (`notes` folder);
 4) Human evaluation annotations & data (`human_eval_data` folder).
 
-The `scripts` folder includes some data transformation scripts.
+The `scripts` folder includes some data transformation scripts
+(utterance extraction, transcript collation etc.)
 
 More detailed descriptions are found in each folder's `README.md` files.
 
@@ -26,4 +27,20 @@ Due to their size, the audio files are stored using Git Large File Storage
 3. You can now clone this repository: `git clone https://github.com/babylonhealth/primock57.git`
 
 ### Citing
-[...]
+```
+@inproceedings{primock2022,
+  title={(in press): PriMock57: A Dataset Of Primary Care Mock Consultations},
+  author={Papadopoulos Korfiatis, Alex and Moramarco, Francesco and Sarac, Radmila and Savkov, Aleksandar},
+  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics},
+  year={2022}
+}
+```
+
+```
+@inproceedings{human-eval,
+  title={(In press): Human Evaluation and Correlation with Automatic Metrics in Consultation Note Generation},
+  author={Moramarco, Francesco and Papadopoulos Korfiatis, Alex and Perera, Mark and Juric, Damir and Flann, Jack and Reiter, Ehud and Belz, Anya and Savkov, Aleksandar},
+  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics},
+  year={2022}
+}
+```
