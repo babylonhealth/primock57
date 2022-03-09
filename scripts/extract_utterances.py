@@ -2,7 +2,7 @@ import os
 from glob import glob
 from tqdm import tqdm
 
-from scripts.utils import get_utterances_textgrid,\
+from utils import get_utterances_textgrid,\
     get_partial_audio, write_wave, preprocess_text
 
 

@@ -1,6 +1,6 @@
 import os
 from glob import glob
-from scripts.utils import get_utterances_textgrid, strip_transcript_tags
+from utils import get_utterances_textgrid, strip_transcript_tags
 
 
 def get_combined_transcript(transcript_path_doctor, transcript_path_patient):
