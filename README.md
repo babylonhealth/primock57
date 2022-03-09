@@ -26,6 +26,10 @@ Due to their size, the audio files are stored using Git Large File Storage
 2. Set up Git LFS for your user account: `git lfs install`
 3. You can now clone this repository: `git clone https://github.com/babylonhealth/primock57.git`
 
+### Contacts
+* Alex Papadopoulos Korfiatis (alex.papadopoulos@babylonhealth.com)
+* Francesco Moramarco (francesco.moramarco@babylonhealth.com)
+
 ### Citing
 ```
 @inproceedings{primock2022,
