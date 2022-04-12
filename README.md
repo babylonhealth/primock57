@@ -32,7 +32,7 @@ Due to their size, the audio files are stored using Git Large File Storage
 
 ### Citing
 ```
-@inproceedings{primock2022,
+@inproceedings{korfiatis2022primock57,
   title={(in press): PriMock57: A Dataset Of Primary Care Mock Consultations},
   author={Papadopoulos Korfiatis, Alex and Moramarco, Francesco and Sarac, Radmila and Savkov, Aleksandar},
   booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics},
@@ -41,7 +41,7 @@ Due to their size, the audio files are stored using Git Large File Storage
 ```
 
 ```
-@inproceedings{human-eval,
+@inproceedings{moramarco2022human,
   title={(In press): Human Evaluation and Correlation with Automatic Metrics in Consultation Note Generation},
   author={Moramarco, Francesco and Papadopoulos Korfiatis, Alex and Perera, Mark and Juric, Damir and Flann, Jack and Reiter, Ehud and Belz, Anya and Savkov, Aleksandar},
   booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics},
