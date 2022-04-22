@@ -1,8 +1,8 @@
 # PriMock57
 
 This repository contains the data and annotations described in the papers:
-* **PriMock57: A Dataset Of Primary Care Mock Consultations**
-* **Human Evaluation and Correlation with Automatic Metrics in Consultation Note Generation**
+* [**PriMock57: A Dataset Of Primary Care Mock Consultations**](https://arxiv.org/abs/2204.00333)
+* [**Human Evaluation and Correlation with Automatic Metrics in Consultation Note Generation**](https://arxiv.org/abs/2204.00447)
 
 The dataset consists of 57 mock medical primary care consultations held over 
 5 days by 7 Babylon clinicians and 57 Babylon employees acting 
